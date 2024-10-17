@@ -8,24 +8,12 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Research"
-    url: /research/  
-
   - title: "Publications"
     url: /publications/ 
-
-  - title: "Projects"
-    url: /projects/  
 
   - title: "Teaching"
     url: /teaching/   
     
   - title: "CV"
     url: /cv/
-        
-  - title: "Tools"
-    url: /tools/
-    
-  - title: "Media"
-    url: /media/
 
