@@ -1,0 +1,39 @@
+/* ==========================================================================
+   Profiles
+   ========================================================================== */
+
+.profiles {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.profile {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+  }
+  
+.profile img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
+.profile h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+.profile p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+.profile .bio {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333;
+  }
+  
