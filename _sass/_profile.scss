@@ -32,20 +32,20 @@
   }
   
   .profile-text h2 {
-    font-size: 1.5em;
+    font-size: $type-size-5;
     margin: 10px 0;
     font-weight: bold;
   }
   
   .profile-text p {
-    font-size: 1.2em;
-    color: #666;
+    font-size: $type-size-6;
+    color: $text-color;
   }
   
   .profile-text .bio {
     margin-top: 10px;
-    font-size: 1em;
-    color: #333;
+    font-size: $type-size-6;
+    color: $text-color;
   }
   
   
