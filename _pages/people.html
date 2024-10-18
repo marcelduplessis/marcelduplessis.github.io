@@ -7,8 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+<div class="profiles">
+  {% for person in site.people %}
+    <div class="profile">
+      <img src="{{ person.photo }}" alt="{{ person.name }}">
+      <h2>{{ person.name }}</h2>
+      <p>{{ person.position }}</p>
+      <div class="bio">
+        {{ person.content }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
-{% for post in site.people %}
-  {% include archive-single.html %}
-{% endfor %}
 
