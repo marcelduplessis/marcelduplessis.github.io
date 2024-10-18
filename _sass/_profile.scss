@@ -1,7 +1,7 @@
 /* ==========================================================================
    Profiles
    ========================================================================== */
-   
+
    .profiles {
     display: flex;
     flex-wrap: wrap;
@@ -34,6 +34,7 @@
   .profile-text h2 {
     font-size: 1.5em;
     margin: 10px 0;
+    font-weight: bold;
   }
   
   .profile-text p {
