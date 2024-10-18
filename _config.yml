@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "sv"
+locale                   : "en-US"
 title                    : "Marcel du Plessis"
 title_separator          : "-"
 name                     : &name "Marcel du Plessis"
