@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
-
   - title: "People"
     url: /people/    
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/    
@@ -22,7 +22,4 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
 
