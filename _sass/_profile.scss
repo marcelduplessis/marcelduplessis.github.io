@@ -1,39 +1,50 @@
 /* ==========================================================================
    Profiles
    ========================================================================== */
-
-.profiles {
+   
+   .profiles {
     display: flex;
     flex-wrap: wrap;
   }
   
-.profile {
+  .profile {
+    display: flex;
     margin: 20px;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    width: 200px;
-    text-align: center;
+    width: 100%;
+    max-width: 600px;
   }
   
-.profile img {
+  .profile-image {
+    flex: 0 0 150px;
+    margin-right: 20px;
+  }
+  
+  .profile-image img {
     max-width: 100%;
     border-radius: 50%;
   }
   
-.profile h2 {
+  .profile-text {
+    flex: 1;
+  }
+  
+  .profile-text h2 {
     font-size: 1.5em;
     margin: 10px 0;
   }
   
-.profile p {
+  .profile-text p {
     font-size: 1.2em;
     color: #666;
   }
   
-.profile .bio {
+  .profile-text .bio {
     margin-top: 10px;
     font-size: 1em;
     color: #333;
   }
+  
   

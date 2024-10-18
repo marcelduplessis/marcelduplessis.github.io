@@ -10,14 +10,16 @@ author_profile: true
 <div class="profiles">
   {% for person in site.people %}
     <div class="profile">
-      <img src="{{ person.photo }}" alt="{{ person.name }}">
-      <h2>{{ person.name }}</h2>
-      <p>{{ person.position }}</p>
-      <div class="bio">
-        {{ person.content }}
+      <div class="profile-image">
+        <img src="{{ person.photo }}" alt="{{ person.name }}">
+      </div>
+      <div class="profile-text">
+        <h2>{{ person.name }}</h2>
+        <p>{{ person.position }}</p>
+        <div class="bio">
+          {{ person.content }}
+        </div>
       </div>
     </div>
   {% endfor %}
 </div>
-
-
