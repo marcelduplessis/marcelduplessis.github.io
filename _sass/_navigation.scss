@@ -31,7 +31,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: mix(#fff, $darker-gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
