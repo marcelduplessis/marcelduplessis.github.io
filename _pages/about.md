@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I work as a researcher with the [Polar Gliders](www.sebswart.com) team in the [Department of Marine Sciences, University of Gothenburg](https://www.gu.se/en/marina-vetenskaper). I completed my PhD at the [University of Cape Town](https://science.uct.ac.za/department-oceanography) in 2018 working with Sebastiaan Swart at the [Southern Ocean Carbon-Climate Observatory](http://socco.org.za/). I moved to Sweden in 2020 for a Postdoctoral Fellowship, whereafter I completed a [Marie Skłodowska-Curie Fellowship](https://cordis.europa.eu/project/id/101032683/reporting). 
+I work as a researcher with the [Polar Gliders](www.sebswart.com) team in the [Department of Marine Sciences, University of Gothenburg](https://www.gu.se/en/marina-vetenskaper). I completed my Ph.D. in Ocean & Atmopsheric Sciences at the [University of Cape Town](https://science.uct.ac.za/department-oceanography) in 2018 working with Sebastiaan Swart and Isabelle Ansorge. I worked primarily with the [Southern Ocean Carbon-Climate Observatory](http://socco.org.za/) during this time. I completed a postdoc with Sarah Nicholson at SOCCO in 2019. I moved to Sweden in 2020 for a postdoc, whereafter I completed a [Marie Skłodowska-Curie Fellowship](https://cordis.europa.eu/project/id/101032683/reporting).
 
-*Other roles:*
+My other roles include:
 - Co-chair: SOOS [Southern Ocean Observing System air-sea fluxes (SOFLUX)](https://soos.aq/activities/cwg/soflux)
 - Co-lead: [FAIR data, models, and products task team](https://airseaobs.org/FAIR-data) of the [Observing Air-Sea Interactions Strategy (OASIS)](https://airseaobs.org/) UN Decade programme.
 
