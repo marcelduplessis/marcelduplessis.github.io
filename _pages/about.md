@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a researcher in the [Department of Marine Science, University of Gothenburg](https://www.gu.se/en/marina-vetenskaper) working to understand the physics that moduate the air-sea exchange of energy, water, and CO2 so that we can accurately predict future climate. In my research, I primarily use data from ocean observing instruments such as autonomous ocean robotics, research ships, and moorings. The results are used to investigate the accuracy of climate model and reduce their uncertainties. I work in the Marine Science department at the University of Gothenburg with the Polar Gliders Research Group.
+
+I am also acting as the co-chair of the Southern Ocean Observing System air-sea fluxes (SOFLUX) working group and co-lead the FAIR data theme team of the Observing Air-Sea Interactions Strategy (OASIS) UN Decade programme..
 
 A data-driven personal website
 ======
