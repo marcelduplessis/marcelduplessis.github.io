@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a research scientist with the [Polar Gliders](www.sebswart.com) team in the
 
 In addition to my research responsbilities, I am also the co-chair of the [Southern Ocean Observing System air-sea fluxes (SOFLUX)](https://soos.aq/activities/cwg/soflux) and co-lead for the [FAIR data, models, and products task team](https://airseaobs.org/FAIR-data) of the [Observing Air-Sea Interactions Strategy (OASIS)](https://airseaobs.org/) UN Decade programme.
 
-Research
+My research
 ======
-My main research interest is to study the ocean's role in climate. I study the processes that regulate the movement of climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere and ocean. I focus on the upper ocean physical flow dynamics and air-sea interactions, mainly using data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles. I combine these data with remotely sensed satellite data and numerical ocean-atmosphere models. 
+My main research interest is the ocean's role in climate. I study the processes that regulate the movement of climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere and ocean. I focus on the upper ocean physical flow dynamics and air-sea interactions, mainly using data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles. I combine these data with remotely sensed satellite data and numerical ocean-atmosphere models. 
 
