@@ -1,5 +1,5 @@
 ---
-title: "Johan Edholm"
+name: "Johan Edholm"
 position: "PhD candidate"
 photo: /images/johan.png
 collection: people

@@ -1,5 +1,5 @@
 ---
-title: "Renske Koets"
+name: "Renske Koets"
 position: "Masters"
 photo: /images/renske.png
 collection: people

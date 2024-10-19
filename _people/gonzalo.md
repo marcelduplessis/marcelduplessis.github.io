@@ -1,5 +1,5 @@
 ---
-title: "Gonzalo Ruiz"
+name: "Gonzalo Ruiz"
 position: "Masters"
 photo: /images/gonzalo.png
 collection: people

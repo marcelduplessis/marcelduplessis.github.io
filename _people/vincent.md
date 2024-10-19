@@ -1,5 +1,5 @@
 ---
-title: "Vincent Doriot"
+name: "Vincent Doriot"
 position: "PhD candidate"
 photo: /images/vincent.png
 collection: people

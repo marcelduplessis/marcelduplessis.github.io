@@ -1,5 +1,5 @@
 ---
-title: "Theo Spira"
+name: "Theo Spira"
 position: "PhD candidate"
 photo: /images/theo.png
 collection: people
