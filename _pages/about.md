@@ -13,5 +13,5 @@ In addition to my research responsbilities, I am also the co-chair of the [South
 
 My research
 ======
-My main research interest is the ocean's role in climate. I study the processes that regulate the movement of climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere and ocean. I focus on the upper ocean physical flow dynamics and air-sea interactions, mainly using data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles. I combine these data with remotely sensed satellite data and numerical ocean-atmosphere models. 
+My main research interest is the ocean's role in climate. My goal is to contribute to improved knowledge on the movement of climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere and ocean. In particular, I study the processes responsible for regulating upper ocean physical flow dynamics and air-sea interactions, such as atmospheric storms and ocean eddies. I mainly use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, and I combine these data with remotely sensed satellite data and numerical ocean-atmosphere models. 
 
