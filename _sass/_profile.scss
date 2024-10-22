@@ -35,13 +35,13 @@
   }
   
   .profile-text p {
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     color: $text-color;
   }
   
   .profile-text .bio {
-    margin-top: 8px;
-    font-size: $type-size-6;
+    margin-top: 0px;
+    font-size: $type-size-5;
     color: $text-color;
   }
 
@@ -52,7 +52,7 @@
    @media (max-width: 600px) {
     .profile {
       flex-direction: column;
-      align-items: center;
+      align-items: left;
     }
   
     .profile-image {
@@ -61,6 +61,6 @@
     }
   
     .profile-text {
-      text-align: center;
+      text-align: left;
     }
   }
