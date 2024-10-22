@@ -44,5 +44,23 @@
     font-size: $type-size-6;
     color: $text-color;
   }
+
+/* ==========================================================================
+   Responsive Styles
+   ========================================================================== */
+
+   @media (max-width: 600px) {
+    .profile {
+      flex-direction: column;
+      align-items: center;
+    }
   
+    .profile-image {
+      margin-right: 0;
+      margin-bottom: 20px;
+    }
   
+    .profile-text {
+      text-align: center;
+    }
+  }
