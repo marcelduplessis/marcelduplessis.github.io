@@ -5,4 +5,4 @@ photo: /images/gonzalo.png
 collection: people
 ---
 
-Gonzalo is a Master’s student in Physical Oceanography at University of Gothenburg, who completed a double bachelor degree in Sea and Environmental Sciences and at University of Cadiz, Spain. The aim of his Masters thesis is to investigate which ocean versus atmospheric drivers are responsible for CO2 flux variability in the Cape Basin. This project is a contribution to the NSF QUICCHE project. He is supervised by myself and Sebastiaan Swart.
+The aim of Gonzalo's masters is to investigate the respective role of ocean versus atmospheric drivers of CO2 flux variability in the Cape Basin using Wave Glider observations and CO2 reconstruction products. He is working with Sebastiaan Swart, Sarah Nicholson from SOCCO, and myself, and is linked to the QUICCHE project.
