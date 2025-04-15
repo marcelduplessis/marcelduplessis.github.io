@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist with the [Polar Gliders](www.sebswart.com) team in the [Department of Marine Sciences, University of Gothenburg](https://www.gu.se/en/marina-vetenskaper). Before this, I completed a [Marie Skłodowska-Curie Fellowship](https://cordis.europa.eu/project/id/101032683/reporting) with Sebastiaan Swart at the University of Gothenburg and a Postdoctoral Fellowship with Sarah Nicholson at [Southern Ocean Carbon-Climate Observatory](http://socco.org.za/). I completed my  Ph.D. in Ocean & Atmopsheric Sciences at the [University of Cape Town](https://science.uct.ac.za/department-oceanography) in 2018 working with Sebastiaan Swart - who was at SOCCO at the time - Isabelle Ansorge and Amala Mahadevan. 
+Hi, I'm an oceanographer/climate scientists in the [Department of Marine Sciences, University of Gothenburg](https://www.gu.se/en/marina-vetenskaper). I am working within the [Polar Gliders](www.sebswart.com) team. In 2023, I completed a [Marie Skłodowska-Curie Fellowship](https://cordis.europa.eu/project/id/101032683/reporting) at the University of Gothenburg working with Sebastiaan Swart and the SO-CHIC EU Horizon 2020 project. Before that, I completed a Postdoctoral Fellowship with Sarah Nicholson at [Southern Ocean Carbon-Climate Observatory](http://socco.org.za/). I obtained my Ph.D. in Ocean & Atmopsheric Sciences at the [University of Cape Town](https://science.uct.ac.za/department-oceanography) in 2018 working with Sebastiaan Swart, who was at SOCCO at the time, Isabelle Ansorge and Amala Mahadevan. 
 
-In addition to my research responsbilities, I am also the co-chair of the [Southern Ocean Observing System air-sea fluxes (SOFLUX)](https://soos.aq/activities/cwg/soflux) and co-lead for the [FAIR data, models, and products task team](https://airseaobs.org/FAIR-data) of the [Observing Air-Sea Interactions Strategy (OASIS)](https://airseaobs.org/) UN Decade programme.
+In addition to my research responsbilities, I am also the co-chair of the [Southern Ocean Observing System air-sea fluxes (SOFLUX)](https://soos.aq/activities/cwg/soflux) and co-lead for the [FAIR data, models, and products task team](https://airseaobs.org/FAIR-data) of the [Observing Air-Sea Interactions Strategy (OASIS)](https://airseaobs.org/) UN Decade Programme.
 
 My research
 ======
