@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm an oceanographer/climate scientist in the [Department of Marine Sciences, University of Gothenburg](https://www.gu.se/en/marina-vetenskaper). I have been working within the [Polar Gliders](www.sebswart.com) team since 2020, when I moved to Sweden from my home country South Africa. 
+I'm an oceanographer in the Department of Marine Sciences at the University of Gothenburg, working with the [Polar Gliders](www.sebswart.com) as a researcher. 
 
 In 2023, I completed a [Marie Skłodowska-Curie Fellowship](https://cordis.europa.eu/project/id/101032683/reporting) working with Sebastiaan Swart and the SO-CHIC EU Horizon 2020 project and before that I had a Postdoctoral Fellowship with Sarah Nicholson at [Southern Ocean Carbon-Climate Observatory](http://socco.org.za/). I obtained my Ph.D. in Ocean & Atmopsheric Sciences at the [University of Cape Town](https://science.uct.ac.za/department-oceanography) in 2018 working on understanding the role of submesoscale processes on mixing in the Southern Ocean. 
 
