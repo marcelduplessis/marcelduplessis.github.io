@@ -17,7 +17,7 @@ My research
 ======
 My main research interest is the ocean's role in climate. My goal is to contribute to improved knowledge on the movement of climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere and ocean. In particular, I study the processes responsible for regulating upper ocean physical flow dynamics and air-sea interactions, such as atmospheric storms and ocean eddies. I mainly use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, and I combine these data with remotely sensed satellite data and numerical ocean-atmosphere models. 
 
-My focus is currently on two research projects. A Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant funded 2025-2028 on [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty] (https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty) and the ERC Synergy Projetct [WHIRLS] (www.whirls.eu). 
+My focus is currently on two research projects. A Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant funded 2025-2028 on [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty) and the ERC Synergy Projetct [WHIRLS](www.whirls.eu). 
 
 Opportunities
 ======
