@@ -10,8 +10,13 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include span(12 of 12 last);
+    @include prefix(2.5 of 12);  // <--- CHANGE THIS FROM 0.5 to 2
+  }
+
+  @include breakpoint($x-large) {
+    @include span(12 of 12 last);
+    @include prefix(2.5 of 12);   // <--- CHANGE THIS FROM 0.5 to 2
   }
 
   a {
@@ -41,7 +46,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $serif;
 
   a + a {
     opacity: 0.5;
@@ -209,7 +214,7 @@
       text-align: right;
 
       .archive__item-teaser {
-        @include span(5 of 12 rtl);
+        @include span(7 of 12 rtl);
       }
 
       .archive__item-body {

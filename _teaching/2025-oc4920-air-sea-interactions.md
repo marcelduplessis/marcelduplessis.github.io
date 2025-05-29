@@ -1,9 +1,9 @@
 ---
-title: "OC4920 - Observing the Ocean from Micro to Macro Scales"
+title: "Observing the Ocean from Micro to Macro Scales (OC4920)"
 collection: teaching
-type: "Masters in marine science course"
+type: "Masters course in marine science"
 permalink: /teaching/2025-oc4920
-venue: "University of Gothenburg, Marine Sciences"
+venue: "University of Gothenburg, Department of Marine Sciences"
 date: 2025-05-28
 location: "Gothenburg, Sweden"
 ---

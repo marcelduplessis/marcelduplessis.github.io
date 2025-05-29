@@ -32,6 +32,7 @@
   }
 
   @include breakpoint($x-large) {
+    @include span(2 of 12);
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
@@ -63,7 +64,7 @@
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    margin-left: span(0 of 12);
     z-index: 10;
   }
 

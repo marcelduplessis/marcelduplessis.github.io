@@ -1,0 +1,17 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    {% if post.citation %}
+      <p class="archive__item-citation">{{ post.citation }}
+      {% if post.paperurl %}
+        doi: <a href="{{ post.paperurl }}">{{ post.paperurl }}</a>
+      {% elsif post.url %} {# Fallback if you use 'url' instead of 'paperurl' for DOI #}
+        doi: <a href="{{ post.url }}">{{ post.url }}</a>
+      {% endif %}
+      </p>
+    {% endif %}
+
+  </article>
+</div>
