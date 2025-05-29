@@ -11,10 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
+    {% assign posts_in_category = site.publications | where:"category", category[0] %}
+    {% assign total_publications_in_category = posts_in_category | size %}
+    {% assign current_publication_number_category = total_publications_in_category %}
+
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
@@ -23,14 +26,16 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-pub.html %}
+      {% include archive-single-pub.html pub_number=current_publication_number_category %}
+      {% assign current_publication_number_category = current_publication_number_category | minus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% assign total_publications = site.publications | size %}
+  {% assign current_publication_number = total_publications %}
+
   {% for post in site.publications reversed %}
-    {% include archive-single-pub.html %}
+    {% include archive-single-pub.html pub_number=current_publication_number %}
+    {% assign current_publication_number = current_publication_number | minus: 1 %}
   {% endfor %}
 {% endif %}
-
-
-

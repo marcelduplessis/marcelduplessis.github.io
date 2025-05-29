@@ -14,7 +14,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-  z-index: 20;
+  z-index: 10;
 
   &__inner-wrap {
     @include container;
@@ -39,6 +39,10 @@
 
 .masthead__menu {
 
+  a {
+    font-size: $type-size-5; 
+  }
+
   ul {
     margin: 0;
     padding: 0;
@@ -53,7 +57,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 3.5em;
     font-weight: 700;
   }
 }

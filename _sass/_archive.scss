@@ -95,16 +95,20 @@
    ========================================================================== */
 
 .list__item {
+  @include breakpoint($small) {
+    padding-right: 0px !important;
+  }
+
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 0px !important;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    padding-right: 0px !important;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding-right: 0px !important;
   }
 
   .page__meta {
