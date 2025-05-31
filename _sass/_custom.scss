@@ -1,0 +1,11 @@
+/* _sass/_custom.scss */
+
+.author__name {
+  display: none !important;
+}
+
+.sidebar .author__name { /* Added for extra specificity if needed */
+  display: none !important;
+}
+
+$background-color: #f2dfce !important; // Example: Light gray
