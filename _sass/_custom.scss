@@ -9,3 +9,13 @@
 }
 
 $background-color: #f2dfce !important; // Example: Light gray
+
+.flush-right-year {
+  float: right;
+  white-space: nowrap; // Prevents the year from wrapping to the next line
+}
+
+.author__urls a {
+  font-size: 1em !important;
+}
+

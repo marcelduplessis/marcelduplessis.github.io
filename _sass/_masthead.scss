@@ -40,7 +40,7 @@
 .masthead__menu {
 
   a {
-    font-size: $type-size-5; 
+    font-size: $type-size-5 !important;
     font-family: $serif;
     color: $darker-gray !important;
   }
@@ -59,7 +59,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 3.5em;
+    padding-right: 4.2em;
     font-weight: 700;
   }
 }
