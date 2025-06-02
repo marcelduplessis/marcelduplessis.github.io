@@ -94,7 +94,7 @@ at Marion Island* \\
 ---
 **Courses I’ve developed material for and taught:**
 
-**Observing the Ocean from Micro to Macro Scale (OC4920)** University of Gothenburg <span class="flush-right-year">2020,2023,2025</span> \\
+**Observing the Ocean from Micro to Macro Scale (OC4920)** University of Gothenburg <span class="flush-right-year">2020, 2023, 2025</span> \\
 *Ocean buoyancy forcing and air-sea fluxes. Includes 3 days at sea on board the R/V Skagerak teaching on board ocean instrumentation and cruise planning (2 weeks).* \\
 **Tutorial on CO2 fluxes** SOLAS Summer School <span class="flush-right-year">2022</span> \\
 *Practical session on the calculation and interpretation of air-sea carbon fluxes from ship and mooring observations.*\\
