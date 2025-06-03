@@ -4,23 +4,21 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
+  position: static; /* Or remove this property entirely */
+  bottom: auto;    /* Or remove this property entirely */
   height: auto;
-  /* sticky footer fix end */
-  margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  margin-top: 3em; // Keep your desired top margin
+  color: $dark-gray;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color: $body-color;
   border-top: 1px solid $light-gray;
 
   footer {
@@ -30,6 +28,8 @@
     margin-top: 1em;
     max-width: 100%;
     padding: 0 1em 1em;
+    // ADD THIS LINE to center inline content like text and inline-blocks
+    text-align: center;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -55,7 +55,11 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-6;
+  // If .page__footer-copyright itself is a block, you might need to center it specifically
+  // display: block; // Ensure it's a block-level element if not already
+  // margin-left: auto;
+  // margin-right: auto;
 }
 
 .page__footer-follow {
@@ -63,6 +67,9 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    // If the ul itself needs centering (unlikely if text-align is on parent)
+    // display: inline-block; // Or flexbox
+    // text-align: center; // This will center its items if they are inline
   }
 
   li {
@@ -89,4 +96,20 @@
       white-space: nowrap;
     }
   }
+}
+
+html {
+  height: 100%; /* Ensures html takes full viewport height */
+}
+
+body.site { /* Target the body with the new class */
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  min-height: 100vh; /* Ensures body takes at least full viewport height */
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+}
+
+.site-content { /* The wrapper for header and main content */
+  flex-grow: 1; /* This is the magic! It makes this div expand to fill all available space */
 }
