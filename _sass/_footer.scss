@@ -9,10 +9,11 @@
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  position: static; /* Or remove this property entirely */
-  bottom: auto;    /* Or remove this property entirely */
+  position: absolute;
+  bottom: 0em;
   height: auto;
-  margin-top: 3em; // Keep your desired top margin
+  /* sticky footer fix end */
+  margin-top: 3em;
   color: $dark-gray;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -96,20 +97,4 @@
       white-space: nowrap;
     }
   }
-}
-
-html {
-  height: 100%; /* Ensures html takes full viewport height */
-}
-
-body.site { /* Target the body with the new class */
-  display: flex;
-  flex-direction: column; /* Stack children vertically */
-  min-height: 100vh; /* Ensures body takes at least full viewport height */
-  margin: 0; /* Remove default body margin */
-  padding: 0; /* Remove default body padding */
-}
-
-.site-content { /* The wrapper for header and main content */
-  flex-grow: 1; /* This is the magic! It makes this div expand to fill all available space */
 }
