@@ -21,6 +21,7 @@ My main research interest is the ocean's role in climate. My goal is to improve 
 - Researcher, University of Gothenburg
 - Co-chair of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the Southern Ocean Observing System
 - Co-lead FAIR Data Task Team of [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org)
+- [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org) Steering Committee
 
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Atmospheric mesoscale systems`; `Autonomous ocean observations` 
