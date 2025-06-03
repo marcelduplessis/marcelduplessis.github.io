@@ -22,3 +22,6 @@ We are offerring a PhD position to start in late 2025 / early 2026 on *Investiga
 - Co-chair of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the Southern Ocean Observing System
 - Co-lead FAIR Data Task Team of [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org)
 
+## Research interests
+`Air-sea interactions`; `Submesoscale dynamics`; `Atmospheric mesoscale systems`; `Autonomous ocean observations` 
+
