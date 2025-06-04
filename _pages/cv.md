@@ -63,7 +63,7 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 **Theo Spira** PhD Candidate, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2021 &ndash; current</span> \\
 *Observations of ventilation in the Southern Ocean* 
 
-**Graduated:**
+*Graduated:*
 
 **Daniel Clason** B.Sc. Oceanography, University of Gothenburg. Role: Lead-supervisor.  <span class="flush-right-year">2025</span> \\
 *Storm dynamics in the Agulhas Current* \\
@@ -92,7 +92,7 @@ at Marion Island* \\
 
 ## Teaching
 ---
-**Courses I’ve developed material for and taught:**
+*Courses I’ve developed material for and taught:*
 
 **Observing the Ocean from Micro to Macro Scale (OC4920)** University of Gothenburg <span class="flush-right-year">2020, 2023, 2025</span> \\
 *Air-sea interactions, with 3 days at sea on R/V Skagerak overseeing student-led cruise (2 weeks).* \\
@@ -112,11 +112,29 @@ Course lead for 2021. \\
 **SEAmester Research School at Sea** R/V S.A. Agulhas II <span class="flush-right-year">2016</span> \\
 *Ocean Instrumentation and Satellite Oceanography (10 days)* 
 
-**Teaching Assistant:**
+*Teaching Assistant:*
 
 **Observing the Ocean from Micro to Macro Scale (OC4920)** University of Gothenburg <span class="flush-right-year">2018</span> 
 
-**Tutoring:**
+*Tutoring:*
 
 **MATLAB programming for ocean science** Marine Masters Program, University of Cape Town <span class="flush-right-year">2016</span> \\
 **Ocean and Atmosphere Dynamics (SEA3004F) Undergraduate Course** University of Cape Town <span class="flush-right-year">2014, 2016</span> 
+
+## Research Expeditions
+---
+**Southern Ocean Carbon and Heat Impact on Climate Research Cruise** <span class="flush-right-year">2022</span> \\
+*Penguin Bukta, Antarctica, Weddell Sea, Southern Ocean*\\
+1 month – deploying Seagliders and Sailbuoys, operating CTD survey, R/V S.A. Agulhas II \\
+**South African National Antarctic Program Winter Cruise** University of Cape Town <span class="flush-right-year">2015</span> \\
+*Weddell Sea, Southern Ocean* \\
+5 weeks – deploying autonomous Seagliders, CTD survey, R/V S.A. Agulhas II \\
+**Southern Ocean Seasaonal Cycle Experiment** Southern Ocean Carbon-Climate Observatory <span class="flush-right-year">2013</span> \\
+*South Atlantic, Southern Ocean*
+5 weeks – lead for underway CTD survey, R/V S.A. Agulhas
+**The Coldest Journey** Raluph Fiennes Expedition, Southern Ocean Carbon-Climate Observatory <span class="flush-right-year">2013</span> \\
+*Goodhope Line Transect, Cape Town to Antarctica* \\
+6 weeks – lead for underway CTD survey, R/V S.A. Agulhas \\
+**South African National Antarctic Program Winter Cruise** University of Cape Town <span class="flush-right-year">2012</span> \\
+*Weddell Sea, Antarctica & Prince Edward Islands*
+5 weeks – underway CTD survey, R/V S.A. Agulhas II

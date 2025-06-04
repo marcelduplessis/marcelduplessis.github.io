@@ -2,10 +2,11 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 Hi, I'm a physical oceanographer in the Department of Marine Sciences, University of Gothenburg. 
 
 My main research interest is the ocean's role in climate. My goal is to improve our basic understanding of how physical ocean flow dynamics and air-sea interactions - such as atmospheric storms and ocean eddies - move climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere, surface ocean, and ocean interior. I use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, combined with remotely sensed satellite data and numerical ocean-atmosphere models. 
