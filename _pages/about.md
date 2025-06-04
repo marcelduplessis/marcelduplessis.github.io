@@ -14,7 +14,7 @@ My main research interest is the ocean's role in climate. My goal is to improve 
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
 ## Opportunities
-- We are [offering a PhD position](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723) to start in late 2025 / early 2026. Topic: The role of fine-scale ocean and atmosphere dynamics on Southern Ocean air-sea heat and CO2 exchange. Applications close 18 July 2025.
+- We are [offering a PhD position](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723) to start in late 2025 / early 2026. Topic: The role of fine-scale ocean and synoptic atmosphere variability on Southern Ocean air-sea heat and CO2 exchange. Applications close 18 July 2025.
 
 
 ## Current projects
