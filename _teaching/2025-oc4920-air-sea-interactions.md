@@ -10,4 +10,4 @@ location: "Gothenburg, Sweden"
 
 One-week module on introduction to air-sea interactions. I have taught three iterations of this module, autumn 2020, spring 2023, and spring 2025.
 
-Visit my course notes hosted on my [Github Pages site](https://marcelduplessis.github.io/air-sea-interactions-notes/).
+Visit my [course notes hosted on my Github Pages site](https://marcelduplessis.github.io/air-sea-interactions-notes/).

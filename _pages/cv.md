@@ -56,8 +56,6 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 
 ## Mentoring
 ---
-**Daniel Clason** B.Sc. Oceanography, University of Gothenburg. Role: Lead-supervisor.  <span class="flush-right-year">2025</span> \\
-*Storm dynamics in the Agulhas Current* \\
 **Vincent Doriot** PhD Candidate, University of Gothenburg. Role: Co-supervisor.  <span class="flush-right-year">2024 &ndash; current</span> \\
 *Fine-scale mixed layer dynamics from autonomous gliders* \\
 **Johan Edholm** PhD Candidate, University of Gothenburg. Role: Lead supervisor.  <span class="flush-right-year">2023 &ndash; current</span> \\
@@ -67,6 +65,8 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 
 **Graduated:**
 
+**Daniel Clason** B.Sc. Oceanography, University of Gothenburg. Role: Lead-supervisor.  <span class="flush-right-year">2025</span> \\
+*Storm dynamics in the Agulhas Current* \\
 **Renske Koets**, M.Sc. Oceanography, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2025</span> \\
 *Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization* \\
 **Gonzalo Ruiz**, M.Sc. Oceanography, University of Gothenburg. Role: Lead supervisor. <span class="flush-right-year">2025</span> \\
@@ -95,7 +95,8 @@ at Marion Island* \\
 **Courses I’ve developed material for and taught:**
 
 **Observing the Ocean from Micro to Macro Scale (OC4920)** University of Gothenburg <span class="flush-right-year">2020, 2023, 2025</span> \\
-*Ocean buoyancy forcing and air-sea fluxes. Includes 3 days at sea on board the R/V Skagerak teaching on board ocean instrumentation and cruise planning (2 weeks).* \\
+*Air-sea interactions, with 3 days at sea on R/V Skagerak overseeing student-led cruise (2 weeks).* \\
+Visit my [course notes](https://marcelduplessis.github.io/air-sea-interactions-notes/) hosted on Github Pages. \\
 **Tutorial on CO2 fluxes** SOLAS Summer School <span class="flush-right-year">2022</span> \\
 *Practical session on the calculation and interpretation of air-sea carbon fluxes from ship and mooring observations.*\\
 Practical and code available on GitHub.\\
@@ -118,4 +119,4 @@ Course lead for 2021. \\
 **Tutoring:**
 
 **MATLAB programming for ocean science** Marine Masters Program, University of Cape Town <span class="flush-right-year">2016</span> \\
-**Ocean and Atmosphere Dynamics (SEA3004F) Undergraduate Course** University of Cape Town <span class="flush-right-year">2016</span> 
+**Ocean and Atmosphere Dynamics (SEA3004F) Undergraduate Course** University of Cape Town <span class="flush-right-year">2014, 2016</span> 

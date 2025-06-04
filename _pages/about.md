@@ -10,8 +10,11 @@ Hi, I'm a physical oceanographer in the Department of Marine Sciences, Universit
 
 My main research interest is the ocean's role in climate. My goal is to improve our basic understanding of how physical ocean flow dynamics and air-sea interactions - such as atmospheric storms and ocean eddies - move climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere, surface ocean, and ocean interior. I use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, combined with remotely sensed satellite data and numerical ocean-atmosphere models. 
 
+## Research interests
+`Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
+
 ## Opportunities
-We are [offering a PhD position](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723) to start in late 2025 / early 2026. Topic: The role of fine-scale ocean and atmosphere dynamics on Southern Ocean air-sea heat and CO2 exchange. 
+- We are [offering a PhD position](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723) to start in late 2025 / early 2026. Topic: The role of fine-scale ocean and atmosphere dynamics on Southern Ocean air-sea heat and CO2 exchange. 
 
 
 ## Current projects
@@ -22,8 +25,7 @@ We are [offering a PhD position](https://web103.reachmee.com/ext/I005/1035/job?s
 - Researcher, University of Gothenburg
 - Co-chair of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the Southern Ocean Observing System
 - Co-lead FAIR Data Task Team of [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org)
-- [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org) Steering Committee
+- OASIS Steering Committee
 
-## Research interests
-`Air-sea interactions`; `Submesoscale dynamics`; `Atmospheric mesoscale systems`; `Autonomous ocean observations` 
+
 
