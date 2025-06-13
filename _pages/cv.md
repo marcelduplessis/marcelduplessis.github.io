@@ -57,7 +57,7 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 ## Mentoring
 ---
 **Neha Ramsarup** PhD Candidate, University of Cape Town & SAEON. Role: Co-supervisor.  <span class="flush-right-year">2025 &ndash; current</span> \\
-*Impact of the Agulhas Current on Coastal and Downstream Regions: Meanders, Trapped Cyclonic Eddies, and Upwelling in Algoa Bay* \\
+*Agulhas Current on Coastal and Downstream Regions: Meanders, Cyclonic Eddies, and Upwelling in Algoa Bay* \\
 **Vincent Doriot** PhD Candidate, University of Gothenburg. Role: Co-supervisor.  <span class="flush-right-year">2024 &ndash; current</span> \\
 *Fine-scale mixed layer dynamics from autonomous gliders* \\
 **Johan Edholm** PhD Candidate, University of Gothenburg. Role: Lead supervisor.  <span class="flush-right-year">2023 &ndash; current</span> \\
