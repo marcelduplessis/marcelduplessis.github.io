@@ -56,6 +56,8 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 
 ## Mentoring
 ---
+**Neha Ramsarup** PhD Candidate, University of Cape Town & SAEON. Role: Co-supervisor.  <span class="flush-right-year">2025 &ndash; current</span> \\
+*Impact of the Agulhas Current on Coastal and Downstream Regions: Meanders, Trapped Cyclonic Eddies, and Upwelling in Algoa Bay* \\
 **Vincent Doriot** PhD Candidate, University of Gothenburg. Role: Co-supervisor.  <span class="flush-right-year">2024 &ndash; current</span> \\
 *Fine-scale mixed layer dynamics from autonomous gliders* \\
 **Johan Edholm** PhD Candidate, University of Gothenburg. Role: Lead supervisor.  <span class="flush-right-year">2023 &ndash; current</span> \\
@@ -130,8 +132,8 @@ Course lead for 2021. \\
 *Weddell Sea, Southern Ocean* \\
 5 weeks – deploying autonomous Seagliders, CTD survey, R/V S.A. Agulhas II \\
 **Southern Ocean Seasaonal Cycle Experiment** Southern Ocean Carbon-Climate Observatory <span class="flush-right-year">2013</span> \\
-*South Atlantic, Southern Ocean*
-5 weeks – lead for underway CTD survey, R/V S.A. Agulhas
+*South Atlantic, Southern Ocean* \\
+5 weeks – lead for underway CTD survey, R/V S.A. Agulhas \\
 **The Coldest Journey** Raluph Fiennes Expedition, Southern Ocean Carbon-Climate Observatory <span class="flush-right-year">2013</span> \\
 *Goodhope Line Transect, Cape Town to Antarctica* \\
 6 weeks – lead for underway CTD survey, R/V S.A. Agulhas \\
