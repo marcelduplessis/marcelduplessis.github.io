@@ -140,3 +140,9 @@ Course lead for 2021. \\
 **South African National Antarctic Program Winter Cruise** University of Cape Town <span class="flush-right-year">2012</span> \\
 *Weddell Sea, Antarctica & Prince Edward Islands*
 5 weeks – underway CTD survey, R/V S.A. Agulhas II
+
+## Autonomous Ocean Robotics Experiments
+---
+I have been piloting autonomous ocean gliders and uncrewed surface vehicles on several missions in and around the Southern Ocean and Agulhas Current. 
+
+**Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">19 Jun 2025 &ndash; ongoing</span> \\
