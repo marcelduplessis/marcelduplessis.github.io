@@ -19,6 +19,7 @@ My main research interest is the ocean's role in climate. My goal is to improve 
 
 
 ## Current projects
+- PI on European Research Council Starting Grant funded 2026-2031. Project: [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function)
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant funded 2025-2028. Project: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty)
 - Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
 
