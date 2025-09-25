@@ -15,11 +15,11 @@ My main research interest is the ocean's role in climate. My goal is to improve 
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
 ## Opportunities
-- We are [offering a PhD position](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723) to start in late 2025 / early 2026. Topic: The role of fine-scale ocean and synoptic atmosphere variability on Southern Ocean air-sea heat and CO2 exchange. Applications close 18 July 2025.
+- We will be offering a 3-year Postdoc and a 4-year PhD position as part of the SOFIA Project, starting around mid-to-late 2026. Reach out if you would like to be kept in the loop.
 
 
 ## Current projects
-- PI on European Research Council Starting Grant funded 2026-2031. Project: [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function)
+- PI on European Research Council (ERC) Starting Grant funded 2026-2031. Project: [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function)
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant funded 2025-2028. Project: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty)
 - Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
 
