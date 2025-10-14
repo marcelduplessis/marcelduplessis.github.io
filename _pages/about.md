@@ -9,13 +9,13 @@ redirect_from:
 
 Hi, I'm a physical oceanographer in the Department of Marine Sciences, University of Gothenburg. 
 
-My main research interest is the ocean's role in climate. My goal is to improve our basic understanding of how physical ocean flow dynamics and air-sea interactions - such as atmospheric storms and ocean eddies - move climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere, surface ocean, and ocean interior. I use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, combined with remotely sensed satellite data and numerical ocean-atmosphere models. 
+My main research interest is to reveal how the ocean, and its interactions with the atmosphere, influence the climate we live in. My goal is to improve our basic understanding of how physical ocean flow dynamics and air-sea interactions - such as atmospheric storms and ocean eddies - move climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere, surface ocean, and ocean interior. I use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, combined with remotely sensed satellite data and numerical ocean-atmosphere models. 
 
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
 ## Opportunities
-- We will be offering a 3-year Postdoc and a 4-year PhD position as part of the SOFIA Project, starting around mid-to-late 2026. Reach out if you would like to be kept in the loop.
+- As part of the SOFIA project, we will soon be advertisitng positions for a postdoc and PhD. Feel free to get in touch.
 
 
 ## Current projects
@@ -25,7 +25,7 @@ My main research interest is the ocean's role in climate. My goal is to improve 
 
 ## Positions
 - Researcher, University of Gothenburg
-- Co-chair of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the Southern Ocean Observing System
+- Leadership committee of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the Southern Ocean Observing System
 - Co-lead FAIR Data Task Team of [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org)
 - OASIS Steering Committee
 
