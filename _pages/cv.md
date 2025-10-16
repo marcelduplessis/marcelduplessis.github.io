@@ -28,6 +28,7 @@ Session convenor for 4 sessions at international conferences  <span class="flush
 Leadership committee for Southern Ocean Flux (SOFLUX) Working Group (Southern Ocean Observing System) <span class="flush-right-year">2025 &ndash; current</span> \\
 Southern Ocean Flux webinar series co-organiser<span class="flush-right-year">2021 &ndash; current</span> \\
 Co-Lead Observing Air-Sea Observations Strategy (OASIS) FAIR Team  <span class="flush-right-year">2021 &ndash; current</span> \\
+Examiner for one PhD defence  <span class="flush-right-year">2025 &ndash; current</span> \\
 Co-chair Southern Ocean Flux (SOFLUX) Working Group (Southern Ocean Observing System) <span class="flush-right-year">2021 &ndash; 2025</span> \\
 Organising Committee for OASIS Face2Face Meeting, Ocean Sciences Meeting, New Orleans, USA <span class="flush-right-year">2023</span> \\
 Host for OASIS “Ocean Shots” for a Predicted Ocean Satellite Event <span class="flush-right-year">2021</span> \\
