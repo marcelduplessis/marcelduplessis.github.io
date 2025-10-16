@@ -146,7 +146,7 @@ Course lead for 2021. \\
 
 ## Autonomous Ocean Robotics Experiments
 ---
-I have been piloting autonomous ocean gliders and uncrewed surface vehicles on several missions in and around the Southern Ocean and Agulhas Current. 
+Major projects where I deployed and/or piloted autonomous ocean gliders and uncrewed surface vehicles:
 
 **WHIRLS Robotic Deployments** <span class="flush-right-year">Sep-2025 &ndash; ongoing</span> \\
 Seaglider and Wave Glider deployments in the Cape Basin \\
