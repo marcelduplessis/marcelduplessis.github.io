@@ -148,7 +148,7 @@ Course lead for 2021. \\
 ---
 I have been piloting autonomous ocean gliders and uncrewed surface vehicles on several missions in and around the Southern Ocean and Agulhas Current. 
 
-**WHIRLS Robotic Deployments** <span class="flush-right-year">17 Sep 2025 &ndash; ongoing</span> \\
+**WHIRLS Robotic Deployments** <span class="flush-right-year">Sep-2025 &ndash; ongoing</span> \\
 Seaglider and Wave Glider deployments in the Cape Basin \\
 **Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">May-2024 &ndash; Jun-2024</span> \\
 Sailbuoy deployments in Algoa Bay, South Africa \\
