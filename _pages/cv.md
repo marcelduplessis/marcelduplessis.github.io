@@ -25,7 +25,8 @@ redirect_from:
 ## Service
 ---
 Session convenor for 4 sessions at international conferences  <span class="flush-right-year">2023 &ndash; current</span> \\
-Co-chair Southern Ocean Flux (SOFLUX) Working Group (Southern Ocean Observing System) <span class="flush-right-year">2021 &ndash; current</span> \\
+Leadership committee for Southern Ocean Flux (SOFLUX) Working Group (Southern Ocean Observing System) <span class="flush-right-year">2025 &ndash; current</span> \\
+Co-chair Southern Ocean Flux (SOFLUX) Working Group (Southern Ocean Observing System) <span class="flush-right-year">2021 &ndash; 2025</span> \\
 Southern Ocean Flux webinar series co-organiser<span class="flush-right-year">2021 &ndash; current</span> \\
 Co-Lead Observing Air-Sea Observations Strategy (OASIS) FAIR Team  <span class="flush-right-year">2021 &ndash; current</span> \\
 Organising Committee for OASIS Face2Face Meeting, Ocean Sciences Meeting, New Orleans, USA <span class="flush-right-year">2023</span> \\
@@ -62,11 +63,11 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 *Fine-scale mixed layer dynamics from autonomous gliders* \\
 **Johan Edholm** PhD Candidate, University of Gothenburg. Role: Lead supervisor.  <span class="flush-right-year">2023 &ndash; current</span> \\
 *Fine-scale variability of air-sea heat fluxes from autonomous surface vehicles* \\
-**Theo Spira** PhD Candidate, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2021 &ndash; current</span> \\
-*Observations of ventilation in the Southern Ocean* 
 
 *Graduated:*
 
+**Theo Spira** PhD Candidate, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2025 &ndash; current</span> \\
+*Observations of ventilation in the Southern Ocean* 
 **Daniel Clason** B.Sc. Oceanography, University of Gothenburg. Role: Lead-supervisor.  <span class="flush-right-year">2025</span> \\
 *Storm dynamics in the Agulhas Current* \\
 **Renske Koets**, M.Sc. Oceanography, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2025</span> \\
@@ -145,4 +146,11 @@ Course lead for 2021. \\
 ---
 I have been piloting autonomous ocean gliders and uncrewed surface vehicles on several missions in and around the Southern Ocean and Agulhas Current. 
 
-**Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">19 Jun 2025 &ndash; ongoing</span> \\
+**WHIRLS Robotic Deployments** <span class="flush-right-year">17 Sep 2025 &ndash; ongoing</span> \\
+**Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">May-2024 &ndash; Jun-2024</span> \\
+**QUICCHE** <span class="flush-right-year">Mar-2023 &ndash; May-2023</span> \\
+**Southern Ocean Carbon Heat Impact on Climate (SO-CHIC)** <span class="flush-right-year">Jan-2022 &ndash; Jul-2022</span> \\
+**SCALE Spring** <span class="flush-right-year">Oct-2019 &ndash; Feb-2020</span> \\
+**SCALE Winter** <span class="flush-right-year">Jul-2019 &ndash; Dec-2019</span> \\
+**ROAM-MIZ** <span class="flush-right-year">Dec-2018 &ndash; Mar-2019</span> \\
+**ORCHESTRA** <span class="flush-right-year">Nov-2017 &ndash; Jan-2018 </span> \\
