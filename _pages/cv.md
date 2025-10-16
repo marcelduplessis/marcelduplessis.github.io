@@ -57,6 +57,8 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 
 ## Mentoring
 ---
+**Lovisa Sunnercrantz**, M.Sc. Oceanography, University of Gothenburg. Role: Lead supervisor. <span class="flush-right-year">2025 &ndash; current</span> \\
+*Storm impacts on the Southern Ocean air-sea heat and carbon flux* (with contribution to Prend et al., 2025)  \\
 **Neha Ramsarup** PhD Candidate, University of Cape Town & SAEON. Role: Co-supervisor.  <span class="flush-right-year">2025 &ndash; current</span> \\
 *Agulhas Current on Coastal and Downstream Regions: Meanders, Cyclonic Eddies, and Upwelling in Algoa Bay* \\
 **Vincent Doriot** PhD Candidate, University of Gothenburg. Role: Co-supervisor.  <span class="flush-right-year">2024 &ndash; current</span> \\
@@ -67,7 +69,7 @@ University of Cape Town Marine-Research Institute Travel Award (R15 000) <span c
 *Graduated:*
 
 **Theo Spira** PhD Candidate, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2025 &ndash; current</span> \\
-*Observations of ventilation in the Southern Ocean* 
+*Observations of ventilation in the Southern Ocean* \\
 **Daniel Clason** B.Sc. Oceanography, University of Gothenburg. Role: Lead-supervisor.  <span class="flush-right-year">2025</span> \\
 *Storm dynamics in the Agulhas Current* \\
 **Renske Koets**, M.Sc. Oceanography, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2025</span> \\
@@ -147,10 +149,18 @@ Course lead for 2021. \\
 I have been piloting autonomous ocean gliders and uncrewed surface vehicles on several missions in and around the Southern Ocean and Agulhas Current. 
 
 **WHIRLS Robotic Deployments** <span class="flush-right-year">17 Sep 2025 &ndash; ongoing</span> \\
+Seaglider and Wave Glider deployments in the Cape Basin \\
 **Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">May-2024 &ndash; Jun-2024</span> \\
+Sailbuoy deployments in Algoa Bay, South Africa \\
 **QUICCHE** <span class="flush-right-year">Mar-2023 &ndash; May-2023</span> \\
+Seaglider and Sailbuoy deployments in the Cape Basin \\
 **Southern Ocean Carbon Heat Impact on Climate (SO-CHIC)** <span class="flush-right-year">Jan-2022 &ndash; Jul-2022</span> \\
+Seaglider and Sailbuoy deployments in the subpolar Atlantic and Maud Rise \\
 **SCALE Spring** <span class="flush-right-year">Oct-2019 &ndash; Feb-2020</span> \\
+Seaglider deployment in the Weddell Sea \\
 **SCALE Winter** <span class="flush-right-year">Jul-2019 &ndash; Dec-2019</span> \\
+Seaglider and Sailbuoy deployment in the Weddell Sea \\
 **ROAM-MIZ** <span class="flush-right-year">Dec-2018 &ndash; Mar-2019</span> \\
+Seaglider and Sailbuoy deployment in the Weddell Sea \\
 **ORCHESTRA** <span class="flush-right-year">Nov-2017 &ndash; Jan-2018 </span> \\
+Seaglider deployment along the Southern Boundary of the Drake Passage
