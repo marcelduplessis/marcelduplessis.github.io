@@ -25,11 +25,11 @@ I use data collected by autonomous ocean robots—including gliders, profiling f
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
 - Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
 
-## News
+## Recent happenings
 - Renske Koets (MSc) has her first publication accepted in Ocean Sciences journal "[Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3112/)".
 - New paper out in Nature Geosciences - "[Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3)".
 - [Carl Tryggers Equipment Grant](https://www.carltryggersstiftelse.se/) awareded (830,000 SEK) for purchasing an Expendable Air-Sea Interactions Tower.
-- Blog post "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)" in Springer Nature Research Communities.
+- *Behind the Paper* blog post for Springer Nature Research Communities: "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)".
 - We have two PhDs starting in March 2026! Julia Noack and Paula Damke will join us to work on the SOFIA and VR projects.
 
 ## Opportunities
@@ -39,11 +39,13 @@ I use data collected by autonomous ocean robots—including gliders, profiling f
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
-  <div class="team-member" style="flex: 1 1 200px; text-align: center;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
     <img src="/images/johan.png" alt="Johan Edholm" style="width: 70%; max-width: 160px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Johan Edholm (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+    <p style="text-align: center; font-size: 0.7rem;">Johan’s primary interest lies in air-sea interactions, ranging from local, small-scale effects to broad, global implications. He focuses on the autonomous technologies that allow us to observe these interactions from the coast to the open ocean.
+    <br><br>
+    Privately, he enjoys quality time with friends and family, whether that means enjoying good music and fine dining or playing board games. He is also an avid traveller who enjoys exploring new cultures and seeking out new adventures.</p>
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
@@ -56,10 +58,12 @@ I use data collected by autonomous ocean robots—including gliders, profiling f
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/lovisa.png" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/lovisa.jpeg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Lovisa (MSc)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+    <p style="text-align: center; font-size: 0.7rem;">Lovisa is a masters student in Physical Oceanography at the University of Gothenburg. She is doing her one-year masters thesis with us focusing on estimating vertical velocities and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous glider observations and satellite altimetry. 
+    <br><br>
+    Outside of her studies, she loves diving and enjoys climbing and spending time with friends. </p>
   </div>
 
 </div>
