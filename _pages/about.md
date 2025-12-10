@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. I work with the Polar Glider Research Group, where I study how the ocean interacts with the atmosphere and how these exchanges shape the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/storms.png" alt="storms"
+         style="width: 100%; max-width: 100%;
+                border-radius: 0;
+                object-fit: cover;
+                border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>As wild storms prowl across the Southern Ocean, their fury stirs the air-sea boundary, unleashing turbulent energy that deepens the restless exchange of heat and carbon — the ocean’s breath with the sky. </h3>
+    <p style="text-align: center; font-size: 0.7rem;">Image source: NASA Worldview</p>
+  </div>
+</div>
+
+Welcome to my website, I'm a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. I work with the [Polar Glider Research Group](https://sebswart.com/), where I study how the ocean and atmosphere exchange properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
 I use data collected by autonomous ocean robots—including gliders, profiling floats, and uncrewed surface vehicles—alongside satellite observations and numerical ocean–atmosphere models. By combining these approaches, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 
@@ -16,9 +28,10 @@ I use data collected by autonomous ocean robots—including gliders, profiling f
 
 ## Positions
 - Researcher, Department of Marine Sciences, University of Gothenburg
-- Leadership Committee Member of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
-- Steering Committee Member for the [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org) UN Decade Program
-- Science Committee Member on the [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet)
+- Steering Committee, [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org) UN Decade Program
+- Science Committee, [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet) Emerging Network of the Global Ocean Observing System
+- Leadership Committee, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
+
 
 ## Current projects
 - PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
