@@ -7,27 +7,85 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a physical oceanographer in the Department of Marine Sciences, University of Gothenburg. 
+I'm a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. I work with the Polar Glider Research Group, where I study how the ocean interacts with the atmosphere and how these exchanges shape the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
-My main research interest is to reveal how the ocean, and its interactions with the atmosphere, influence the climate we live in. My goal is to improve our basic understanding of how physical ocean flow dynamics and air-sea interactions - such as atmospheric storms and ocean eddies - move climate-relevant properties, such as heat, moisture, and carbon dioxide, between the atmosphere, surface ocean, and ocean interior. I use observational data from autonomous ocean robotics, including gliders, profiling floats, and uncrewed surface vehciles, combined with remotely sensed satellite data and numerical ocean-atmosphere models. 
+I use data collected by autonomous ocean robots—including gliders, profiling floats, and uncrewed surface vehicles—alongside satellite observations and numerical ocean–atmosphere models. By combining these approaches, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
-## Opportunities
-- As part of the SOFIA project, we will soon be advertisitng positions for a postdoc and PhD. Feel free to get in touch.
-
+## Positions
+- Researcher, Department of Marine Sciences, University of Gothenburg
+- Leadership Committee Member of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
+- Steering Committee Member for the [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org) UN Decade Program
+- Science Committee Member on the [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet)
 
 ## Current projects
-- PI on European Research Council (ERC) Starting Grant funded 2026-2031. Project: [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function)
-- PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant funded 2025-2028. Project: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty)
+- PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
+- PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
 - Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
 
-## Positions
-- Researcher, University of Gothenburg
-- Leadership committee of [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the Southern Ocean Observing System
-- Co-lead FAIR Data Task Team of [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org)
-- OASIS Steering Committee
+## News
+- Renske Koets (MSc) has her first publication accepted in Ocean Sciences journal "[Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3112/)".
+- New paper out in Nature Geosciences - "[Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3)".
+- [Carl Tryggers Equipment Grant](https://www.carltryggersstiftelse.se/) awareded (830,000 SEK) for purchasing an Expendable Air-Sea Interactions Tower.
+- Blog post "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)" in Springer Nature Research Communities.
+- We have two PhDs starting in March 2026! Julia Noack and Paula Damke will join us to work on the SOFIA and VR projects.
 
+## Opportunities
+- In 2026, we will open a Postdoctoral Research Fellow opporunity within the SOFIA project. If you are interested in joining our team for student research projects, or applying for individual research grants to work with us - feel free to reach out! 
 
+## Team
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 200px; text-align: center;">
+    <img src="/images/johan.png" alt="Johan Edholm" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Johan Edholm (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/vincent.png" alt="Vincent" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Vincent Doriot (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Vincent examines fine-scale mixed layer dynamics from high-resolution underwater gliders. While his current work focuses on the Southern Ocean, he has plans to explore the complex processes of the Agulhas Current.
+    <br><br>
+    Outside of work, Vincent is passionate about music, both as a listener and a guitar player. In the warmer months, he explores nature looking for wildlife with his camera, while winter finds him at his computer playing video games.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/lovisa.png" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Lovisa (MSc)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+  </div>
+
+</div>
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Starting March 2026 (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Starting March 2026 (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Neha Ramsarup (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+  </div>
+
+</div>
 
