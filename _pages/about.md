@@ -23,6 +23,8 @@ Welcome to my website, I'm a physical oceanographer in the [Department of Marine
 
 I use data collected by autonomous ocean robots—including gliders, profiling floats, and uncrewed surface vehicles—alongside satellite observations and numerical ocean–atmosphere models. By combining these approaches, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 
+I was recently awarded a *European Research Council Starting Grant* for **investigating the mechanisms that move heat from the atmosphere, through the air-sea interface, and into the ocean interior.** To tackle this challenge, we will bring together a high-resolution coupled ocean-atmosphere model simulation with new annual in situ datasets from ocean robotics, and upscale these insights by determining the how fine-scale motions in the ocean drive vertical heat movements within the upper ocean. Reach out if you would like to work on this together! 
+
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
@@ -39,11 +41,11 @@ I use data collected by autonomous ocean robots—including gliders, profiling f
 - Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
 
 ## Recent happenings
-- Renske Koets (MSc) has her first publication accepted in Ocean Sciences journal "[Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3112/)".
-- New paper out in Nature Geosciences - "[Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3)".
-- [Carl Tryggers Equipment Grant](https://www.carltryggersstiftelse.se/) awareded (830,000 SEK) for purchasing an Expendable Air-Sea Interactions Tower.
-- *Behind the Paper* blog post for Springer Nature Research Communities: "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)".
-- We have two PhDs starting in March 2026! Julia Noack and Paula Damke will join us to work on the SOFIA and VR projects.
+- 10/12: Renske Koets (MSc) has her first publication accepted in Ocean Sciences journal "[Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3112/)".
+- 5/12: *Behind the Paper* blog post for Springer Nature Research Communities: "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)".
+- 3/12: New paper out in Nature Geosciences - "[Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3)".
+- 15/11: [Carl Tryggers Equipment Grant](https://www.carltryggersstiftelse.se/) awareded (830,000 SEK) for purchasing an Expendable Air-Sea Interactions Tower.
+- 1/11: We have two PhDs starting in March 2026! Julia Noack and Paula Damke will join us to work on the SOFIA and VR projects.
 
 ## Opportunities
 - In 2026, we will open a Postdoctoral Research Fellow opporunity within the SOFIA project. If you are interested in joining our team for student research projects, or applying for individual research grants to work with us - feel free to reach out! 
