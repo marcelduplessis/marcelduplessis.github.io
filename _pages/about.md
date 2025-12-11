@@ -48,7 +48,9 @@ I was recently awarded a *European Research Council Starting Grant* for **invest
 - 1/11: We have two PhDs starting in March 2026! Julia Noack and Paula Damke will join us to work on the SOFIA and VR projects.
 
 ## Opportunities
-- In 2026, we will open a Postdoctoral Research Fellow opporunity within the SOFIA project. If you are interested in joining our team for student research projects, or applying for individual research grants to work with us - feel free to reach out! 
+- I will open a postdoc position within the SOFIA project in late 2026. 
+- If you are interested in joining our team for student research projects, please get in touch.
+- I’m also happy to support fellowship applications, such as the Marie Skłodowska-Curie Fellowship, VR postodc. Reach out if you’d like to discuss project options.
 
 ## Team
 
