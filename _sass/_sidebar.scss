@@ -21,7 +21,8 @@
   }
 
   @include breakpoint($large) {
-    @include span(0 of 12);
+    @include span(2 of 12);
+    padding-right: 0px;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -32,7 +33,7 @@
   }
 
   @include breakpoint($x-large) {
-    @include span(0 of 12);
+    @include span(2 of 12);
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
@@ -61,15 +62,16 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: relative;
-    float: right;
-    width: $right-sidebar-width;
-    margin-left: span(0 of 12);
-    z-index: 10;
+    // temporarily disable everything here
+    // position: relative;
+    // float: right;
+    // width: $right-sidebar-width;
+    // margin-left: span(2 of 12);
+    // z-index: 10;
   }
 
   @include breakpoint($x-large) {
-    width: $right-sidebar-width;
+    // width: $right-sidebar-width;
   }
 }
 
