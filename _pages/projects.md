@@ -73,12 +73,15 @@ To complement these field observations, we’ll use **high-resolution satellite*
 
 Finally, we’ll use what we learn to **improve the models that simulate heat and carbon exchange between the ocean and atmosphere**. By reducing uncertainty in how we represent these processes, we hope to strengthen future weather forecasts and global climate projections — and highlight the growing power of autonomous ocean observing systems.
 
-<div class="banner" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
-
-  <div class="wind-speed" style="text-align: center;">
-  <h3>Storms - located by little red dots - dominate the intense air-sea exchange dynamics in the Southern Ocean.</h3>
-  <img src="/images/wind-speed.gif" alt="winds" style="width: 100%;">
-  <p style="text-align: center; font-size: 0.7rem;">Data source: European Centre for Medium-Range Weather Forecasts ERA5 Reanalysis.</p>
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/storms.png" alt="storms"
+         style="width: 100%; max-width: 100%;
+                border-radius: 0;
+                object-fit: cover;
+                border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>As wild storms prowl across the Southern Ocean, their fury stirs the air-sea boundary, unleashing turbulent energy that deepens the restless exchange of heat and carbon — the ocean’s breath with the sky. </h3>
+    <p style="text-align: center; font-size: 0.7rem;">Image source: NASA Worldview</p>
   </div>
 </div>
 

@@ -7,15 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
-  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/storms.png" alt="storms"
-         style="width: 100%; max-width: 100%;
-                border-radius: 0;
-                object-fit: cover;
-                border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>As wild storms prowl across the Southern Ocean, their fury stirs the air-sea boundary, unleashing turbulent energy that deepens the restless exchange of heat and carbon — the ocean’s breath with the sky. </h3>
-    <p style="text-align: center; font-size: 0.7rem;">Image source: NASA Worldview</p>
+<div class="banner" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="wind-speed" style="text-align: center;">
+  <img src="/images/wind-speed.gif" alt="winds" style="width: 100%;">
+  <h3>As wild storms prowl across the Southern Ocean, their fury stirs the air-sea boundary, unleashing turbulent energy that deepens the restless exchange of heat and carbon — the ocean’s breath with the sky.</h3>
+  <p style="text-align: center; font-size: 0.7rem;">Data: European Centre for Medium-Range Weather Forecasts ERA5 Reanalysis.</p>
   </div>
 </div>
 
@@ -33,7 +29,7 @@ I was recently awarded a *European Research Council Starting Grant* for **invest
 - Leadership Committee, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
 
 ## News
-- 16/12: University of Gothenburg [Press Release](https://www.gu.se/en/news/storms-in-the-southern-ocean-mitigates-global-warming) for Southern Ocean summer warming is regulated by storm-driven mixing study
+- 16/12: University of Gothenburg [Press Release](https://www.gu.se/en/news/storms-in-the-southern-ocean-mitigates-global-warming) for Southern Ocean storm-driven mixing study.
 - 10/12: Renske Koets (MSc) has her first publication accepted in Ocean Sciences journal "[Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3112/)".
 - 5/12: *Behind the Paper* blog post for Springer Nature Research Communities: "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)".
 - 3/12: Publication in *Nature Geosciences* - "[Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3)".
