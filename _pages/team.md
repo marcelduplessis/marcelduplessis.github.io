@@ -49,26 +49,26 @@ redirect_from:
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
-            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Starting March 2026 (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
-  </div>
-
-  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
-            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Starting March 2026 (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
-  </div>
-
-  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/neha.png" alt="Neha" style="width: 70%; max-width: 160px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Neha Ramsarup (PhD)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Neha explores how the dynamic Agulhas Current influences South Africa’s coastal systems, using autonomous instruments and satellites to track meanders, eddies, and upwelling events in Algoa Bay. Her work uncovers the fine-scale processes that shape the coastal environment and its ecosystems.
     <br><br>
     When she’s not working, Neha can usually be found chasing sunsets and taking photos whenever the light is just right. She also enjoys dancing and spending time with friends, especially when there’s good music and good energy</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Starting March 2026 (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3>Starting March 2026 (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
   </div>
 
 </div>
