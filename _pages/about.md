@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Marcel du Plessis Research Team at University of Gothenburg
-
 <div class="banner" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
   <div class="wind-speed" style="text-align: center;">
   <img src="/images/wind-speed.gif" alt="winds" style="width: 100%;">
-  <h3>As wild storms prowl across the Southern Ocean, their fury stirs the air-sea boundary, unleashing turbulent energy that deepens the restless exchange of heat and carbon — the ocean’s breath with the sky.</h3>
-  <p style="text-align: center; font-size: 0.7rem;">Data: European Centre for Medium-Range Weather Forecasts ERA5 Reanalysis.</p>
   </div>
 </div>
 

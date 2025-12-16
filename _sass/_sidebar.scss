@@ -32,7 +32,7 @@
   }
 
   @include breakpoint($x-large) {
-    @include span(2 of 12);
+    @include span(0 of 12);
     max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
@@ -63,7 +63,7 @@
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: $right-sidebar-width-narrow;
+    width: $right-sidebar-width;
     margin-left: span(0 of 12);
     z-index: 10;
   }
@@ -150,7 +150,6 @@
 
 .author__bio {
   margin: 0;
-  display: none !important;
 
   @include breakpoint($large) {
     margin-top: 10px;
