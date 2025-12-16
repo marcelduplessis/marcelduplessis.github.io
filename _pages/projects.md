@@ -7,6 +7,7 @@ redirect_from:
   - /projects
 ---
 
+**Total value of grants awarded: 39m SEK**
 
 ## Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)
 ---
