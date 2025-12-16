@@ -73,7 +73,7 @@ redirect_from:
 
 </div>
 
-## Alumni
+## Past team members
 ---
 
 ## PhDs:

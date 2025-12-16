@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## Marcel du Plessis Research Team at University of Gothenburg
+
 <div class="banner" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
   <div class="wind-speed" style="text-align: center;">
   <img src="/images/wind-speed.gif" alt="winds" style="width: 100%;">
@@ -16,7 +18,7 @@ redirect_from:
 </div>
 
 ## About me
-Welcome to my website, I'm a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. I work with the [Polar Glider Research Group](https://sebswart.com/), where I study how the ocean and atmosphere exchange properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
+I'm currently a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
 I use data collected by autonomous ocean robots—including gliders, profiling floats, and uncrewed surface vehicles—alongside satellite observations and numerical ocean–atmosphere models. By combining these approaches, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 
