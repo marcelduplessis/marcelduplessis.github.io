@@ -12,29 +12,44 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  margin-top: -5em;
-  margin-left: -5em;
 
+  /* Base (mobile / small screens) */
+  margin-top: 0;
+  margin-left: 0;
+  position: static;
+  height: auto;
+  overflow: visible;
+
+  /* At sidebar-screen-min-width: switch to fixed, scrolling left column */
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: $masthead-height;
-    margin-top: 10em;
+    top: $masthead-height;      // or 0, depending on header
+    height: calc(100vh - #{$masthead-height});
+    overflow-y: auto;
+    margin-top: 0;              // usually no big positive margin here
+    margin-left: -5em;          // if you still want to pull it left
   }
 
+  /* Large screens */
   @include breakpoint($large) {
     @include span(3 of 12);
     max-width: $sidebar-link-max-width;
-    padding-right: 0px;
+    padding-right: 0;
     opacity: 1;
-    -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
     }
   }
+
+  /* Extra-large screens: e.g. widen or tweak margins only here */
+  @include breakpoint($x-large) {
+    @include span(3 of 12);
+    max-width: $sidebar-link-max-width * 1.1;  // example tweak
+    margin-left: -6em;                         // example tweak
+  }
+}
 
   @include breakpoint($x-large) {
     @include span(3 of 12);
