@@ -1,17 +1,13 @@
 ---
 permalink: /
-title: ""
+title: " "
+layout: single
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+header:
+  overlay_image: coas-storms.gif
+  overlay_filter: 0
+  caption: "Credit: Hector Torres @ JPL-NASA"
 ---
-
-<div class="banner" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
-  <div class="wind-speed" style="text-align: center;">
-  <img src="/images/wind-speed.gif" alt="winds" style="width: 100%;">
-  </div>
-</div>
 
 ## About me
 I'm currently a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
