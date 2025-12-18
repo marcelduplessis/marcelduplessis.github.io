@@ -44,18 +44,11 @@
 
 .page__hero,
 .page__hero--overlay {
-  min-height: 220px;   /* or 400px, tweak to taste */
+  min-height: 250px;   /* or 400px, tweak to taste */
 }
 
 /* ensure the hero takes full width at the top */
 .page__hero {
   width: 100%;
   display: block;
-}
-
-/* sidebar container */
-.sidebar {
-  position: sticky;
-  top: 30px;          /* or top: 60px; if you have a fixed masthead of 60px */
-  align-self: flex-start;
 }
