@@ -24,6 +24,7 @@
     padding: 1em 1em 1em;
     font-family: $serif;
     text-align: left;
+    max-width: $x-large;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -70,7 +71,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 10em;
+    padding-right: 3em;
     padding-left: -10em;
     font-weight: 700;
   }

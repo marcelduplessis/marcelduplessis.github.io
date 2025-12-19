@@ -14,16 +14,14 @@ header:
 
 **Total value of grants awarded: 39m SEK**
 
+## Ongoing projects I am working on
+---
+- PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
+- PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
+- Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
+
 ## Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)
 ---
-
-<div class="banner" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
-
-  <div class="sea-ice" style="text-align: left;">
-    <img src="/images/sea-ice-pano.jpg" alt="sofia" style="width: 100%;">
-  </div>
-
-</div>
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 

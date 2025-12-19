@@ -25,10 +25,5 @@ I was recently awarded a *European Research Council Starting Grant* for **invest
 ## Upcoming engagements
 - I will [present](https://agu.confex.com/agu/osm26/meetingapp.cgi/Session/273357) my recently published [Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3) at Ocean Sciences Meeting in Glasgow on Tuesday, 24 February 2026 at 08:30. Reach out if you want to meet up! 
 
-## Current projects
-- PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
-- PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
-- Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
-
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
