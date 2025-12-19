@@ -59,3 +59,25 @@
   margin-left: 7em !important;
   margin-right: auto;
 }
+
+/* Mobile: up to 768px (adjust as needed) */
+@media screen and (max-width: 768px) {
+  .sidebar {
+    position: static;      // no fixed/sticky on phone
+    height: auto;          // let it grow naturally
+    overflow-y: visible;   // no scroll container
+    margin: 0 0 1em 0;     // remove negative margins
+    padding-top: 0;        // no masthead offset
+  }
+
+  .author__avatar {
+    display: block;
+    width: 80px;
+  }
+
+  .author__content {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+  }
+   }
