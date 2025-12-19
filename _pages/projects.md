@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Projects"
+title: " "
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
+header:
+  overlay_image: petrel.JPG
+  overlay_filter: 0
 ---
+
+# Projects
 
 **Total value of grants awarded: 39m SEK**
 

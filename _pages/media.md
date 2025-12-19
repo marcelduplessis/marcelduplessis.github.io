@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "media"
+title: " "
 permalink: /media/
 author_profile: true
 redirect_from:
   - /media
+header:
+  overlay_image: seeing-is-believing.jpg
+  overlay_filter: 0
 ---
 
 ## Media

@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Team"
+title: " "
 permalink: /team/
 author_profile: true
 redirect_from:
   - /team
+header:
+  overlay_image: sea-ice-pano.jpg
+  overlay_filter: 0
 ---
+
+# Team 
 
 ## Opportunities
 ---

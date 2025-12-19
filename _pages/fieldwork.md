@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "fieldwork"
+title: " "
 permalink: /fieldwork/
 author_profile: true
 redirect_from:
   - /fieldwork
+header:
+  overlay_image: ship-sunset.jpg
+  overlay_filter: 0
 ---
 
 ## Going to sea

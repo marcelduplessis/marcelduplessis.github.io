@@ -14,9 +14,6 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
 
   - title: "Team"
     url: /team/
@@ -32,6 +29,9 @@ main:
 
   - title: "Fieldwork"
     url: /fieldwork/
+
+  - title: "Blog Posts"
+    url: /updates/
     
   - title: "CV"
     url: /cv/
