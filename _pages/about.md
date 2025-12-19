@@ -22,15 +22,6 @@ I was recently awarded a *European Research Council Starting Grant* for **invest
 - Science Committee, [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet) Emerging Network of the Global Ocean Observing System
 - Leadership Committee, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
 
-## News
-- 16/12: University of Gothenburg [Press Release](https://www.gu.se/en/news/storms-in-the-southern-ocean-mitigates-global-warming) for Southern Ocean storm-driven mixing study.
-- 10/12: Renske Koets (MSc) has her first publication accepted in Ocean Sciences journal "[Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3112/)".
-- 5/12: *Behind the Paper* blog post for Springer Nature Research Communities: "[Southern Ocean Warming: Storms and the Importance of Robotic Observations](https://communities.springernature.com/posts/southern-ocean-warming-storms-and-the-importance-of-robotic-observations)".
-- 3/12: Publication in *Nature Geosciences* - "[Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3)".
-- 2/12: Co-author publication in *Nature Communications* - "[A chlorophyll halo over maud rise in the southern ocean](https://www.nature.com/articles/s41467-025-66458-5)".
-- 15/11: [Carl Tryggers Equipment Grant](https://www.carltryggersstiftelse.se/) awareded (830,000 SEK) for purchasing an Expendable Air-Sea Interactions Tower.
-- 01/11: Two PhDs starting in March 2026! Julia Noack and Paula Damke will join us to work on the SOFIA and VR projects.
-
 ## Upcoming engagements
 - I will [present](https://agu.confex.com/agu/osm26/meetingapp.cgi/Session/273357) my recently published [Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3) at Ocean Sciences Meeting in Glasgow on Tuesday, 24 February 2026 at 08:30. Reach out if you want to meet up! 
 
