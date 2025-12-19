@@ -10,7 +10,7 @@ header:
 ---
 
 ## About me
-I'm currently a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
+I'm a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
 I use data collected by autonomous ocean robots—including gliders, profiling floats, and uncrewed surface vehicles—alongside satellite observations and numerical ocean–atmosphere models. By combining these approaches, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 

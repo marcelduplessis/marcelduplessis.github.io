@@ -52,3 +52,9 @@
   width: 100%;
   display: block;
 }
+
+// ↓ Put overrides after the theme imports
+.masthead__inner-wrap {
+  margin-left: 7em !important;
+  margin-right: auto;
+}

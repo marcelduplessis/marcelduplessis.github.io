@@ -8,7 +8,7 @@
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
-  padding-left: 0em;
+  padding-left: 0;
   width: 100%;
 
   -webkit-animation: intro 0.3s both;
@@ -18,11 +18,12 @@
   z-index: 10;
 
   &__inner-wrap {
+    margin-left: 7em;
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $serif;
-
+    text-align: left;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -36,6 +37,15 @@
       text-decoration: none;
     }
   }
+}
+
+.masthead__inner-wrap {
+    max-width: 1024px;
+    margin-left: 7em;
+    margin-right: auto;
+    clear: both;
+    padding: 1em 1em 1em;
+    font-family: Georgia,serif
 }
 
 .masthead__menu {
