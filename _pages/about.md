@@ -12,8 +12,6 @@ header:
 ## About me
 I'm a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
-I use data collected by autonomous ocean robots—including gliders, profiling floats, and uncrewed surface vehicles—alongside satellite observations and numerical ocean–atmosphere models. By combining these approaches, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
-
 I was recently awarded a *European Research Council Starting Grant* for **investigating the mechanisms that move heat from the atmosphere, through the air-sea interface, and into the ocean interior.** To tackle this challenge, we will bring together a high-resolution coupled ocean-atmosphere model simulation with new annual in situ datasets from ocean robotics, and upscale these insights by determining the how fine-scale motions in the ocean drive vertical heat movements within the upper ocean. Reach out if you would like to work on this together! 
 
 ## Positions
@@ -23,6 +21,8 @@ I was recently awarded a *European Research Council Starting Grant* for **invest
 - Leadership Committee, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
 
 ## My Approach
+
+Combining data collected by autonomous ocean robotics, satellite observations and numerical ocean–atmosphere models, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 
 **In situ ocean and atmosphere observations** \\
 Much of my research uses measurements of ocean and atmosphere properies obtained from autonomous ocean platforms such as profiling gliders, surface uncrewed vehicles, and profiling floats. These platforms, developed and deployed over the last few decades, have shown to be highly useful in revealing the high-frequency nature of ocean and atmospheric variability, and their interactions and implicitons for air-sea exchange. 
