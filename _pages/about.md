@@ -37,6 +37,8 @@ Much of my research uses measurements of ocean and atmosphere properies obtained
 
 The pictures above show several of the autonomous platforms that I use in my research. The Seaglider (top left), Wave Glider (top right), and Sailbuoy (bottom left) are the three I work mostly with, from sensor integration, deployment/retrieval and piloting experience. A fundamnetally important tool used for ocean research is the CTD. The bottom right photo is from one of our deployments in the Southern Ocean during the SO-CHIC field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
 
+I have been fortunate to be able to deploy these autonomous platforms far out into the ocean on [several research expiditions](https://marcelduplessis.github.io/fieldwork/), with my first experience to the Southern Ocean and Antarctica during my honours year at the University of Cape Town. To date I have participated in seven research expeditions on several world class vessels. I am hugely grateful to those who have provided the opportunity for me to build my career as a sea going oceanographer.
+
 **Modelling** \\
 For my ERC SOFIA project, I will bring new expertise in 3D modelling capabilities by analysing the [Global, Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) run and hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that will be used to reveal the role of high-frequency processes in shaping ocean heat uptake.
 
