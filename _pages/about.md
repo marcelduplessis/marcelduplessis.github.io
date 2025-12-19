@@ -22,8 +22,36 @@ I was recently awarded a *European Research Council Starting Grant* for **invest
 - Science Committee, [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet) Emerging Network of the Global Ocean Observing System
 - Leadership Committee, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
 
-## Upcoming engagements
-- I will [present](https://agu.confex.com/agu/osm26/meetingapp.cgi/Session/273357) my recently published [Southern Ocean summer warming is regulated by storm-driven mixing](https://www.nature.com/articles/s41561-025-01857-3) at Ocean Sciences Meeting in Glasgow on Tuesday, 24 February 2026 at 08:30. Reach out if you want to meet up! 
+## My Approach
+
+**In situ ocean and atmosphere observations** \\
+Much of my research uses measurements of ocean and atmosphere properies obtained from autonomous ocean platforms such as profiling gliders, surface uncrewed vehicles, and profiling floats. These platforms, developed and deployed over the last few decades, have shown to be highly useful in revealing the high-frequency nature of ocean and atmospheric variability, and their interactions and implicitons for air-sea exchange. 
+
+<div class="gallery">
+  <img src="images/seaglider.jpg" alt="SG">
+  <img src="images/ctd.jpg" alt="CTD">
+  <img src="images/sailbuoy.jpeg" alt="SB">
+  <img src="images/wave-glider.jpg" alt="WG">
+  <br>
+</div>
+
+The pictures above show several of the autonomous platforms that I use in my research. The Seaglider (top left), Wave Glider (top right), and Sailbuoy (bottom left) are the three I work mostly with, from sensor integration, deployment/retrieval and piloting experience. A fundamnetally important tool used for ocean research is the CTD. The bottom right photo is from one of our deployments in the Southern Ocean during the SO-CHIC field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
+
+**Modelling** \\
+For my ERC SOFIA project, I will bring new expertise in 3D modelling capabilities by analysing the [Global, Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) run and hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that will be used to reveal the role of high-frequency processes in shaping ocean heat uptake.
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <video src="/images/coas-wind-ocean.mp4"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;"
+           autoplay muted loop playsinline>
+    </video>
+    <p style="text-align: center; font-size: 0.7rem;">A visualization of strong polar winds interacting with a highly dynamic and energetic ocean surface. Source: Hector Torres @ JPL-NASA</p>
+  </div>
+</div>
 
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
