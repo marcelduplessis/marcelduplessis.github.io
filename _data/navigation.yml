@@ -24,8 +24,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Fieldwork"
-  #  url: /fieldwork/
+  - title: "Community"
+    url: /community/
 
   - title: "Updates"
     url: /updates/

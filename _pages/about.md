@@ -14,12 +14,6 @@ I'm a researcher in the [Department of Marine Sciences](https://www.gu.se/en/mar
 
 I was recently awarded a *European Research Council Starting Grant* for **investigating the mechanisms that move heat from the atmosphere, through the air-sea interface, and into the ocean interior.** To tackle this challenge, we will bring together a high-resolution coupled ocean-atmosphere model simulation with new annual in situ datasets from ocean robotics, and upscale these insights by determining the how fine-scale motions in the ocean drive vertical heat movements within the upper ocean. Reach out if you would like to work on this together! 
 
-## Positions
-- Researcher, Department of Marine Sciences, University of Gothenburg
-- Steering Committee, [Observing Air-Sea Interaction Strategy (OASIS)](www.airseaobs.org) UN Decade Program
-- Science Committee, [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet) Emerging Network of the Global Ocean Observing System
-- Leadership Committee, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
-
 ## My Approach
 
 Combining data collected by autonomous ocean robotics, satellite observations and numerical ocean–atmosphere models, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
