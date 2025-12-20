@@ -4,7 +4,7 @@ title: " "
 layout: single
 author_profile: true
 header:
-  overlay_image: coas-short.mp4
+  overlay_image: coas-short.gif
   overlay_filter: 0
   caption: "Credit: Hector Torres @ JPL-NASA"
 ---
@@ -12,7 +12,7 @@ header:
 ## About me
 I'm a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
-I was recently awarded a *European Research Council Starting Grant* for **investigating the mechanisms that move heat from the atmosphere, through the air-sea interface, and into the ocean interior.** To tackle this challenge, we will bring together a high-resolution coupled ocean-atmosphere model simulation with new annual in situ datasets from ocean robotics, and upscale these insights by determining the how fine-scale motions in the ocean drive vertical heat movements within the upper ocean. Reach out if you would like to work on this together! 
+I was recently awarded a *European Research Council Starting Grant* titled **SOFIA**, which stands for Southern Ocean fine-scale interactions with the atmosphere. In SOFIA, my goals is to **reveal the mechanisms of heat transport from the atmosphere, through the air-sea interface, and into the ocean interior across the Southern Ocean.** I will bring together a high-resolution coupled ocean-atmosphere model simulation with new annual in situ datasets of ocean-atmosphere measurements using autonomous ocean robotics, and upscale these insights using the SWOT satellite to determining the how fine-scale motions in the ocean drive vertical heat movements within the upper ocean. Reach out if you would like to work on this together! 
 
 ## My Approach
 
