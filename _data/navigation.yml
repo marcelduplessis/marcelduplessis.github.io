@@ -15,8 +15,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
 
-  - title: "Team"
-    url: /team/
+  - title: "Group"
+    url: /group/
 
   - title: "Projects"
     url: /projects/

@@ -1,16 +1,18 @@
 ---
 layout: archive
 title: " "
-permalink: /team/
+permalink: /group/
 author_profile: true
 redirect_from:
-  - /team
+  - /group
 header:
   overlay_image: sea-ice-pano.jpg
   overlay_filter: 0
 ---
 
-# Team 
+# Group 
+
+
 
 ## Opportunities
 ---
@@ -18,12 +20,12 @@ header:
 - If you are interested in joining our team for student research projects, please get in touch.
 - I’m also happy to support fellowship applications, such as the [Marie Skłodowska-Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [VR International Postdoc](https://www.vr.se/english/applying-for-funding/calls/2025-11-11-international-postdoc-within-natural-and-engineering-sciences-spring-call.html) (17/02 deadline), and [Carl Tryggers Postdoc](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/) (14/05 deadline). Reach out if you’d like to discuss project options.
 
-## Team members
+## Group members
 ---
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/johan.png" alt="Johan Edholm" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/johan.png" alt="Johan Edholm" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Johan Edholm (PhD)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Johan’s primary interest lies in air-sea interactions, ranging from local, small-scale effects to broad, global implications. He focuses on the autonomous technologies that allow us to observe these interactions from the coast to the open ocean.
@@ -32,7 +34,7 @@ header:
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/vincent.png" alt="Vincent" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/vincent.png" alt="Vincent" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Vincent Doriot (PhD)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Vincent examines fine-scale mixed layer dynamics from high-resolution underwater gliders. While his current work focuses on the Southern Ocean, he has plans to explore the complex processes of the Agulhas Current.
@@ -41,7 +43,7 @@ header:
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/lovisa.jpeg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/lovisa.jpeg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Lovisa (MSc)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Lovisa is a masters student in Physical Oceanography at the University of Gothenburg. She is doing her one-year masters thesis with us focusing on estimating vertical velocities and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous glider observations and satellite altimetry. 
@@ -54,7 +56,7 @@ header:
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/neha.png" alt="Neha" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/neha.png" alt="Neha" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Neha Ramsarup (PhD)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Neha explores how the dynamic Agulhas Current influences South Africa’s coastal systems, using autonomous instruments and satellites to track meanders, eddies, and upwelling events in Algoa Bay. Her work uncovers the fine-scale processes that shape the coastal environment and its ecosystems.
@@ -63,14 +65,14 @@ header:
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Starting March 2026 (PhD)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 160px; border-radius: 50%;
+    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
     <h3>Starting March 2026 (PhD)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
@@ -78,12 +80,11 @@ header:
 
 </div>
 
-## Past team members
+## Past members
 ---
 
 ## PhDs:
-- **Theo Spira**, University of Gothenburg. Supervised with Prof. Sebastiaan Swart. Collaborator: Prof. Alex Haumann. <span class="flush-right-year">2025</span> \\
-Thesis: [*Observations of ventilation in the Southern Ocean*](https://gupea.ub.gu.se/handle/2077/88832)
+**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart. Collaborator: Prof. Alex Haumann. Thesis: [*Observations of ventilation in the Southern Ocean*](https://gupea.ub.gu.se/handle/2077/88832)
 
 ## Masters:
 - **Renske Koets**, M.Sc. Oceanography, University of Gothenburg. Role: co-supervisor. <span class="flush-right-year">2025</span> \\
