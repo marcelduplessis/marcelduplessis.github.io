@@ -14,7 +14,7 @@ header:
 
 **Total value of grants awarded: 39m SEK**
 
-## Ongoing projects I am working on
+# Ongoing projects I am working on
 ---
 - PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
@@ -88,5 +88,26 @@ Finally, we’ll use what we learn to **improve the models that simulate heat an
   </div>
 </div>
 
-## Completed Projects
+# Completed Projects
 ---
+
+## Submesoscale Processes in a Changing Environment (SPICE)
+---
+
+**PI:** Marcel du Plessis \\
+**Host:** Sebastiaan Swart @ University of Gothenburg \\
+**Call:** Marie Skłodowska-Curie Individual Fellowship, 2021-2023 \\
+**Funding:** 2.3m SEK
+
+Submesoscale Processes in a Changing Environment (SPICE) aims to quantify the variability of heat and carbon air-sea fluxes in the Southern Ocean and better understand how ocean submesoscale processes modulate heat and carbon exchange between the atmosphere and the ocean interior. In this project, I deployed a series of autonomous ocean vehicles called Seagliders and Sailbuoys alongside ship-based air-sea flux measurements to reveal how the ocean and atmosphere exchange heat and carbon at scales from hours to days.
+
+## Southern Ocean Carbon and Heat Impact on Climate (SO-CHIC)
+---
+
+**PI:** J.B. Salleé \\
+**WP Lead:** Sebastiaan Swart @ University of Gothenburg \\
+**Role:** Postdoc
+**Call:** European Commission Horizon 2020, 2019-2025 \\
+**Funding:** 2.3m SEK
+
+Southern Ocean Carbon and Heat Impact on Climate (SO-CHIC) contributes to reducing uncertainties in climate change predictions, 16 institutions decided to pool ability in a common initiative and send in August 2018 a proposal to the call LC-CLA-08-2018 “Addressing knowledge gaps in climate science, in support of IPCC reports” as part of the European Union’s Horizon 2020 research and innovation programme. Our role in SO-CHIC is to investigate the impact of the physical processes which control the variability of heat and carbon uptake in the Southern Ocean. To do this, we quantify their fluxes at the air-sea-ice interface and estimate the synoptic-to-interannual variability of heat and carbon storage in the Southern Ocean.
