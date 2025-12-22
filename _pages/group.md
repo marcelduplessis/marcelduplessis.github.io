@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Research Group"
 permalink: /group/
 author_profile: true
 redirect_from:
@@ -9,10 +9,6 @@ header:
   overlay_image: sea-ice-pano.jpg
   overlay_filter: 0
 ---
-
-# Group 
-
-
 
 ## Opportunities
 ---
@@ -45,7 +41,7 @@ header:
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
     <img src="/images/lovisa.jpeg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Lovisa (MSc)</h3>
+    <h3>Lovisa Sunnercrantz (MSc)</h3>
     <p style="text-align: center; font-size: 0.7rem;">Lovisa is a masters student in Physical Oceanography at the University of Gothenburg. She is doing her one-year masters thesis with us focusing on estimating vertical velocities and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous glider observations and satellite altimetry. 
     <br><br>
     Outside of her studies, she loves diving and enjoys climbing and spending time with friends. </p>
@@ -108,4 +104,4 @@ header:
 
 **Lovisa Sunnercrantz** (B.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Johan Edholm (GU). Thesis: [*Storm impacts on the Southern Ocean air-sea heat and carbon flux*](https://drive.google.com/file/d/1F4Vo3KGVTVvE5FT34syPxRpj-GBlpbUD/view?usp=drive_link) with contribution to [Prend et al., 2025](https://online.ucpress.edu/elementa/article/13/1/00061/208467/Observing-system-requirements-for-measuring-high).
 
-**Johan Edholm** (B.Sc. Oceanography, University of Gothenburg, 2020). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO/CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*.](https://drive.google.com/file/d/1HvLJbkCE2Iv6R5D4-9B80_r8T_PIGkvj/view?usp=drive_link) \\
+**Johan Edholm** (B.Sc. Oceanography, University of Gothenburg, 2020). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO/CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*.](https://drive.google.com/file/d/1HvLJbkCE2Iv6R5D4-9B80_r8T_PIGkvj/view?usp=drive_link) 

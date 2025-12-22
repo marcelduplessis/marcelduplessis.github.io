@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Ocean & Atmosphere Researcher"
 layout: single
 author_profile: true
 header:
@@ -48,6 +48,18 @@ For my ERC SOFIA project, I will bring new expertise in 3D modelling capabilitie
     <p style="text-align: center; font-size: 0.7rem;">A visualization of strong polar winds interacting with a highly dynamic and energetic ocean surface. Source: Hector Torres @ JPL-NASA</p>
   </div>
 </div>
+
+## Recent Updates
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      <small>{{ post.excerpt | markdownify }}</small>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`

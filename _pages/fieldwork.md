@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Fieldwork"
 permalink: /fieldwork/
 author_profile: true
 redirect_from:

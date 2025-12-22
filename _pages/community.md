@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Community"
 permalink: /community/
 author_profile: true
 redirect_from:
