@@ -84,31 +84,28 @@ header:
 ---
 
 ### PhD GRADUATES:
-**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart. Collaborator: Prof. Alex Haumann (AWI). Thesis: [*Observations of ventilation in the Southern Ocean*](https://gupea.ub.gu.se/handle/2077/88832)
+**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart & main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). \\
+Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
 
 ### MASTERS:
-**Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). \
-Thesis: *Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*. \\
+**Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
 
 **Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart. Collaborator: Dr. Sarah Nicholson (SOCCO, CSIR). \ 
-Thesis: *Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*. \\
+Thesis: *Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*. 
 
 **Michaela Edwinson** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Prof. Sebastiaan Swart (GU). Thesis: *Drivers of Air-sea heat flux in the Cape Basin*. 
 
-**Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). \
-Thesis: *Time and space variability of air-sea heat fluxes in the Amundsen Sea*. Publication: [Jacob et al. 2025](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. \\
+**Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). Thesis: *Time and space variability of air-sea heat fluxes in the Amundsen Sea*. Publication: [Jacob et al. 2025](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. 
 
-**Bongiwe Jojo** (M.Sc. University of Cape Town, 2024) Supervised with: Dr. Sarah Nicholson (GU). \ 
-Thesis: *Ocean pCO2 variability across the Southern Ocean*.\\
+**Bongiwe Jojo** (M.Sc. University of Cape Town, 2024) Supervised with: Dr. Sarah Nicholson (GU). Thesis: *Ocean pCO2 variability across the Southern Ocean*.\\
 
 **David Hagman** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU). \
-Thesis: *Unraveling the uncertainties of bulk-derived heat fluxes: A case study for the Southern Ocean*. \\
+Thesis: *Unraveling the uncertainties of bulk-derived heat fluxes: A case study for the Southern Ocean*. 
 
 **Sean Evans** (M.Sc. Physical Oceangraphy, University of Cape Town, 2021). Supervised with: Prof. Nico de Bryun (UP), Dr. Mia Wege (UP), Prof. Isabelle Ansorge (UCT). \ 
-Thesis: *Seal-borne sensors reveal fine-scale foraging ecology and evidence for topographically enhanced downstream restratification at Marion Island*. \\
+Thesis: *Seal-borne sensors reveal fine-scale foraging ecology and evidence for topographically enhanced downstream restratification at Marion Island*. 
 
-**Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). \
-Thesis: *Atmospheric rivers contribute to summer surface buoyancy forcing in the Southern Ocean* [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149). \\
+**Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: *Atmospheric rivers contribute to summer surface buoyancy forcing in the Southern Ocean* [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149). \\
 
 ### BACHELORS:
 **Daniel Clason** (B.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). \
