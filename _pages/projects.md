@@ -28,7 +28,7 @@ I have recieved numerous grants and awards that support my research, with a tota
   </div>
 
   <div class="logo" style="text-align: center;">
-    <img src="/images/erc.png" alt="sofia" style="width: 100%; max-width: 150px;">
+    <img src="/images/erc.png" alt="sofia" style="width: 100%; max-width: 120px;">
   </div>
 
 </div>
@@ -90,11 +90,11 @@ Finally, we’ll use what we learn to **improve the models that simulate heat an
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
   <div class="logo" style="text-align: center;">
-    <img src="/images/vr/sea-ice.png" alt="sofia" style="width: 100%; max-width: 350px;">
+    <img src="/images/vr/sea-ice.png" alt="sofia" style="width: 100%; max-width: 400px;">
   </div>
 
   <div class="logo" style="text-align: center;">
-    <img src="/images/vr/field-plan.png" alt="sofia" style="width: 100%; max-width: 350px;">
+    <img src="/images/vr/field-plan.png" alt="sofia" style="width: 100%; max-width: 370px;">
   </div>
 
 </div>
