@@ -84,33 +84,28 @@ header:
 ---
 
 ### PhD GRADUATES:
-**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart & main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
+**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
 
 ### MASTERS:
-**Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
+**Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Kathy Donohue (URI). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
 
-**Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart and main collaborator Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*](https://drive.google.com/file/d/14WFwpTgTkj6Oc5l6BfeM0IbmQISKNzA6/view?usp=sharing). 
+**Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart, main collaborator Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*](https://drive.google.com/file/d/14WFwpTgTkj6Oc5l6BfeM0IbmQISKNzA6/view?usp=sharing). 
 
-**Michaela Edwinson** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Prof. Sebastiaan Swart (GU). Thesis: *Drivers of Air-sea heat flux in the Cape Basin*. 
+**Michaela Edwinson** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Drivers of Air-sea heat flux in the Cape Basin*.](https://drive.google.com/file/d/1r2tCWApb5wiI1r_W-N_nyrWq0D2Kk3bV/view?usp=sharing) 
 
 **Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). Thesis: *Time and space variability of air-sea heat fluxes in the Amundsen Sea*. Publication: [Jacob et al. 2025](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. 
 
-**Bongiwe Jojo** (M.Sc. University of Cape Town, 2024) Supervised with: Dr. Sarah Nicholson (GU). Thesis: *Ocean pCO2 variability across the Southern Ocean*.\\
+**Bongiwe Jojo** (M.Sc. University of Cape Town, 2024) Supervised with: Dr. Sarah Nicholson (SOCCO/CSIR). Thesis: [*Understanding the interannual variability of pCO2 in the sea-ice impacted the Southern Ocean*](https://drive.google.com/file/d/1ky_YR5nrEjIvkbB2-AyvL4qzaNe6s2Zt/view?usp=sharing).
 
-**David Hagman** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU). \
-Thesis: *Unraveling the uncertainties of bulk-derived heat fluxes: A case study for the Southern Ocean*. 
+**David Hagman** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Unraveling the uncertainties of bulk-derived heat fluxes: A case study for the Southern Ocean*.](https://drive.google.com/file/d/13il-6Z9MzppOPP9hSyhvf-hV8gHi8uoW/view?usp=drive_link) 
 
-**Sean Evans** (M.Sc. Physical Oceangraphy, University of Cape Town, 2021). Supervised with: Prof. Nico de Bryun (UP), Dr. Mia Wege (UP), Prof. Isabelle Ansorge (UCT). \ 
-Thesis: *Seal-borne sensors reveal fine-scale foraging ecology and evidence for topographically enhanced downstream restratification at Marion Island*. 
+**Sean Evans** (M.Sc. Physical Oceangraphy, University of Cape Town, 2021). Supervised with: Prof. Nico de Bryun (UP), Dr. Mia Wege (UP), Prof. Isabelle Ansorge (UCT). Thesis: [*Seal-borne sensors reveal fine-scale foraging ecology and evidence for topographically enhanced downstream restratification at Marion Island*.](https://drive.google.com/file/d/1gY1m1PWV1wKHukvVQ6U_UmlokBM-aTIE/view?usp=drive_link) 
 
-**Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: *Atmospheric rivers contribute to summer surface buoyancy forcing in the Southern Ocean* [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149). \\
+**Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*](https://drive.google.com/file/d/1162A0xnMNZ5CKBjSW2uH6FqqkRRsdgc-/view?usp=drive_link). Publication: [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149).
 
 ### BACHELORS:
-**Daniel Clason** (B.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). \
-Thesis: *Storm dynamics in the Agulhas Current*. \\
+**Daniel Clason** (B.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Mid-latitude cyclone air-sea heat flux response over the Agulhas Current*](https://drive.google.com/file/d/1jntr_Gl_tQEXsTyhwnN0_lCd1I_HbgZG/view?usp=drive_link).
 
-**Lovisa Sunnercrantz** (B.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Johan Edholm (GU). \
-Thesis: *Storm impacts on the Southern Ocean air-sea heat and carbon flux* (with contribution to [Prend et al., 2025](https://online.ucpress.edu/elementa/article/13/1/00061/208467/Observing-system-requirements-for-measuring-high)). \\
+**Lovisa Sunnercrantz** (B.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Johan Edholm (GU). Thesis: [*Storm impacts on the Southern Ocean air-sea heat and carbon flux*](https://drive.google.com/file/d/1F4Vo3KGVTVvE5FT34syPxRpj-GBlpbUD/view?usp=drive_link) with contribution to [Prend et al., 2025](https://online.ucpress.edu/elementa/article/13/1/00061/208467/Observing-system-requirements-for-measuring-high).
 
-**Johan Edholm** (B.Sc. Oceanography, University of Gothenburg, 2020). Supervised with Prof. Sebastiaan Swart (GU). \
-Thesis: *Atmospheric rivers in the Atlantic sector of the Southern Ocean*. \\
+**Johan Edholm** (B.Sc. Oceanography, University of Gothenburg, 2020). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO/CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*.](https://drive.google.com/file/d/1HvLJbkCE2Iv6R5D4-9B80_r8T_PIGkvj/view?usp=drive_link) \\
