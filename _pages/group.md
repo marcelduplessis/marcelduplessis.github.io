@@ -89,8 +89,7 @@ header:
 ### MASTERS:
 **Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
 
-**Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart. Collaborator: Dr. Sarah Nicholson (SOCCO, CSIR). \ 
-Thesis: *Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*. 
+**Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart and main collaborator Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*](https://drive.google.com/file/d/14WFwpTgTkj6Oc5l6BfeM0IbmQISKNzA6/view?usp=sharing). 
 
 **Michaela Edwinson** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Prof. Sebastiaan Swart (GU). Thesis: *Drivers of Air-sea heat flux in the Cape Basin*. 
 
