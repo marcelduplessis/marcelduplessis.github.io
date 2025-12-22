@@ -10,15 +10,13 @@ header:
   overlay_filter: 0
 ---
 
-# Projects
-
-Total value of grants awarded: 40m SEK
+I have recieved numerous grants and awards that support my research, with a total value of 40 million SEK.
 
 # Current projects
 ---
 - PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
-- Research Scientist on ERC Synergy Project [WHIRLS](www.whirls.eu).
+- Carl Tryggers Foundation grant: [Observing and quantifying the effects of atmospheric storms on air-sea heat exchange](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/), funded 2026-2028.
 
 ## Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)
 ---
@@ -37,7 +35,7 @@ Total value of grants awarded: 40m SEK
 
 **PI:** Marcel du Plessis \\
 **Call:** [European Research Council Starting Grant](https://erc.europa.eu/apply-grant/starting-grant) under Horizon Europe, 2026-2031 \\
-**Funding:** 2.5m €
+**Funding:** 2.5m € + 3.75m SEK as GU co-financing
 
 *Most of the extra heat trapped by human-made greenhouse gases doesn’t stay in the atmosphere — the ocean absorbs about 93% of it. SOFIA aims to uncover what regulates this heat uptake so we can understand and predict its changes in the future.*
 
@@ -49,6 +47,19 @@ To tackle these challenges, I combine **cutting-edge coupled ocean-atmosphere si
 
 Together, these efforts will build a clearer and more predictive understanding of how the ocean regulates Earth’s climate — knowledge that’s essential for improving future climate projections.
 
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="logo" style="text-align: center;">
+    <img src="/images/sofia/sms_schematic.png" alt="sofia" style="width: 100%; max-width: 250px;">
+  </div>
+
+  <div class="logo" style="text-align: center;">
+    <img src="/images/sofia/swot-field.png" alt="sofia" style="width: 100%; max-width: 520px;">
+  </div>
+
+</div>
+
+<small><b>(Left figure)</b> Satellite image of swirling phytoplankton blooms acting as tracers to the highly energetic flows of the Southern Ocean with a 3D slice of a strain-induced submesoscale front. <b> (Right figure)</b> Schematic of the coupled air-sea processes responsible for air-sea and upper ocean heat exchange, and how these will be sampled via the field plan. Recent SWOT satellite estimates of mesoscale strain rates shows the much finer detail on ocean flow to be resolved in SOFIA.<small>
 
 ## How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty
 ---
@@ -77,16 +88,41 @@ To complement these field observations, we’ll use **high-resolution satellite*
 Finally, we’ll use what we learn to **improve the models that simulate heat and carbon exchange between the ocean and atmosphere**. By reducing uncertainty in how we represent these processes, we hope to strengthen future weather forecasts and global climate projections — and highlight the growing power of autonomous ocean observing systems.
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
-  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/storms.png" alt="storms"
-         style="width: 100%; max-width: 100%;
-                border-radius: 0;
-                object-fit: cover;
-                border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>As wild storms prowl across the Southern Ocean, their fury stirs the air-sea boundary, unleashing turbulent energy that deepens the restless exchange of heat and carbon — the ocean’s breath with the sky. </h3>
-    <p style="text-align: center; font-size: 0.7rem;">Image source: NASA Worldview</p>
+
+  <div class="logo" style="text-align: center;">
+    <img src="/images/vr/sea-ice.png" alt="sofia" style="width: 100%; max-width: 350px;">
   </div>
+
+  <div class="logo" style="text-align: center;">
+    <img src="/images/vr/field-plan.png" alt="sofia" style="width: 100%; max-width: 350px;">
+  </div>
+
 </div>
+
+<small><b>(Left figure)</b> Southern Ocean Earth image from NASA satellite showing the vast expanse of sea ice across the Southern Ocean. SWOT satellite image showing intricate details of submesoscale imprint within sea ice structure. <b> (Right figure)</b> Project field plan and observational methods. Platforms are 1. Wave Glider, 2. Sailbuoy, 3. X-Spar, 4. Gliders, 5. Direct covariance tower.<small>
+
+## WHIRLS: The impacts of ocean fine-scale whirls on climate and ecosystems
+---
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="logo" style="text-align: center;">
+    <img src="/images/WHIRLS.png" alt="vr" style="width: 100%; max-width: 300px;">
+  </div>
+
+  <div class="logo" style="text-align: center;">
+    <img src="/images/erc.png" alt="sofia" style="width: 100%; max-width: 100px;">
+  </div>
+
+</div>
+
+**PI's:** Sebastiaan Swart (GU), Arne Biastoch (GEOMAR), Sabrina Speich (Ecole Normale Supérieure of Paris), Sarah Fawcett (University of Cape Town) \\
+**Call:** European Research Council Synergy Grant, 2025-2030 \\
+**Role:** Research Scientist
+
+WHIRLS takes place in an area called the Cape Basin, placed within the Agulhas Current System. This region has the strongest and most energetic currents in the world’s ocean and play a key role in the global ocean circulation, and so strongly influences global climate. In particular, these currents ‘leak’ heat and salt from the Indian to the Atlantic Ocean, balancing the overturning circulation of the whole Atlantic and influencing the weather and climate we experience. I will work with Sebastiaan Swart and his research team together with biogeochemists, oceanographers, and climate modellers from France, Germany, and South Africa.
+
+<br>
 
 # Completed Projects
 ---
@@ -95,7 +131,6 @@ Finally, we’ll use what we learn to **improve the models that simulate heat an
 ---
 
 **PI:** Marcel du Plessis \\
-**Host:** Sebastiaan Swart @ University of Gothenburg \\
 **Call:** Marie Skłodowska-Curie Individual Fellowship, 2021-2023 \\
 **Funding:** 2.3m SEK
 
@@ -105,9 +140,8 @@ Submesoscale Processes in a Changing Environment (SPICE) aims to quantify the va
 ---
 
 **PI:** J.B. Salleé \\
-**WP Lead:** Sebastiaan Swart @ University of Gothenburg \\
-**Role:** Postdoc
-**Call:** European Commission Horizon 2020, 2019-2025 \\
-**Funding:** 2.3m SEK
+**WP Lead:** Sebastiaan Swart (University of Gothenburg) \\
+**Role:** Postdoc \\
+**Call:** European Commission Horizon 2020, 2019-2025 
 
 Southern Ocean Carbon and Heat Impact on Climate (SO-CHIC) contributes to reducing uncertainties in climate change predictions, 16 institutions decided to pool ability in a common initiative and send in August 2018 a proposal to the call LC-CLA-08-2018 “Addressing knowledge gaps in climate science, in support of IPCC reports” as part of the European Union’s Horizon 2020 research and innovation programme. Our role in SO-CHIC is to investigate the impact of the physical processes which control the variability of heat and carbon uptake in the Southern Ocean. To do this, we quantify their fluxes at the air-sea-ice interface and estimate the synoptic-to-interannual variability of heat and carbon storage in the Southern Ocean.

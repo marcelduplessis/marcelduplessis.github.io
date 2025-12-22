@@ -51,11 +51,11 @@ For my ERC SOFIA project, I will bring new expertise in 3D modelling capabilitie
 
 ## Recent Updates
 
-<ul>
+<ul class="recent-posts">
   {% for post in site.posts limit:3 %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
-      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small><br>
       <small>{{ post.excerpt | markdownify }}</small>
     </li>
   {% endfor %}

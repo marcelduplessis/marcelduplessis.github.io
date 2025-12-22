@@ -1,5 +1,5 @@
 ---
-title: "New Publication in Nature Geoscience"
+title: "Publication on Southern Ocean warming"
 date: 2025-12-03
 tags: 
   - publications

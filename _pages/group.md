@@ -61,17 +61,17 @@ header:
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/bio-photo.jpg" alt="Julia" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Starting March 2026 (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+    <h3>Julia Noack (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Starting March 2026 ... Julia will start working with the COAS model simulation as part of the SOFIA project, with the goal to reveal the regional and seasonal hotspots of fine-scale dynamics driven ventilation.</p>
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/bio-photo.jpg" alt="Paula" style="width: 70%; max-width: 190px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Starting March 2026 (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Coming soon ...</p>
+    <h3>Paula Damke (PhD)</h3>
+    <p style="text-align: center; font-size: 0.7rem;">Starting March 2026 ... Paula will focus on the link between Southern Ocean air-sea interactions and submesoscale dynamics. Her PhD will contribute to the VR project understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange. </p>
   </div>
 
 </div>
