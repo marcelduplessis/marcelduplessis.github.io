@@ -84,8 +84,7 @@ header:
 ---
 
 ### PhD GRADUATES:
-**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart & main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). \\
-Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
+**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart & main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
 
 ### MASTERS:
 **Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
