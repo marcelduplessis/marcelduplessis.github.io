@@ -12,7 +12,7 @@ header:
 
 I have recieved numerous grants and awards that support my research, with a total value of 40 million SEK.
 
-# Current projects
+## Current projects
 ---
 - PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
@@ -61,7 +61,7 @@ Together, these efforts will build a clearer and more predictive understanding o
 
 <small><b>(Left figure)</b> Satellite image of swirling phytoplankton blooms acting as tracers to the highly energetic flows of the Southern Ocean with a 3D slice of a strain-induced submesoscale front. <b> (Right figure)</b> Schematic of the coupled air-sea processes responsible for air-sea and upper ocean heat exchange, and how these will be sampled via the field plan. Recent SWOT satellite estimates of mesoscale strain rates shows the much finer detail on ocean flow to be resolved in SOFIA.<small>
 
-## How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty
+## Understanding storms reduces uncertainty air-sea heat and CO2 exchange
 ---
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
@@ -124,7 +124,7 @@ WHIRLS takes place in an area called the Cape Basin, placed within the Agulhas C
 
 <br>
 
-# Completed Projects
+## Completed Projects
 ---
 
 ## Submesoscale Processes in a Changing Environment (SPICE)
