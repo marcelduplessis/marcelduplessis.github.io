@@ -89,7 +89,7 @@ header:
 
 **Michaela Edwinson** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Drivers of Air-sea heat flux in the Cape Basin*.](https://drive.google.com/file/d/1r2tCWApb5wiI1r_W-N_nyrWq0D2Kk3bV/view?usp=sharing) 
 
-**Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). Thesis: *Time and space variability of air-sea heat fluxes in the Amundsen Sea*. Publication: [Jacob et al. 2025](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. 
+**Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). Thesis: [*Time and space variability of air-sea heat fluxes in the Amundsen Sea*](https://drive.google.com/file/d/1LiKoGV6pL5yHxWeyPfCcJ1jZjFmprXbD/view?usp=sharing). Publication: [Jacob et al. 2025](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. 
 
 **Bongiwe Jojo** (M.Sc. University of Cape Town, 2024) Supervised with: Dr. Sarah Nicholson (SOCCO/CSIR). Thesis: [*Understanding the interannual variability of pCO2 in the sea-ice impacted the Southern Ocean*](https://drive.google.com/file/d/1ky_YR5nrEjIvkbB2-AyvL4qzaNe6s2Zt/view?usp=sharing).
 
@@ -97,7 +97,7 @@ header:
 
 **Sean Evans** (M.Sc. Physical Oceangraphy, University of Cape Town, 2021). Supervised with: Prof. Nico de Bryun (UP), Dr. Mia Wege (UP), Prof. Isabelle Ansorge (UCT). Thesis: [*Seal-borne sensors reveal fine-scale foraging ecology and evidence for topographically enhanced downstream restratification at Marion Island*.](https://drive.google.com/file/d/1gY1m1PWV1wKHukvVQ6U_UmlokBM-aTIE/view?usp=drive_link) 
 
-**Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*](https://drive.google.com/file/d/1162A0xnMNZ5CKBjSW2uH6FqqkRRsdgc-/view?usp=drive_link). Publication: [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149).
+**Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*](https://drive.google.com/file/d/1ZJTOLx473ALvP0IpufxRlOfRB_1HdScj/view?usp=sharing). Publication: [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149).
 
 ### BACHELORS:
 **Daniel Clason** (B.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Mid-latitude cyclone air-sea heat flux response over the Agulhas Current*](https://drive.google.com/file/d/1jntr_Gl_tQEXsTyhwnN0_lCd1I_HbgZG/view?usp=drive_link).
