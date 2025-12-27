@@ -16,23 +16,35 @@ header:
 
 - **SUN Fleet Science Committee (2025 - present)** <br> I am on the science committee team of the newly-formed Emerging Network of the Global Ocean Observing System called [Surface Uncrewed Network (SUN) Fleet](https://airseaobs.org/sun-fleet). Our focus is to foster collaboration, streamline data and technology standards, and promote best practices in deployment, operations, and data sharing for uncrewed surface vehicles (USVs).
 
-- **Southern Ocean Flux Capability Working Leadership Group (2023 - present)** <br> I am part of the leadership team for [SOFLUX](https://soos.aq/activities/cwg/soflux), a Southern Ocean Observing System (SOOS) Capability Working Group focused on advancing coordinated air–sea flux observations to improve our understanding and quantification of momentum, heat, and gas exchanges in the Southern Ocean.
+- **Southern Ocean Flux Capability Working Leadership Group (2023 - present)** <br> I am part of the leadership team for [SOFLUX](https://soos.aq/activities/cwg/soflux), a [Southern Ocean Observing System](https://www.soos.aq/) (SOOS) Capability Working Group focused on advancing coordinated air–sea flux observations to improve our understanding and quantification of momentum, heat, and gas exchanges in the Southern Ocean.
 
 ## Past Panels
 ---
-- Co-Chair, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
-- APECS Representative, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of the [Southern Ocean Observing System](https://www.soos.aq/)
+- I was the co-chair for the SOFLUX Capability Working Group of SOOS (2021-2025)
+- I co-lead the FAIR Data Task Team within OASIS with Ute Schuster (2021-2024) 
+- APECS Representative, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of SOOS (2019-2021)
+- Association for Polar Early Career Scientists (APECS) South Africa National Committee (2018-2020)
 
 ## White Papers
---
-
-
-## Meeting and Conference
 ---
-- Session convenor for 4 sessions at international conferences (2023 onwards)
+- Scientific planning for Antarctica InSync theme "Southern Ocean and Antarctic heat, freshwater, carbon and other element cycles and their response to climate change". I contributed to the knowledge gaps and research needs for *Air-Sea Heat Fluxes*. White paper available on the SCAR website [here](https://scar.org/~documents/route%3A/download/6536). 
 
+## Meeting Organisation
+---
+
+### CONVENER:
+- Process Studies, model improvement and Observing Network design that Feed into Improved Earth Systems Model Forecasts, OASIS Face2Face Meeting, Ocean Sciences Meeting, New Orleans, USA (2024)
+- Observing Air-Sea Interactions Using Autonomous Technologies: Advancements, Challenges, and Implications for a Practical and Integrated Observing System, AGU Ocean Sciences, New Orleans, USA (2024)
+- Air-Sea Interactions and Climate Variability in the Southern Ocean, SOOS Symposium, Hobart, Australia (2023)
+
+### HOSTED WORKSHOPS & WEBINARS:
+- OASIS Face2Face Meeting Organising Committee, Ocean Sciences Meeting, New Orleans, USA (2024)
+- I co-organised and hosted the SOFLUX Webinar Series with over 20 webinars (2021 - present)
+- I hosted the OASIS “Ocean Shots” for a Predicted Ocean Satellite Event (2021)
+- I co-hosted the APECS South Africa Career Development Workshop (2020)
 
 ## Reviewing
 ---
+- I have reviewed scientific articles for numerous international journals; some of which include Springer Nature Theoretical and Applied Climatology, Geophysical Research Letters, Journal of Advances in Modelling Earth Systems, Journal of Physical Oceanography, Journal of Geophysical Research: Oceans.
 - Reviewer for POLARIN Support Applications (2025, 2026)
 - Examiner for one PhD defence (Kirtana Naeck, 2025)
