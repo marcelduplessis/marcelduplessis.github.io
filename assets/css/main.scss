@@ -56,7 +56,7 @@
 
 // ↓ Put overrides after the theme imports
 .masthead__inner-wrap {
-  margin-left: 7em !important;
+  margin-left: 1em !important;
   margin-right: auto;
 }
 
@@ -80,4 +80,18 @@
     padding-left: 0;
     padding-right: 0;
   }
-   }
+
+  .greedy-nav .visible-links {
+    display: none !important;
+  }
+
+  .greedy-nav .hidden-links,
+  .greedy-nav .greedy-nav__toggle {
+    display: block !important;
+  }
+
+  .masthead__inner-wrap {
+    margin-left: -5em !important;
+  }
+
+  }
