@@ -2,7 +2,7 @@
 layout: archive
 title: " "
 permalink: /group/
-author_profile: true
+author_profile: false
 redirect_from:
   - /group
 header:

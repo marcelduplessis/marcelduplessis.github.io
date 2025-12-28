@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Projects"
+title: " "
 permalink: /projects/
-author_profile: true
+author_profile: false
 redirect_from:
   - /projects
 header:
@@ -10,7 +10,7 @@ header:
   overlay_filter: 0
 ---
 
-# Project
+# Projects
 
 I have recieved numerous grants and awards that support my research, with a total value of 40 million SEK.
 
@@ -20,7 +20,7 @@ I have recieved numerous grants and awards that support my research, with a tota
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
 - Carl Tryggers Foundation grant: [Observing and quantifying the effects of atmospheric storms on air-sea heat exchange](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/), funded 2026-2028.
 
-## Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)
+## SOFIA: Southern Ocean Fine-Scale Interactions with the Atmosphere
 ---
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
@@ -77,19 +77,8 @@ To complement these field observations, we’ll use **high-resolution satellite*
 
 Finally, we’ll use what we learn to **improve the models that simulate heat and carbon exchange between the ocean and atmosphere**. By reducing uncertainty in how we represent these processes, we hope to strengthen future weather forecasts and global climate projections — and highlight the growing power of autonomous ocean observing systems.
 
-<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+<a href="https://marcelduplessis.github.io/vr/" class="btn">Learn more</a>
 
-  <div class="logo" style="text-align: center;">
-    <img src="/images/vr/sea-ice.png" alt="sofia" style="width: 100%; max-width: 400px;">
-  </div>
-
-  <div class="logo" style="text-align: center;">
-    <img src="/images/vr/field-plan.png" alt="sofia" style="width: 100%; max-width: 370px;">
-  </div>
-
-</div>
-
-<small><b>(Left figure)</b> Southern Ocean Earth image from NASA satellite showing the vast expanse of sea ice across the Southern Ocean. SWOT satellite image showing intricate details of submesoscale imprint within sea ice structure. <b> (Right figure)</b> Project field plan and observational methods. Platforms are 1. Wave Glider, 2. Sailbuoy, 3. X-Spar, 4. Gliders, 5. Direct covariance tower.<small>
 
 ## WHIRLS: The impacts of ocean fine-scale whirls on climate and ecosystems
 ---

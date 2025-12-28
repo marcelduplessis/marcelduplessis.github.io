@@ -12,8 +12,8 @@
 
     @include clearfix();
     margin-bottom: 1em;
-    margin-top: -5em;
-    margin-left: -2em;
+    margin-top: 0em;
+    margin-left: -4em;
 
     @media screen and (min-width: $sidebar-screen-min-width) {
       height: 100vh;

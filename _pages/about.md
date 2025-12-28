@@ -9,7 +9,9 @@ header:
   caption: "Credit: Hector Torres @ JPL-NASA"
 ---
 
-## About me
+<br>
+
+# About me
 
 I am a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, where I study how storms, eddies, and other fine-scale ocean–atmosphere interactions move heat, moisture, and carbon dioxide between the atmosphere, ocean surface, and deep ocean. I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, I lead a research group supported by a Swedish Research Council Establishment Grant and an ERC Starting Grant (SOFIA), combining autonomous ocean robotics, satellite observations, and high-resolution coupled models to reveal how fine-scale processes shape Southern Ocean heat and CO₂ uptake.
 

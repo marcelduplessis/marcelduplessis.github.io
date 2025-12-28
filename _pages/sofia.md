@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /group/
+permalink: /vr/
 author_profile: true
 redirect_from:
   - /group

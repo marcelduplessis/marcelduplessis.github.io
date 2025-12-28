@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "Community"
+title: " "
 permalink: /community/
-author_profile: true
+author_profile: false
 redirect_from:
   - /community
 header:
   overlay_image: ice-berg.jpg
   overlay_filter: 0
 ---
+
+# Community 
 
 ## Current Panels
 ---

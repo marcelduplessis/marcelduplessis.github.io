@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 header:
   overlay_image: ctd.jpg
   overlay_filter: 0
 ---
+
+<h1 class="archive__title">CV</h1>
+<br>
 
 {% include base_path %}
 
