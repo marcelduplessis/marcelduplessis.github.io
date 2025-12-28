@@ -260,6 +260,28 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+
+  @include breakpoint($small) {
+    .greedy-nav {
+      .site-title {
+        flex: 1 1 auto;   // occupy left side
+      }
+
+    .visible-links {
+      display: none;     // let GreedyNav move items into .hidden-links
+    }
+
+    .hidden-links {
+      // ensure dropdown menu appears under the button
+      right: 0;
+      left: auto;
+    }
+
+    button {
+      position: relative;  // button on the right
+      margin-left: auto;
+    }
+  }
   }
 
   .hidden-links {
