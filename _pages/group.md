@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Group"
+title: " "
 permalink: /group/
 author_profile: true
 redirect_from:
@@ -9,6 +9,8 @@ header:
   overlay_image: sea-ice-pano.jpg
   overlay_filter: 0
 ---
+
+# Research Group
 
 ## Opportunities
 ---
@@ -21,57 +23,62 @@ header:
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/johan.png" alt="Johan Edholm" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/johan.png" alt="Johan Edholm" style="width: 70%; max-width: 220px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Johan Edholm (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Johan’s primary interest lies in air-sea interactions, ranging from local, small-scale effects to broad, global implications. He focuses on the autonomous technologies that allow us to observe these interactions from the coast to the open ocean.
+    <h3 style="margin-top: 0.9em;">Johan Edholm (PhD)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">Johan’s primary interest lies in air-sea interactions, ranging from local, small-scale effects to broad, global implications. He focuses on the autonomous technologies that allow us to observe these interactions from the coast to the open ocean.
     <br><br>
     Privately, he enjoys quality time with friends and family, whether that means enjoying good music and fine dining or playing board games. He is also an avid traveller who enjoys exploring new cultures and seeking out new adventures.</p>
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/vincent.png" alt="Vincent" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/vincent.png" alt="Vincent" style="width: 70%; max-width: 220px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Vincent Doriot (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Vincent examines fine-scale mixed layer dynamics from high-resolution underwater gliders. While his current work focuses on the Southern Ocean, he has plans to explore the complex processes of the Agulhas Current.
+    <h3 style="margin-top: 0.9em;">Vincent Doriot (PhD)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">Vincent examines fine-scale mixed layer dynamics from high-resolution underwater gliders. While his current work focuses on the Southern Ocean, he has plans to explore the complex processes of the Agulhas Current.
     <br><br>
     Outside of work, Vincent is passionate about music, both as a listener and a guitar player. In the warmer months, he explores nature looking for wildlife with his camera, while winter finds him at his computer playing video games.</p>
   </div>
 
+  </div>
+
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/lovisa.jpeg" alt="Lovisa" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/lovisa.jpeg" alt="Lovisa" style="width: 70%; max-width: 220px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Lovisa Sunnercrantz (MSc)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Lovisa is a masters student in Physical Oceanography at the University of Gothenburg. She is doing her one-year masters thesis with us focusing on estimating vertical velocities and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous glider observations and satellite altimetry. 
+    <h3 style="margin-top: 0.9em;">Lovisa Sunnercrantz (MSc)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">Lovisa is a masters student in Physical Oceanography at the University of Gothenburg. She is doing her one-year masters thesis with us focusing on estimating vertical velocities and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous glider observations and satellite altimetry. 
     <br><br>
     Outside of her studies, she loves diving and enjoys climbing and spending time with friends. </p>
-  </div>
+    </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/neha.png" alt="Neha" style="width: 70%; max-width: 220px; border-radius: 50%;
+            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <h3 style="margin-top: 0.9em;">Neha Ramsarup (PhD)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">Neha explores how the dynamic Agulhas Current influences South Africa’s coastal systems, using autonomous instruments and satellites to track meanders, eddies, and upwelling events in Algoa Bay. Her work uncovers the fine-scale processes that shape the coastal environment and its ecosystems.
+    <br><br>
+    When she’s not working, Neha can usually be found chasing sunsets and taking photos whenever the light is just right. She also enjoys dancing and spending time with friends, especially when there’s good music and good energy</p>
+  </div>    
 
 </div>
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/neha.png" alt="Neha" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/bio-photo.jpg" alt="Julia" style="width: 70%; max-width: 220px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Neha Ramsarup (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Neha explores how the dynamic Agulhas Current influences South Africa’s coastal systems, using autonomous instruments and satellites to track meanders, eddies, and upwelling events in Algoa Bay. Her work uncovers the fine-scale processes that shape the coastal environment and its ecosystems.
-    <br><br>
-    When she’s not working, Neha can usually be found chasing sunsets and taking photos whenever the light is just right. She also enjoys dancing and spending time with friends, especially when there’s good music and good energy</p>
+    <h3 style="margin-top: 0.9em;">Julia Noack (PhD)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">Starting March 2026 ... Julia will start working with the COAS model simulation as part of the SOFIA project, with the goal to reveal the regional and seasonal hotspots of fine-scale dynamics driven ventilation.</p>
   </div>
 
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Julia" style="width: 70%; max-width: 190px; border-radius: 50%;
+    <img src="/images/bio-photo.jpg" alt="Paula" style="width: 70%; max-width: 220px; border-radius: 50%;
             object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Julia Noack (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Starting March 2026 ... Julia will start working with the COAS model simulation as part of the SOFIA project, with the goal to reveal the regional and seasonal hotspots of fine-scale dynamics driven ventilation.</p>
-  </div>
-
-  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
-    <img src="/images/bio-photo.jpg" alt="Paula" style="width: 70%; max-width: 190px; border-radius: 50%;
-            object-fit: cover; border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
-    <h3>Paula Damke (PhD)</h3>
-    <p style="text-align: center; font-size: 0.7rem;">Starting March 2026 ... Paula will focus on the link between Southern Ocean air-sea interactions and submesoscale dynamics. Her PhD will contribute to the VR project understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange. </p>
+    <h3 style="margin-top: 0.9em;">Paula Damke (PhD)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">Starting March 2026 ... Paula will focus on the link between Southern Ocean air-sea interactions and submesoscale dynamics. Her PhD will contribute to the VR project understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange. </p>
   </div>
 
 </div>

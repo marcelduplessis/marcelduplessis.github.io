@@ -31,7 +31,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-5;
+    font-size: $type-size-3 !important;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -176,6 +176,15 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .site-title {
+    font-weight: bold;
+    margin-left: -1em;
+    font-size: $type-size-3;
+  }
 
   a {
     display: block;
@@ -204,14 +213,16 @@
 
   .visible-links {
     display: table;
+    margin-left: auto;
 
     li {
       display: table-cell;
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        font-weight: normal;
         text-wrap: wrap;
+        text-align: left;
 
         a {
           margin-left: 0;

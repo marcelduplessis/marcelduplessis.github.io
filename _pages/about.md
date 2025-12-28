@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ocean & Atmosphere Researcher"
+title: " "
 layout: single
 author_profile: true
 header:
@@ -10,13 +10,12 @@ header:
 ---
 
 ## About me
-I'm a researcher in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, studying the ocean and atmosphere exchange of properties vital for the weather and climate we experience. My research focuses on the physical processes that move climate-relevant properties—such as heat, moisture, and carbon dioxide—between the atmosphere, the ocean surface, and the deep ocean. This work is motivated by the ocean’s crucial role in absorbing much of the excess heat and CO₂ produced by human greenhouse gas emissions. 
 
-I was recently awarded a *European Research Council Starting Grant* titled **SOFIA**, which stands for Southern Ocean fine-scale interactions with the atmosphere. In SOFIA, my goals is to **reveal the mechanisms of heat transport from the atmosphere, through the air-sea interface, and into the ocean interior across the Southern Ocean.** I will bring together a high-resolution coupled ocean-atmosphere model simulation with new annual in situ datasets of ocean-atmosphere measurements using autonomous ocean robotics, and upscale these insights using the SWOT satellite to determining the how fine-scale motions in the ocean drive vertical heat movements within the upper ocean. Reach out if you would like to work on this together! 
+I am a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, where I study how storms, eddies, and other fine-scale ocean–atmosphere interactions move heat, moisture, and carbon dioxide between the atmosphere, ocean surface, and deep ocean. I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, I lead a research group supported by a Swedish Research Council Establishment Grant and an ERC Starting Grant (SOFIA), combining autonomous ocean robotics, satellite observations, and high-resolution coupled models to reveal how fine-scale processes shape Southern Ocean heat and CO₂ uptake.
 
 ## My Approach
 
-Combining data collected by autonomous ocean robotics, satellite observations and numerical ocean–atmosphere models, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
+I combine data collected by autonomous ocean robotics, satellite observations and numerical ocean–atmosphere models, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
 
 **In situ ocean and atmosphere observations** \\
 Much of my research uses measurements of ocean and atmosphere properies obtained from autonomous ocean platforms such as profiling gliders, surface uncrewed vehicles, and profiling floats. These platforms, developed and deployed over the last few decades, have shown to be highly useful in revealing the high-frequency nature of ocean and atmospheric variability, and their interactions and implicitons for air-sea exchange. 
@@ -33,7 +32,7 @@ The pictures above show several of the autonomous platforms that I use in my res
 
 I have been fortunate to be able to deploy these autonomous platforms far out into the ocean on [several research expiditions](https://marcelduplessis.github.io/fieldwork/), with my first experience to the Southern Ocean and Antarctica during my honours year at the University of Cape Town. To date I have participated in seven research expeditions on several world class vessels. I am hugely grateful to those who have provided the opportunity for me to build my career as a sea going oceanographer.
 
-**Modelling** \\
+**3D Modelling** \\
 For my ERC SOFIA project, I will bring new expertise in 3D modelling capabilities by analysing the [Global, Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) run and hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that will be used to reveal the role of high-frequency processes in shaping ocean heat uptake.
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">

@@ -18,12 +18,12 @@
   z-index: 10;
 
   &__inner-wrap {
-    margin-left: 7em;
+    margin-left: 0em;
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $serif;
-    text-align: left;
+    text-align: right;
     max-width: $x-large;
 
     @include breakpoint($x-large) {
@@ -41,19 +41,19 @@
 }
 
 .masthead__inner-wrap {
-    max-width: 1024px;
-    margin-left: 7em;
+    max-width: 1280px;
+    margin-left: 0em;
     margin-right: auto;
     clear: both;
     padding: 1em 1em 1em;
-    font-family: Georgia,serif
+    font-family: $sans-serif;
 }
 
 .masthead__menu {
 
   a {
-    font-size: $type-size-4 !important;
-    font-family: $serif;
+    font-size: $type-size-5 !important;
+    font-family: $sans-serif;
     color: $darker-gray !important;
   }
 
@@ -71,8 +71,8 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 5.2em;
-    padding-left: -10em;
+    padding-right: 0em;
+    padding-left: 0em;
     font-weight: 700;
   }
 }

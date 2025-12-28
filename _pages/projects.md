@@ -10,9 +10,11 @@ header:
   overlay_filter: 0
 ---
 
+# Project
+
 I have recieved numerous grants and awards that support my research, with a total value of 40 million SEK.
 
-## Current projects
+## Current funded projects
 ---
 - PI on European Research Council (ERC) Starting Grant project [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), funded 2026-2031.
 - PI on Vetenskapsrådet (VR) / Swedish Research Council Establishment Grant: [How understanding storms reduces Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), funded 2025-2028.
@@ -47,19 +49,7 @@ To tackle these challenges, I combine **cutting-edge coupled ocean-atmosphere si
 
 Together, these efforts will build a clearer and more predictive understanding of how the ocean regulates Earth’s climate — knowledge that’s essential for improving future climate projections.
 
-<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
-
-  <div class="logo" style="text-align: center;">
-    <img src="/images/sofia/sms_schematic.png" alt="sofia" style="width: 100%; max-width: 250px;">
-  </div>
-
-  <div class="logo" style="text-align: center;">
-    <img src="/images/sofia/swot-field.png" alt="sofia" style="width: 100%; max-width: 520px;">
-  </div>
-
-</div>
-
-<small><b>(Left figure)</b> Satellite image of swirling phytoplankton blooms acting as tracers to the highly energetic flows of the Southern Ocean with a 3D slice of a strain-induced submesoscale front. <b> (Right figure)</b> Schematic of the coupled air-sea processes responsible for air-sea and upper ocean heat exchange, and how these will be sampled via the field plan. Recent SWOT satellite estimates of mesoscale strain rates shows the much finer detail on ocean flow to be resolved in SOFIA.<small>
+<a href="https://marcelduplessis.github.io/sofia/" class="btn">Learn more about SOFIA</a>
 
 ## Understanding storms reduces uncertainty air-sea heat and CO2 exchange
 ---
@@ -122,7 +112,7 @@ Finally, we’ll use what we learn to **improve the models that simulate heat an
 
 WHIRLS takes place in an area called the Cape Basin, placed within the Agulhas Current System. This region has the strongest and most energetic currents in the world’s ocean and play a key role in the global ocean circulation, and so strongly influences global climate. In particular, these currents ‘leak’ heat and salt from the Indian to the Atlantic Ocean, balancing the overturning circulation of the whole Atlantic and influencing the weather and climate we experience. I will work with Sebastiaan Swart and his research team together with biogeochemists, oceanographers, and climate modellers from France, Germany, and South Africa.
 
-<br>
+<a href="https://www.whirls.eu/" class="btn">Learn more about WHIRLS</a>
 
 ## Completed Projects
 ---
