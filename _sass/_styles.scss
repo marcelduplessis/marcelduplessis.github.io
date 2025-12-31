@@ -20,15 +20,3 @@
   margin-left: 0;
   padding-left: 0;
 }
-
-/* Phone: hide inline links, show hamburger */
-@media (max-width: 768px) {
-  .greedy-nav .visible-links {
-    display: none !important;
-  }
-
-  .greedy-nav .hidden-links,
-  .greedy-nav .greedy-nav__toggle {
-    display: block !important;
-  }
-}

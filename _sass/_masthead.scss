@@ -18,13 +18,11 @@
   z-index: 10;
 
   &__inner-wrap {
-    margin-left: 0em;
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $serif;
     text-align: right;
-    max-width: $x-large;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -41,12 +39,34 @@
 }
 
 .masthead__inner-wrap {
-    max-width: 1280px;
-    margin-left: 0em;
-    margin-right: auto;
+    max-width: $v-large;
     clear: both;
     padding: 1em 1em 1em;
     font-family: $sans-serif;
+    margin-left: 0em !important;
+    margin-right: auto; 
+    
+    .nav-toggle {
+      display: none;   
+    }
+
+    .visible-links {
+      display: flex;
+    }
+
+    /* @include breakpoint($medium) { // use your existing mixin
+    
+      .nav-toggle {
+        display: inline-flex; // show hamburger
+        align-items: center;
+        justify-content: center;
+      }
+
+    .visible-links {
+      display: none; // hide the horizontal nav
+    }
+      
+  } /*/
 }
 
 .masthead__menu {

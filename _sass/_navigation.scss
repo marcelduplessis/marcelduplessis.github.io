@@ -182,8 +182,10 @@
 
   .site-title {
     font-weight: bold;
-    margin-left: 6em;
-    font-size: $type-size-5 !important;
+    margin-left: 0.5em;
+    font-size: $type-size-4 !important;
+    min-width: 180px;
+    max-width: 180px;
   }
 
   a {
@@ -209,6 +211,7 @@
     color: #fff;
     cursor: pointer;
     z-index: 100;
+    display: inline-flex !important
   }
 
   .visible-links {
@@ -260,29 +263,6 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
-  }
-
-  @include breakpoint($small) {
-    .greedy-nav {
-      .site-title {
-        flex: 1 1 auto;   // occupy left side
-      }
-
-    .visible-links {
-      display: none;     // let GreedyNav move items into .hidden-links
-    }
-
-    .hidden-links {
-      // ensure dropdown menu appears under the button
-      right: 0;
-      left: auto;
-    }
-
-    button {
-      position: relative;  // button on the right
-      margin-left: auto;
-    }
-  }
   }
 
   .hidden-links {
@@ -342,6 +322,7 @@
       }
     }
   }
+
 }
 
 

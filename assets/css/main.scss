@@ -45,19 +45,13 @@
 
 .page__hero,
 .page__hero--overlay {
-  min-height: 350px;   /* or 400px, tweak to taste */
+  min-height: 300px;   /* or 400px, tweak to taste */
 }
 
 /* ensure the hero takes full width at the top */
 .page__hero {
   width: 100%;
   display: block;
-}
-
-// ↓ Put overrides after the theme imports
-.masthead__inner-wrap {
-  margin-left: 1em !important;
-  margin-right: auto;
 }
 
 /* Mobile: up to 768px (adjust as needed) */
@@ -81,17 +75,31 @@
     padding-right: 0;
   }
 
-  .greedy-nav .visible-links {
+  /*.greedy-nav .visible-links {
     display: none !important;
   }
 
-  .greedy-nav .hidden-links,
-  .greedy-nav .greedy-nav__toggle {
-    display: block !important;
+  .greedy-nav > button {
+    display: inline-block !important;
   }
+
+  .greedy-nav .hidden-links {
+    display: block !important;
+  } /*/
 
   .masthead__inner-wrap {
     margin-left: -5em !important;
   }
 
+}
+
+@media (max-width: $medium) {
+  .greedy-nav button.hidden {
+    display: inline-flex !important;
+    visibility: visible;
   }
+
+  .greedy-nav .visible-links {
+    display: none !important;
+  }
+}
