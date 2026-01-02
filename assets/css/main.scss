@@ -80,7 +80,7 @@
     margin-left: -5em !important;
   }  
     
-  .greedy-nav button.hidden {
+  /* .greedy-nav button.hidden {
     display: inline-flex !important;
     visibility: visible;
   }
@@ -89,9 +89,18 @@
     display: none !important;
   }
 
+
   .greedy-nav .hidden-links {
-    display: flex !important;
+    display: flex;         // or block, etc.
+    flex-direction: column;
+    }
+
+
+  .greedy-nav .hidden-links.hidden {
+  display: none;
+  visibility: hidden;
   }
+
 
   .greedy-nav {
 
@@ -101,4 +110,5 @@
       justify-content: center;
     }
   }
+    /*/
 }
