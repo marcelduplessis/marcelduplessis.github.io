@@ -79,6 +79,13 @@
   .masthead__inner-wrap {
     margin-left: -5em !important;
   }  
+
+  .greedy-nav {
+    .site-title {
+      font-size: $type-size-5 !important;  // or whatever step down you prefer
+      line-height: 1.1;                    // optional: keeps it compact
+  }
+  }
     
   /* .greedy-nav button.hidden {
     display: inline-flex !important;
