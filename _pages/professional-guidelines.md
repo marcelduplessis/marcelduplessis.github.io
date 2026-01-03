@@ -10,6 +10,10 @@ header:
   overlay_filter: 0
 ---
 
+These are the professional guidelines that help support our work. It should also give clarity to your role and responsibility within the group. 
+
+**v1:** Updated 3 January 2026
+
 # Core Principles
 ---
 
@@ -19,10 +23,13 @@ header:
 4. **Take care of yourself:** take care of your physical and mental health.
 5. **Respect one another:** we work in a team, abide by the code of conduct.
 
+<br>
+
 # 1. Roles and Responsibilities
 ---
 
-## PI
+## PI Responsibilities
+--- 
 
 As a group leader, Marcel has a unique and challenging range of responsibilities.
 
@@ -54,7 +61,8 @@ As a group leader, Marcel has a unique and challenging range of responsibilities
 
 One point of enumerating these responsibilities is to emphasize that the PI has a great many demands on his time, which must be managed carefully.
 
-## Postdoc
+## Postdoc Responsibilities
+--- 
 
 Postdocs are relatively free of responsibilities and have the experience to function independently. (That’s why everyone else is jealous of postdocs.) On the other hand, they have to face the uncertainty of the job market...
 
@@ -74,7 +82,8 @@ Postdocs are relatively free of responsibilities and have the experience to func
 
 - **Communicate with the group and attend group meetings.**
 
-## PhD
+## PhD Responsibilities
+--- 
 
 PhD students have a complex range of responsibilities to manage. Learning to deal with it all is part of the journey. 
 
@@ -96,7 +105,8 @@ PhD students have a complex range of responsibilities to manage. Learning to dea
 
 - **Communicate with the Group and attend group meetings.**
 
-## Masters
+## Masters Responsibilities
+--- 
 
 We normally only accept 60 HP master's students, which is equivalent to about 9 months of research time in the University of Gothenburg model. This is your first step beyond the coursework curtain and into the research world. It can be confusing and sometimes a little daunting. 
 
@@ -104,13 +114,16 @@ We normally only accept 60 HP master's students, which is equivalent to about 9 
 
 - **Ask Questions!** If something is unclear to you–either a science question or a procedural / administrative issue–it is your responsability to speak up.
 
-# 2. Professional Expectations
+<br>
 
-## Vacation and Working Hours
+# 2. Professional Expectations
+--- 
+
+## Vacation and working hours:
 
 One of the great advantages of working in academia is the flexible schedule. But this flexibility can also be a curse. There is a reason why business require their employees to show up every day at nine: this is how work gets done. 
 
-**Here are some general guidelines to help define what it means to be “at work”:**
+## Here are some general guidelines to help define what it means to be “at work”:
 
 - Aim for a 40 hour work-week on average. Academic work often occurs in bursts. Sometimes you are happy and excited to work more hours in a week as you are on the cusp of a major breakthrough. You can balance these periods of intensity with slower-paced weeks at another time. (When taking classes, being present and assignments count towards this time, when possible try to connect course work to your research and broad understanding of Earth sciences.)
 
@@ -126,10 +139,12 @@ One of the great advantages of working in academia is the flexible schedule. But
 
 - Travel dates for vacation and non-vacation remote work must be approved by Marcel. 
 
+<br>
 
-## 3. Communication and Meetings
+# 3. Communication and Meetings
+--- 
 
-## Channels
+## Channels:
 
 Our group uses several channels of communication. You are expected to participate in all of them.
 
@@ -139,11 +154,14 @@ Our group uses several channels of communication. You are expected to participat
 
 - Github is where we store and discuss all things software-related. Everyone should have a github account.
 
-## Group Meeting
+## Group Meeting:
 
 Group meetings are currently held every Monday, 9-10 AM at Natirum. Everyone should attend group meetings as much as possible. If you have a conflict which prevents you from attending, let Marcel know ahead of time.
 
+<br>
+
 # 4. Self Care
+--- 
 
 Your physical and mental health are crucial to your well being as a person. These should always take priority over your studies and work. Conversely, a satisfying and respectful work environment is an important factor in your mental health. Science can be an emotional roller coaster. Exams, paper reviews, fellowship applications, and job searches all involve being judged, which often causes anxiety. There is growing awareness in academia that students are at high risk for depression and anxiety. If you feel you are facing mental health challenges, don’t be ashamed – you’re not alone!
 
@@ -157,44 +175,46 @@ With this in mind, our group strives to do everything possible to support studen
 
 - If you feel like you need help, don’t hesitate to contact
 
+<br>
+
 # 5. Code of Conduct
+--- 
 
 All employees and students in the group are expected to understand and follow the University of Gothenburg’s rules on discrimination, harassment, sexual harassment, victimisation, and equal treatment. Marcel du Plessis has a responsibility to act on any information about harassment or victimisation connected to our work or study environment and will help ensure that concerns are brought to the appropriate channels at the University of Gothenburg.
 ​
 
-University policies and key links
+## University policies and key links:
+
 The University of Gothenburg must offer a work and study environment free from discrimination, harassment, degrading treatment, and retaliation. Everyone in the group shares responsibility for contributing to a safe, inclusive, and respectful environment, both in university spaces and at conferences, fieldwork, and social events linked to our work.
 ​
 
-Relevant information and procedures (in English) are available here:
+## Relevant information and procedures (in English) are available here:
 
 Behaviour, Discrimination, and Harassment (students): 
-https://studentportal.gu.se/en/your-studies/rights-and-responsibilities/behaviour-discrimination-and-harassment
+[https://studentportal.gu.se/en/your-studies/rights-and-responsibilities/behaviour-discrimination-and-harassment](https://studentportal.gu.se/en/your-studies/rights-and-responsibilities/behaviour-discrimination-and-harassment)
 ​
 
 Rights and responsibilities (students): 
-https://studentportal.gu.se/en/your-studies/rights-and-responsibilities
+[https://studentportal.gu.se/en/your-studies/rights-and-responsibilities](https://studentportal.gu.se/en/your-studies/rights-and-responsibilities)
 ​
 
 Work environment, gender equality and equal treatment (staff): 
-https://www.gu.se/en/applied-information-technology/work-environment-gender-equality-and-equal-treatment
+[https://www.gu.se/en/applied-information-technology/work-environment-gender-equality-and-equal-treatment](https://www.gu.se/en/applied-information-technology/work-environment-gender-equality-and-equal-treatment)
 ​
 
-Administrative procedure regarding harassment, sexual harassment and victimisation (staff & students, PDF): https://studentportal.gu.se/sites/default/files/2024-04/Administrative%20procedure%20regarding%20harassment,%20sexual%20harassment%20and%20victimisation%20at%20the%20University%20of%20Gothenburg%202024-03-21.pdf
+Administrative procedure regarding harassment, sexual harassment and victimisation (staff & students): [PDF](https://studentportal.gu.se/sites/default/files/2024-04/Administrative%20procedure%20regarding%20harassment,%20sexual%20harassment%20and%20victimisation%20at%20the%20University%20of%20Gothenburg%202024-03-21.pdf)
 ​
 
-Reporting harassment and misconduct
+## Reporting harassment and misconduct:
+
 If you experience, witness, or become aware of harassment, sexual harassment, victimisation, or other inappropriate behaviour in connection with our work or studies, you are encouraged to report it and seek support. Reporting options include:
 ​
-
 Contacting the responsible manager/head of department or equivalent, who is obliged to investigate and take action when made aware that someone feels subjected to harassment, sexual harassment, or victimisation.
 ​
-
 Contacting the Student Affairs Office, study counsellor, or HR, as described in the Behaviour, Discrimination, and Harassment and work environment pages.
-​
 
 Using the University’s whistleblowing function (for serious irregularities and misconduct in a work-related context): internal reporting channel described here: 
-https://akademiliv.se/en/2023/06/92514/index.html
+[https://akademiliv.se/en/2023/06/92514/index.html](https://akademiliv.se/en/2023/06/92514/index.html)
 ​
 
 Anonymous or confidential reporting possibilities and contact points are described in the University’s administrative procedure and on the student/staff portals; these documents explain how cases are handled, what support is available, and the obligation of employees and managers to participate in investigations.
@@ -202,15 +222,20 @@ Anonymous or confidential reporting possibilities and contact points are describ
 
 Group expectations and conduct
 Our group is committed to a harassment-free and inclusive professional environment for everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or political views. Sexual language, sexualised jokes, and sexual imagery are never appropriate in professional settings or in social activities connected to conferences, fieldwork, teaching, or research meetings.
-​
 
-Respect goes beyond “not harassing” and includes:
+## Respect goes beyond “not harassing” and includes:
 
-Being attentive to how we speak to one another and avoiding belittling, exclusionary, or hostile comments.
+- Being attentive to how we speak to one another and avoiding belittling, exclusionary, or hostile comments.
 
-Leaving space in discussions so that everyone has a genuine opportunity to participate, and being mindful not to interrupt, talk over, or dominate conversations.
+- Leaving space in discussions so that everyone has a genuine opportunity to participate, and being mindful not to interrupt, talk over, or dominate conversations.
 
-Taking feedback seriously if someone signals that a comment, joke, or behaviour felt uncomfortable or inappropriate.
+- Taking feedback seriously if someone signals that a comment, joke, or behaviour felt uncomfortable or inappropriate.
 
-Role of Marcel du Plessis
+## Role of Marcel du Plessis:
+
 Within this group, Marcel du Plessis is a responsible contact person for issues related to behaviour, discrimination, and harassment in the group’s activities and events. Marcel will listen to concerns, provide information on University of Gothenburg procedures, and help you contact the appropriate unit (for example HR, student support, health and safety representatives, or other designated functions) if you wish. You are encouraged to approach Marcel as early as possible if you have any concerns, questions, or experiences related to harassment, discrimination, or victimisation in connection with the group’s work.
+
+<br>
+
+---
+*Credit* – This is an evolving guide on how to participate in our research group. A big thanks to [Katy Huff](https://arfc.npre.illinois.edu/manual/), [Ryan Abernathey](https://ocean-transport.github.io/ocean-transport-old/guide.html) and [Galen McKinley](https://galenmckinley.github.io/assets/doc/McKinleyGroup2025.pdf) for providing a great starting point to these guidelines.
