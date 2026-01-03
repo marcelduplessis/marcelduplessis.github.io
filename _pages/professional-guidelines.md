@@ -12,7 +12,9 @@ header:
 
 These are the professional guidelines that help support our work. It should also give clarity to your role and responsibility within the group. 
 
-**v1:** Updated 3 January 2026
+**v1:** *Updated 3 January 2026*
+
+<br>
 
 # Core Principles
 ---
