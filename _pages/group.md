@@ -11,14 +11,15 @@ header:
 ---
 
 # Research Group
+---
 
-## Opportunities
+## OPPORTUNITIES
 ---
 - I will open a postdoc position within the SOFIA project in late 2026. 
 - If you are interested in joining our team for student research projects, please get in touch.
 - I’m also happy to support fellowship applications, such as the [Marie Skłodowska-Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [VR International Postdoc](https://www.vr.se/english/applying-for-funding/calls/2025-11-11-international-postdoc-within-natural-and-engineering-sciences-spring-call.html) (17/02 deadline), and [Carl Tryggers Postdoc](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/) (14/05 deadline). Reach out if you’d like to discuss project options.
 
-## Group members
+## GROUP MEMBERS
 ---
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 
@@ -83,13 +84,32 @@ header:
 
 </div>
 
-## Former group members
+<br>
+
+# Professional Guidelines
+---
+We have a set of [professional guidelines](https://marcelduplessis.github.io/professional-guidelines/) that explain how we work together.
+
+<br>
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/polar-gliders-group.jpg"
+           style="width: 100%; max-width: 50%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Polar Gliders Group retreat to Bornö field station in west Sweden, September 2023.</p>
+  </div>
+</div>
+
+# Former group members
 ---
 
-### PhD GRADUATES:
+## PhD GRADUATES:
 **Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
 
-### MASTERS:
+## MASTERS:
 **Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Kathy Donohue (URI). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
 
 **Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart, main collaborator Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*](https://drive.google.com/file/d/14WFwpTgTkj6Oc5l6BfeM0IbmQISKNzA6/view?usp=sharing). 
@@ -106,7 +126,7 @@ header:
 
 **Johan Edholm** (M.Sc. Oceanography, University of Gothenburg, 2021). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Atmospheric rivers over the South Atlantic Ocean, and their impact on freshwater fluxes to the upper ocean*](https://drive.google.com/file/d/1ZJTOLx473ALvP0IpufxRlOfRB_1HdScj/view?usp=sharing). Publication: [Edholm et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL100149).
 
-### BACHELORS:
+## BACHELORS:
 **Daniel Clason** (B.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Mid-latitude cyclone air-sea heat flux response over the Agulhas Current*](https://drive.google.com/file/d/1jntr_Gl_tQEXsTyhwnN0_lCd1I_HbgZG/view?usp=drive_link).
 
 **Lovisa Sunnercrantz** (B.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Johan Edholm (GU). Thesis: [*Storm impacts on the Southern Ocean air-sea heat and carbon flux*](https://drive.google.com/file/d/1F4Vo3KGVTVvE5FT34syPxRpj-GBlpbUD/view?usp=drive_link) with contribution to [Prend et al., 2025](https://online.ucpress.edu/elementa/article/13/1/00061/208467/Observing-system-requirements-for-measuring-high).
