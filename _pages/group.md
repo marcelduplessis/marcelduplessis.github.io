@@ -13,13 +13,13 @@ header:
 # Research Group
 ---
 
-## OPPORTUNITIES
+## Opportunities
 ---
 - I will open a postdoc position within the SOFIA project in late 2026. 
 - If you are interested in joining our team for student research projects, please get in touch.
 - I’m also happy to support fellowship applications, such as the [Marie Skłodowska-Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [VR International Postdoc](https://www.vr.se/english/applying-for-funding/calls/2025-11-11-international-postdoc-within-natural-and-engineering-sciences-spring-call.html) (17/02 deadline), and [Carl Tryggers Postdoc](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/) (14/05 deadline). Reach out if you’d like to discuss project options.
 
-## GROUP MEMBERS
+## Group Members
 ---
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
 

@@ -125,7 +125,7 @@ One of the great advantages of working in academia is the flexible schedule. But
 
 ## Here are some general guidelines to help define what it means to be “at work”:
 
-- Aim for a 40 hour work-week on average. Academic work often occurs in bursts. Sometimes you are happy and excited to work more hours in a week as you are on the cusp of a major breakthrough. You can balance these periods of intensity with slower-paced weeks at another time. (When taking classes, being present and assignments count towards this time, when possible try to connect course work to your research and broad understanding of Earth sciences.)
+- Aim for a 40 hour work-week *on average*. Academic work often occurs in bursts. Sometimes you are happy and excited to work more hours in a week as you are on the cusp of a major breakthrough. You can balance these periods of intensity with slower-paced weeks at another time. (When taking classes, being present and assignments count towards this time, when possible try to connect course work to your research and broad understanding of Earth sciences.)
 
 - Generally plan to be at Natrium for most of the day on Monday, Wednesday and Friday. These are when seminars and group meetings tend to be held. Being present in the office is important for building relationships with you colleagues and for the spontaneous generation of new ideas. This is also a good way to get short questions answered rapidly, so you can make agile progress.
 
