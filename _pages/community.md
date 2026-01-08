@@ -27,6 +27,18 @@ header:
 - APECS Representative, [Southern Ocean Flux Working Group](https://soos.aq/activities/cwg/soflux) of SOOS (2019-2021)
 - Association for Polar Early Career Scientists (APECS) South Africa National Committee (2018-2020)
 
+<br>
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/soflux_osm24.jpg"
+           style="width: 100%; max-width: 65%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Hosting a networking lunch for the Southern Ocean air-sea flux community in my capacity as SOFLUX co-chair. Ocean Sciences Meeting, New Orleans, February 2024.</p>
+  </div>
+</div>
+
 ## White Papers
 ---
 - Scientific planning for Antarctica InSync theme "Southern Ocean and Antarctic heat, freshwater, carbon and other element cycles and their response to climate change". I contributed to the knowledge gaps and research needs for *Air-Sea Heat Fluxes*. White paper available on the SCAR website [here](https://scar.org/~documents/route%3A/download/6536). 
@@ -44,6 +56,18 @@ header:
 - I co-organised and hosted the SOFLUX Webinar Series with over 20 webinars (2021 - present)
 - I hosted the OASIS “Ocean Shots” for a Predicted Ocean Satellite Event (2021)
 - I co-hosted the APECS South Africa Career Development Workshop (2020)
+
+<br>
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/oasis-workshop.png"
+           style="width: 100%; max-width: 85%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Attendees at the OASIS Face2Face Meeting, New Orleans, February 2024.</p>
+  </div>
+</div>
 
 ## Reviewing
 ---

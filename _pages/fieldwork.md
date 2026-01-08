@@ -1,26 +1,76 @@
 ---
 layout: archive
-title: "Fieldwork"
+title: " "
 permalink: /fieldwork/
-author_profile: true
+author_profile: false
 redirect_from:
   - /fieldwork
 header:
   overlay_image: ship-sunset.jpg
   overlay_filter: 0
-  caption: "Photo taken over sunrise during the SO-CHIC research cruise"
+  caption: "Sunrise far out into the Southern Ocean, taken from the R/V S.A. Agulhas II"
 
 ---
 
-## Going to sea
+# Fieldwork
+---
 
-For me, going out into the ocean and deploying equipment, taking measurements, and feeling the waves is both a lot of fun and exciting, but it is also an honour to contribute to the growing expanse of data that we need to understand the ocean's role in climate variability and change. 
+Sailing out into the vast expanse of the ocean, deploying equipment, taking measurements, and feeling the waves holds both excitment and responsibility. It is a priviledge to contribute to the growing expanse of knowledge and data essential to understanding the ocean's role in climate variability and change. 
 
-I have been fortunate enough to have nmerous experiences going to sea on research vessels, mainly to waters around Antarctica. Here, I have experienced giant storms, freezing sea ice, stunning wildlife, and many other unique experiences.
+In my personal journey, I have been fortunate to experience going to sea numerous times on research vessels, mainly to the Southern Ocean and waters around Antarctica. I have beein within fearsome storms, heard the crushing sounds of the ship on frigid sea ice, witnesses the breathtaking wildlife, and been part of many other unique experiences. Below is a summary of these experiences and my role in the much larger field of sea-going science.
 
 ## Southern Ocean Carbon and Heat Impact on Climate research cruise (2022)
+---
 :round_pushpin: Penguin Bukta, Antarctica, Weddell Sea, Southern Ocean \\
 1 month – deploy autonomous underwater & surface vehicles, hydrographic survey, R/V S.A. Agulhas II
+
+Our objective on the SO-CHIC expedition was to deploy two Seagliders, a Sailbuoy, and collect hundreds of water samples for salinity, dissolved oxygen, pCO2, and methane. My role was to lead the team of three from the University of Gothenburg, with Hanna Rosenthal and Theo Spira joining on their first expedition to the south. 
+
+<br>
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/so-chic/drone.jpg"
+           style="width: 100%; max-width: 65%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Ariel view of the R/V S.A. Agulhas II along the Punguin Akta ice shelf.</p>
+  </div>
+
+</div>
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/so-chic/ctd.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Deploying one of the 59 CTD casts.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/so-chic/glider.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Deploying Seaglider SG675 in the figid waters of the Southern Ocean.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/so-chic/glider-test.JPG"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Testing comms and simulated dives for SG675 after a long journey to Antartica.</p>
+  </div>
+
+</div>
 
 ## Antarctic Circumpolar Expedition Maritime University (2016)
 :round_pushpin: Bremerhaven, Germany to Cape Town, South Africa \\
