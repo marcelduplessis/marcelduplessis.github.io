@@ -112,6 +112,6 @@ Maiden voyage of the South African icebreaker R/V S.A. Agulhas II to the Souther
            controls playsinline>
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center; font-size: 0.7rem;">Marginal Ice Zone in the Weddell Sea, August 2012</p>
+    <p style="text-align: center; font-size: 0.7rem;">Waves in the ice, Weddell Sea, August 2012. Music: Jeremy Loops.</p>
   </div>
 </div>
