@@ -75,8 +75,38 @@ Our objective on the SO-CHIC expedition was to deploy two Seagliders, a Sailbuoy
 :round_pushpin: Bremerhaven, Germany to Cape Town, South Africa \\
 4 weeks - coordinating and teaching physical oceanography to 50 students from 12 counties
 
-A month long ‘floating university’ from Germany to South Africa via the Eastern Atlantic Ocean, aboard the Russian Polar Research Vessel Akademik Treshnikov. On this 28 day voyage from, I co-coordinated the academic program with lectures mixed in practical assignments from the scientists onboard. In this I taught physical oceangraphy every second day, with the theme of the lecture relevant to our location on the voyage. In total, there were 49 students and 16 scientists from 20 different nationalities.
+I co-coordinated and taught on a month long ‘floating university’ from Germany to South Africa via the Eastern Atlantic Ocean, aboard the Russian Polar Research Vessel Akademik Treshnikov. On this 28 day voyage, we developed an academic program with lectures and practical assignments from the scientists onboard. I taught physical oceangraphy every other day, with the theme of the lecture relevant to our location on the voyage. In total, there were 49 students and 16 scientists from 20 different nationalities.
 
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2016-ace/equator.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Sunset at the crossing of the Equator. &copy; Victorine Sentilhes.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2016-ace/lecture.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">The mess-turned-classroom gave us a space to learn and share our knowledge about the basics of physical oceanography. What a better place to share these memories.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2016-ace/ship-ct.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Arriving in Cape Town on 17 December 2016. &copy; Victorine Sentilhes.</p>
+  </div>
+
+</div>
 
 ## South African National Antarctic Program Winter Cruise – University of Cape Town (2015)
 ---
@@ -86,7 +116,9 @@ A month long ‘floating university’ from Germany to South Africa via the East
 ## Southern Ocean Seasaonal Cycle Experiment – Southern Ocean Carbon-Climate Observatory (2013)
 ---
 :round_pushpin: Cape Town to South Atlantic Ocean \\
-5 weeks – hydrographic survey, R/V S.A. Agulhas I
+5 weeks – hydrographic survey, R/V S.A. Agulhas I. PI: Dr. Sandy Thomalla
+
+Lead the underway CTD survey
 
 ## Coldest Journey Expedition to Antarctica, R/V S.A. Agulhas I (2013)
 ---
@@ -114,4 +146,35 @@ Maiden voyage of the South African icebreaker R/V S.A. Agulhas II to the Souther
     </video>
     <p style="text-align: center; font-size: 0.7rem;">Waves in the ice, Weddell Sea, August 2012. Music: Jeremy Loops.</p>
   </div>
+</div>
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2012-winter-cruise/uctd.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">On underway CTD watch. Myself, Jen, and Mokete waiting patiently for the another CTD profile to arrive.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2012-winter-cruise/petrel.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">The wildlife in the pristine Antarctic environemnt is some of the most beautiful I have come across.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2012-winter-cruise/team.JPG"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Our 2012 UCT Honours class with Prof. Isabelle Ansorge.</p>
+  </div>
+
 </div>
