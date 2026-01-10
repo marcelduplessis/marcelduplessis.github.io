@@ -12,7 +12,7 @@ header:
 
 ---
 
-# Fieldwork
+# Research Expeditions
 ---
 
 Sailing out into the vast expanse of the ocean, deploying equipment, taking measurements, and feeling the waves holds both excitment and responsibility. It is a priviledge to contribute to the growing expanse of knowledge and data essential to understanding the ocean's role in climate variability and change. 
@@ -113,6 +113,39 @@ I co-coordinated and taught on a month long ‘floating university’ from Germa
 :round_pushpin: Weddell Sea, Southern Ocean \\
 5 weeks – deploy autonomous underwater vehicles, hydrographic survey, R/V S.A. Agulhas II
 
+The winter cruise to the Antarctic sea ice edge marked the start of my PhD journey. The deployment of Seagliders on this voyage (pictured below), led by Andre and Hendrik at Sea Technology Services, was an important one for me as these datasets were the first and integral part of my PhD work. During this expedition, I also carefully learned about the pressure of deploying these expensive instruments at sea, and that things don't always go to plan.
+
+<div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2015-winter-cruise/IMG_8502-2.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Sailing through a storm. En route to the Antarctic sea ice edge.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2015-winter-cruise/IMG_8658-2.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Hendrik and Andre doing some pre-deployment tests on the Seagliders and Wave Glider.</p>
+  </div>
+
+  <div class="team-member" style="flex: 1 1 250px; text-align: center;">
+    <img src="/images/2015-winter-cruise/IMG_8815-2.jpg"
+           style="width: 100%; max-width: 100%;
+                  border-radius: 0;
+                  object-fit: cover;
+                  border: 1px solid #ccc; padding: 4px; box-sizing: border-box;">
+    <p style="text-align: center; font-size: 0.7rem;">Wave Glider deployed.</p>
+  </div>
+
+</div>
+
 ## Southern Ocean Seasaonal Cycle Experiment – Southern Ocean Carbon-Climate Observatory (2013)
 ---
 :round_pushpin: Cape Town to South Atlantic Ocean \\
@@ -178,3 +211,25 @@ Maiden voyage of the South African icebreaker R/V S.A. Agulhas II to the Souther
   </div>
 
 </div>
+
+# Autonomous Ocean Gliders and USV Campaigns
+---
+
+In my career, I have been involved in numerous major projects where I have deployed and/or piloted autonomous ocean gliders and uncrewed surface vehicles. Mostly, these have been within the Southern Ocean - from the subtropical region to the Antarctic ice zone. 
+
+**WHIRLS Robotic Deployments** <span class="flush-right-year">Sep-2025 &ndash; ongoing</span> \\
+Seaglider and Wave Glider deployments in the Cape Basin \\
+**Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">May-2024 &ndash; Jun-2024</span> \\
+Sailbuoy deployments in Algoa Bay, South Africa \\
+**QUICCHE** <span class="flush-right-year">Mar-2023 &ndash; May-2023</span> \\
+Seaglider and Sailbuoy deployments in the Cape Basin \\
+**Southern Ocean Carbon Heat Impact on Climate (SO-CHIC)** <span class="flush-right-year">Jan-2022 &ndash; Jul-2022</span> \\
+Seaglider and Sailbuoy deployments in the subpolar Atlantic and Maud Rise \\
+**SCALE Spring** <span class="flush-right-year">Oct-2019 &ndash; Feb-2020</span> \\
+Seaglider deployment in the Weddell Sea \\
+**SCALE Winter** <span class="flush-right-year">Jul-2019 &ndash; Dec-2019</span> \\
+Seaglider and Sailbuoy deployment in the Weddell Sea \\
+**ROAM-MIZ** <span class="flush-right-year">Dec-2018 &ndash; Mar-2019</span> \\
+Seaglider and Sailbuoy deployment in the Weddell Sea \\
+**ORCHESTRA** <span class="flush-right-year">Nov-2017 &ndash; Jan-2018 </span> \\
+Seaglider deployment along the Southern Boundary of the Drake Passage
