@@ -212,24 +212,35 @@ Maiden voyage of the South African icebreaker R/V S.A. Agulhas II to the Souther
 
 </div>
 
+<br>
+
 # Autonomous Ocean Gliders and USV Campaigns
 ---
 
 In my career, I have been involved in numerous major projects where I have deployed and/or piloted autonomous ocean gliders and uncrewed surface vehicles. Mostly, these have been within the Southern Ocean - from the subtropical region to the Antarctic ice zone. 
 
 **WHIRLS Robotic Deployments** <span class="flush-right-year">Sep-2025 &ndash; ongoing</span> \\
-Seaglider and Wave Glider deployments in the Cape Basin \\
+Seaglider and Wave Glider deployments in the Cape Basin
+
+<a href="https://obs.polargliders.com/" class="btn">Follow the mission here</a>
+
 **Agulhas Current on Coast Environemnt (ACEP) Project** <span class="flush-right-year">May-2024 &ndash; Jun-2024</span> \\
-Sailbuoy deployments in Algoa Bay, South Africa \\
+Sailbuoy deployments in Algoa Bay, South Africa 
+
 **QUICCHE** <span class="flush-right-year">Mar-2023 &ndash; May-2023</span> \\
-Seaglider and Sailbuoy deployments in the Cape Basin \\
+Seaglider and Sailbuoy deployments in the Cape Basin 
+
 **Southern Ocean Carbon Heat Impact on Climate (SO-CHIC)** <span class="flush-right-year">Jan-2022 &ndash; Jul-2022</span> \\
-Seaglider and Sailbuoy deployments in the subpolar Atlantic and Maud Rise \\
+Seaglider and Sailbuoy deployments in the subpolar Atlantic and Maud Rise 
+
 **SCALE Spring** <span class="flush-right-year">Oct-2019 &ndash; Feb-2020</span> \\
-Seaglider deployment in the Weddell Sea \\
+Seaglider deployment in the Weddell Sea 
+
 **SCALE Winter** <span class="flush-right-year">Jul-2019 &ndash; Dec-2019</span> \\
-Seaglider and Sailbuoy deployment in the Weddell Sea \\
+Seaglider and Sailbuoy deployment in the Weddell Sea 
+
 **ROAM-MIZ** <span class="flush-right-year">Dec-2018 &ndash; Mar-2019</span> \\
-Seaglider and Sailbuoy deployment in the Weddell Sea \\
+Seaglider and Sailbuoy deployment in the Weddell Sea 
+
 **ORCHESTRA** <span class="flush-right-year">Nov-2017 &ndash; Jan-2018 </span> \\
 Seaglider deployment along the Southern Boundary of the Drake Passage
