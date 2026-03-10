@@ -4,12 +4,10 @@ title: " "
 layout: single
 author_profile: true
 header:
-  overlay_image: coas-short.gif
+  overlay_image: coas-img.png
   overlay_filter: 0
   caption: "Credit: Hector Torres @ JPL-NASA"
 ---
-
-<br>
   
 # About me
 
