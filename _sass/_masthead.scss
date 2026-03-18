@@ -15,6 +15,7 @@
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: 0.8;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -51,18 +52,31 @@
     left: 50%;
     transform: translateX(-50%);
     z-index: 20;
-    font-size: $type-size-1;
-    font-weight: 700;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: $masthead-link-color;
-    text-decoration: none;
-    background: rgba(0, 0, 0, 0);
-    padding: 0.35rem 0.6rem;
-    border-radius: $border-radius;
-    line-height: 1;
+    text-align: center;
 
-    &:hover {
-      color: $masthead-link-color-hover;
+    a {
+      font-size: $type-size-2;
+      font-weight: 700;
+      font-family: $monospace;
+      color: $masthead-link-color;
+      text-decoration: none;
+      background: rgba(0, 0, 0, 0);
+      padding: 0.35rem 0.6rem;
+      border-radius: $border-radius;
+      line-height: 1;
+
+      &:hover {
+        color: $masthead-link-color;
+      }
+    }
+
+    .masthead__subtitle {
+      font-size: $type-size-4;
+      font-weight: 300;
+      margin-top: 50px;
+      color: $masthead-link-color;
+      margin: 0.5rem 0 0 0;
+      line-height: 1.2;
     }
   }
 }
