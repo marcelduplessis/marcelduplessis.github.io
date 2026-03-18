@@ -5,10 +5,10 @@ permalink: /vr/
 author_profile: true
 redirect_from:
   - /group
-header:
-  overlay_image: coas-short.gif
-  overlay_filter: 0
-  caption: "Credit: Hector Torres @ JPL-NASA"
+# header:
+#   overlay_image: coas-short.gif
+#   overlay_filter: 0
+#   caption: "Credit: Hector Torres @ JPL-NASA"
 ---
 
 # Southern Ocean Fine-Scale Interactions with the Atmosphere

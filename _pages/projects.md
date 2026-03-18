@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: false
 redirect_from:
   - /projects
-header:
-  overlay_image: petrel.JPG
-  overlay_filter: 0
+# header:
+#   overlay_image: petrel.JPG
+#   overlay_filter: 0
 ---
 
 # Projects

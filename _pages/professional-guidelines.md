@@ -5,9 +5,9 @@ permalink: /professional-guidelines/
 author_profile: false
 redirect_from:
   - /professional-guidelines
-header:
-  overlay_image: sea-ice-pano.jpg
-  overlay_filter: 0
+# header:
+#   overlay_image: sea-ice-pano.jpg
+#   overlay_filter: 0
 ---
 
 These are the professional guidelines that help support our work. It should also give clarity to your role and responsibility within the group. 

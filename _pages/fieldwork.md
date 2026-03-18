@@ -5,10 +5,10 @@ permalink: /fieldwork/
 author_profile: false
 redirect_from:
   - /fieldwork
-header:
-  overlay_image: ship-sunset.jpg
-  overlay_filter: 0
-  caption: "Sunrise far out into the Southern Ocean, taken from the R/V S.A. Agulhas II"
+# header:
+#   overlay_image: ship-sunset.jpg
+#   overlay_filter: 0
+#   caption: "Sunrise far out into the Southern Ocean, taken from the R/V S.A. Agulhas II"
 
 ---
 

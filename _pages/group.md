@@ -5,9 +5,9 @@ permalink: /group/
 author_profile: false
 redirect_from:
   - /group
-header:
-  overlay_image: sea-ice-pano.jpg
-  overlay_filter: 0
+# header:
+#   overlay_image: sea-ice-pano.jpg
+#   overlay_filter: 0
 ---
 
 # Research Group
