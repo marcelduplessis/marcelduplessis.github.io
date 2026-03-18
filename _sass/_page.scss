@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 0;
   padding-left: 1em;
   padding-right: 0;
   animation: intro 0.3s both;
@@ -18,17 +18,17 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(12 of 12 last); 
-    @include prefix(2 of 12);   
-    @include suffix(1 of 12);   
-    margin-top: -47em;
+    @include span(9 of 12 last);
+    @include prefix(0 of 12);
+    @include suffix(0 of 12);
+    margin-top: 40px;
   }
 
   @include breakpoint($x-large) {
-    @include span(12 of 12 last); 
-    @include prefix(2.5 of 12);   
-    @include suffix(1 of 12); 
-    margin-top: -47em;
+    @include span(9 of 12 last);
+    @include prefix(0 of 12);
+    @include suffix(0 of 12);
+    margin-top: 40px;
   }
 
   .page__inner-wrap {
@@ -117,7 +117,7 @@
 
 .page__hero {
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   @include clearfix;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
@@ -140,6 +140,7 @@
     .wrapper {
       padding-left: 1em;
       padding-right: 1em;
+      text-align: center;
 
       @include breakpoint($x-large) {
         max-width: $x-large;
@@ -172,6 +173,25 @@
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+}
+
+.page__hero-site-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: $type-size-2;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 1px 1px 4px rgba(#000, 0.5);
+  z-index: 5;
+  white-space: nowrap;
+
+  @include breakpoint($small) {
+    font-size: $type-size-1;
+  }
 }
 
 .page__hero-caption {

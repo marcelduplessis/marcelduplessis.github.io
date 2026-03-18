@@ -33,7 +33,7 @@
         {% if paginator %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
-          {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+          {{ page.title | strip | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
       {% if page.excerpt %}
@@ -47,6 +47,7 @@
       {% endif %}
     </div>
   {% else %}
+    <a href="{{ base_path }}/" class="page__hero-site-title">{{ site.title }}</a>
     <img src="{{ img_path }}" alt="{{ page.title }}" class="page__hero-image">
   {% endif %}
   {% if page.header.caption %}

@@ -3,13 +3,18 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
-  background: #f8f5f2;
-  border-bottom: 1px solid $border-color;
+  position: relative;
+  // background: #f8f5f2;
   height: $masthead-height;
   top: 0;
+  bottom: 0;
   padding-left: 0;
+  max-width: 100vw;
   width: 100%;
+  background-image: url('/../images/coas-img.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -18,11 +23,14 @@
   z-index: 10;
 
   &__inner-wrap {
-    @include container;
+    max-width: 100vw;
+    width: 80%;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $serif;
-    text-align: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -39,19 +47,35 @@
 }
 
 .masthead__inner-wrap {
-    max-width: $v-large;
+    max-width: 100vw;
+    width: 80%;
+    background: #f8f5f200;
     clear: both;
     padding: 1em 1em 1em;
     font-family: $sans-serif;
-    margin-left: 0em !important;
-    margin-right: auto; 
-    
+    margin: 0 auto;
+
     .nav-toggle {
       display: none;   
     }
 
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    nav > button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 0.75rem;
+    }
+
     .visible-links {
       display: flex;
+      flex-grow: 1;
+      justify-content: flex-end;
     }
 
     /* @include breakpoint($medium) { // use your existing mixin
@@ -70,11 +94,18 @@
 }
 
 .masthead__menu {
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 0.25rem 0.75rem;
+  width: 100%;
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
 
   a {
-    font-size: $type-size-5 !important;
+    font-size: $type-size-6 !important;
     font-family: $sans-serif;
-    color: $darker-gray !important;
+    color: $background-color !important;
   }
 
   ul {
@@ -82,6 +113,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    font-size: $type-size-5 !important;
   }
 }
 
@@ -93,6 +125,6 @@
   &--lg {
     padding-right: 0em;
     padding-left: 0em;
-    font-weight: 700;
+    font-weight: 400;
   }
 }

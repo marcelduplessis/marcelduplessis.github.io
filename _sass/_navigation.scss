@@ -13,7 +13,7 @@
   margin-bottom: 0;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: $serif;
+  font-family: $helvetica;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $serif;
+    font-family: $helvetica;
   }
 
   li {
@@ -77,7 +77,7 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $serif;
+      font-family: $helvetica;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
@@ -175,18 +175,19 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #ffffff00;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 
-  .site-title {
-    font-weight: bold;
-    margin-left: 0.5em;
-    font-size: $type-size-4 !important;
-    min-width: 180px;
-    max-width: 180px;
-  }
+  // .site-title {
+  //   position: absolute;
+  //   left: 1rem;
+  //   font-weight: bold;
+  //   font-size: $type-size-4 !important;
+  //   min-width: 180px;
+  //   max-width: 180px;
+  // }
 
   a {
     display: block;
@@ -214,15 +215,17 @@
   }
 
   .visible-links {
-    display: table;
-    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: inline-flex;
+      align-items: center;
 
       &:first-child {
-        font-weight: normal;
+        font-weight: light;
         text-wrap: wrap;
         text-align: left;
 

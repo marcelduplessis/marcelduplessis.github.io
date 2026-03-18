@@ -5,12 +5,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
 
-        <!-- Site title: left side -->
-        <a class="site-title" href="{{ base_path }}/">
+        <!-- Site title (visually hidden; kept for accessibility + home link) -->
+        <a class="site-title sr-only" href="{{ base_path }}/" aria-label="Home">
           {{ site.title }}
         </a>
 
-        <button>
+        <button class="hidden">
           <div class="navicon"></div>
         </button>
 
