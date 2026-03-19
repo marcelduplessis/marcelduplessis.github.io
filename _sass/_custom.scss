@@ -19,3 +19,18 @@ $background-color: #f2dfce !important; // Example: Light gray
   font-size: 1em !important;
 }
 
+.photo-frame {
+  display: inline-block;
+  padding: 6px 8px;
+  background: #fdfdfd;
+  border: 1px solid #ddd;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.18);
+}
+
+.photo-frame img {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  border-radius: 2px;
+}
+

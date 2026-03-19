@@ -47,7 +47,7 @@
 
   &__brand {
     position: absolute;
-    top: 100px;
+    top: 140px;
     left: 50%;
     transform: translateX(-50%);
     z-index: 20;
@@ -55,7 +55,7 @@
 
     a {
       font-size: $type-size-2;
-      font-weight: 700;
+      font-weight: 1000;
       font-family: $monospace;
       color: $masthead-link-color;
       text-decoration: none;
@@ -64,17 +64,19 @@
       border-radius: $border-radius;
       line-height: 1;
 
+
       &:hover {
         color: $masthead-link-color;
       }
     }
 
     .masthead__subtitle {
-      font-size: $type-size-4;
-      font-weight: 300;
-      margin-top: 50px;
+      font-size: $type-size-6;
+      text-transform: uppercase;
+      font-weight: 400;
+      margin-top: 100px;
       color: $masthead-link-color;
-      margin: 0.5rem 0 0 0;
+      margin: 1.0rem 0 0 0;
       line-height: 1.2;
     }
   }

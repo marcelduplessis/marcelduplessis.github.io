@@ -25,14 +25,14 @@
     @include span(9 of 12 last);
     @include prefix(0 of 12);
     @include suffix(0 of 12);
-    margin-top: 40px;
+    margin-top: 80px;
   }
 
   @include breakpoint($x-large) {
     @include span(9 of 12 last);
     @include prefix(0 of 12);
     @include suffix(0 of 12);
-    margin-top: 40px;
+    margin-top: 80px;
   }
 
   .page__inner-wrap {

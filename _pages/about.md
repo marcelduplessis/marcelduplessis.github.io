@@ -11,14 +11,18 @@ author_profile: true
   
 # About me
 
-I am a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg, where I study how storms, eddies, and other fine-scale ocean–atmosphere interactions move heat, moisture, and carbon dioxide between the atmosphere, ocean surface, and deep ocean. I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, I lead a research group supported by a Swedish Research Council Establishment Grant and an ERC Starting Grant (SOFIA), combining autonomous ocean robotics, satellite observations, and high-resolution coupled models to reveal how fine-scale processes shape Southern Ocean heat and CO₂ uptake.
+I am a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg. My research group and I are interested in the physical processes that govern the exchange of heat, moisture, and carbon dioxide between the atmosphere, ocean surface, and deep ocean. We focus on how ocean dynamics of scales 1-100 km and rapdily evolving atmospheric weather systems control the exchange of these climate-critical properties across the air-sea interface and into the ocean interior. Our goal is to advance our understanding of the factors that regulate our changing climate.
+
+Our research is supported by a Swedish Research Council Establishment Grant (2025-2028), an ERC Starting Grant (SOFIA, 2026-2031), and a Carl Tryggers Foundation Equipment Grant (2026-2028). You can read more about our newly funded [SOFIA project](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function) and the [Swedish Research Council project](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty). Please get in touch if you are interested in collaborating or joining our team.
+
+<!-- I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, -->
 
 ## My Approach
 
-I combine data collected by autonomous ocean robotics, satellite observations and numerical ocean–atmosphere models, my team and I investigate how short-term weather patterns influence climate variations over years to decades.
+Our key approach is to integrate observations from autonomous ocean robots, research vessels, and satellites with high-resolution coupled models and state-of-the-art reanalysis products provided by global weather centers.
 
 **In situ ocean and atmosphere observations** \\
-Much of my research uses measurements of ocean and atmosphere properies obtained from autonomous ocean platforms such as profiling gliders, surface uncrewed vehicles, and profiling floats. These platforms, developed and deployed over the last few decades, have shown to be highly useful in revealing the high-frequency nature of ocean and atmospheric variability, and their interactions and implicitons for air-sea exchange. 
+Much of our research uses measurements of ocean and atmosphere variables taken from autonomous ocean platforms such as profiling gliders and floats, surface uncrewed vehicles, and research vessels. This allows us to study the high-frequency nature of ocean and atmospheric variability, and their interactions and implicitons for air-sea exchange. 
 
 <div class="gallery">
   <img src="images/seaglider.jpg" alt="SG">
@@ -28,12 +32,12 @@ Much of my research uses measurements of ocean and atmosphere properies obtained
   <br>
 </div>
 
-The pictures above show several of the autonomous platforms that I use in my research. The Seaglider (top left), Wave Glider (top right), and Sailbuoy (bottom left) are the three I work mostly with, from sensor integration, deployment/retrieval and piloting experience. A fundamnetally important tool used for ocean research is the CTD. The bottom right photo is from one of our deployments in the Southern Ocean during the SO-CHIC field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
+The above pictures show the autonomous platforms we use in our research, including the Seaglider (top left), Wave Glider (bottom right), and Sailbuoy (top left). The top right picture illustrates a fundamnetally important tool used for ocean research: the CTD. This photo was taken during the SO-CHIC Southern Ocean field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
 
 I have been fortunate to be able to deploy these autonomous platforms far out into the ocean on [several research expiditions](https://marcelduplessis.github.io/fieldwork/), with my first experience to the Southern Ocean and Antarctica during my honours year at the University of Cape Town. To date I have participated in seven research expeditions on several world class vessels. I am hugely grateful to those who have provided the opportunity for me to build my career as a sea going oceanographer.
 
 **3D Modelling** \\
-For my ERC SOFIA project, I will bring new expertise in 3D modelling capabilities by analysing the [Global, Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) run and hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that will be used to reveal the role of high-frequency processes in shaping ocean heat uptake.
+For the SOFIA project, we will explore new modelling capabilities by examining the [Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that we hope will reveal the role of high-frequency processes in shaping ocean heat uptake.
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
