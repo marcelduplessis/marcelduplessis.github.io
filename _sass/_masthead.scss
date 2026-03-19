@@ -94,7 +94,7 @@
     }
 
     nav {
-      display: flex;
+      display: block;
       align-items: center;
       justify-content: space-between;
     }
@@ -131,13 +131,16 @@
   border: 1px solid $border-color;
   border-radius: $border-radius;
   padding: 0.25rem 0.75rem;
-  width: 100%;
-  max-width: 100vw;
+  width: 830px;
+  min-width: 830px;
+  max-width: 830px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
+  align-self: center;
 
   a {
-    font-size: $type-size-6 !important;
+    font-size: $type-size-7 !important;
     font-family: $sans-serif;
     color: $background-color !important;
   }
@@ -147,8 +150,12 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-    font-size: $type-size-5 !important;
+    font-size: $type-size-4 !important;
   }
+}
+
+.masthead__menu.collapsed {
+  border: none;
 }
 
 .masthead__menu-item {
