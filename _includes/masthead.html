@@ -1,6 +1,7 @@
 {% include base_path %}
 
 <div class="masthead">
+
   <div class="masthead__brand">
     <a href="{{ base_path }}/" aria-label="About {{ site.author.name | default: site.title }}">
       {{ site.author.name | default: site.title }}
@@ -8,6 +9,7 @@
     <br>
     <p class="masthead__subtitle">{{ site.description }}</p>
   </div>
+  
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">

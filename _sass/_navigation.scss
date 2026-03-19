@@ -206,8 +206,8 @@
     position: fixed;
     height: 2.5rem;
     top: 1rem;
-    right: auto;
     left: 1rem;
+    right: auto;
     padding: 0 0.5rem;
     border: 0;
     outline: none;
@@ -216,11 +216,11 @@
     color: #fff;
     cursor: pointer;
     z-index: 100;
-    display: block;
+    display: none;
     border-radius: $border-radius;
-    // Hide hamburger button on large screens
-    @include breakpoint($large) {
-      display: none !important;
+    // Show hamburger button only below $medium
+    @include breakpoint(max-width $medium) {
+      display: block !important;
     }
   }
 
@@ -281,14 +281,14 @@
     top: 0;
     left: 0;
     height: auto;
-    width: 250px;
+    width: 150px;
     right: auto;
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: #000000;
-    opacity: 0.75;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    opacity: 0.95;
+    box-shadow: 0 0 10px rgba(#000, 0.75);
     z-index: 200;
     transform: translateX(-100%);
     transition: transform 0.3s ease;

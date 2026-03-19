@@ -7,7 +7,7 @@
 
 $(document).ready(function(){
   function updateNav() {
-    var collapseWidth = 1066;
+    var collapseWidth = 768;
     var $vlinks = $('#site-nav .visible-links');
     var $hlinks = $('#site-nav .hidden-links');
     if ($(window).width() < collapseWidth) {
@@ -31,7 +31,14 @@ $(document).ready(function(){
   });
 
   $('#site-nav button').on('click', function() {
-    $('#site-nav .hidden-links').toggleClass('hidden');
+    var $hiddenLinks = $('#site-nav .hidden-links');
+    if ($hiddenLinks.hasClass('open')) {
+      $hiddenLinks.removeClass('open');
+      $hiddenLinks.addClass('hidden');
+    } else {
+      $hiddenLinks.removeClass('hidden');
+      $hiddenLinks.addClass('open');
+    }
     $(this).toggleClass('close');
   });
 
