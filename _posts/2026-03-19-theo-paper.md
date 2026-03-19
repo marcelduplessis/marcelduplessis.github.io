@@ -38,3 +38,5 @@ Find the paper [here](https://www.nature.com/articles/s41558-026-02601-4) (open 
 The findings also got some media attention: 
 
 - [Göteborgs-Posten](https://www.gp.se/nyheter/sverige/stormig-vinter-fick-antarktis-havsis-att-smalta.44645e36-e9a6-5870-8a9d-0b104c04b0c4) (in Swedish) 
+- [GU Press Release](https://www.gu.se/en/news/rapid-melting-of-antarctic-sea-ice-largely-driven-by-ocean-warming)
+- [AWI Press Release](https://www.awi.de/en/about-us/service/press/single-view/ozeanerwaermung-laesst-antarktisches-meereis-schmelzen.html)
