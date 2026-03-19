@@ -9,13 +9,28 @@ author_profile: true
 #   caption: "Credit: Hector Torres @ JPL-NASA"
 ---
   
-# About me
+# About
 
-I am a physical oceanographer in the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper) at the University of Gothenburg. My research group and I are interested in the physical processes that govern the exchange of heat, moisture, and carbon dioxide between the atmosphere, ocean surface, and deep ocean. We focus on how ocean dynamics of scales 1-100 km and rapdily evolving atmospheric weather systems control the exchange of these climate-critical properties across the air-sea interface and into the ocean interior. Our goal is to advance our understanding of the factors that regulate our changing climate.
+I am a physical oceanographer at the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. I lead a research team interested in the physical processes governing the exchange of heat, moisture, and carbon dioxide between the ocean and atmosphere. We focus on how ocean dynamics of scales 1-100 km and rapdily evolving atmospheric weather systems control the exchange of these climate-critical properties across the air-sea interface and into the ocean interior. Our goal is to advance our understanding of the factors that regulate our changing climate.
 
 Our research is supported by a Swedish Research Council Establishment Grant (2025-2028), an ERC Starting Grant (SOFIA, 2026-2031), and a Carl Tryggers Foundation Equipment Grant (2026-2028). You can read more about our newly funded [SOFIA project](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function) and the [Swedish Research Council project](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty). Please get in touch if you are interested in collaborating or joining our team.
 
 <!-- I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, -->
+
+## Recent Updates
+
+<ul class="recent-posts">
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small><br>
+      <small>{{ post.excerpt | markdownify }}</small>
+    </li>
+  {% endfor %}
+</ul>
+
+## Research interests
+`Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
 ## My Approach
 
@@ -51,18 +66,3 @@ For the SOFIA project, we will explore new modelling capabilities by examining t
     <p style="text-align: center; font-size: 0.7rem;">A visualization of strong polar winds interacting with a highly dynamic and energetic ocean surface. Source: Hector Torres @ JPL-NASA</p>
   </div>
 </div>
-
-## Recent Updates
-
-<ul class="recent-posts">
-  {% for post in site.posts limit:3 %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
-      <small>{{ post.date | date: "%Y-%m-%d" }}</small><br>
-      <small>{{ post.excerpt | markdownify }}</small>
-    </li>
-  {% endfor %}
-</ul>
-
-## Research interests
-`Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`

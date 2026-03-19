@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publication on cause for major Antarctic sea ice decline"
-date: 2026-02-25
+date: 2026-03-19
 tags: 
   - publications
   - media
