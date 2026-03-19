@@ -15,5 +15,8 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/cv_marcel_duplessis.pdf" width="830" height="900" type="application/pdf">
+<p>Updated 12 January 2026.</p>
+<br>
+
+<embed src="{{ site.baseurl }}/files/cv_marcel_duplessis.pdf" width="900" height="900" type="application/pdf">
 
