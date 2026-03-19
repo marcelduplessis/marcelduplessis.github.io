@@ -328,6 +328,75 @@
 }
 
 
+/* collapsed state when greedy nav cannot show all links */
+.greedy-nav.collapsed {
+  justify-content: flex-start;
+
+  button {
+    position: fixed;
+    left: 1rem;
+    top: 1rem;
+    right: auto;
+  }
+
+  .visible-links {
+    display: none !important;
+  }
+
+    .hidden-links {
+      display: block !important;
+      position: absolute;
+      left: 0;
+      right: auto;
+      min-width: 180px;
+      width: auto;
+      max-width: calc(100vw - 1rem);
+      margin-top: 0.5rem;
+      li, a {
+        display: block !important;
+        visibility: visible !important;
+        overflow: visible !important;
+        clip: auto !important;
+        height: auto !important;
+        padding: 0.5em 1em !important;
+      }
+  }
+}
+
+/* Fallback style if greedy nav shows/keeps the hamburger button */
+.greedy-nav button:not(.hidden) {
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  right: auto;
+}
+
+.greedy-nav button:not(.hidden) ~ .visible-links,
+.greedy-nav button:not(.hidden) + .visible-links {
+  display: none !important;
+}
+
+.greedy-nav button:not(.hidden) ~ .hidden-links,
+.greedy-nav button:not(.hidden) + .hidden-links {
+  position: absolute;
+  left: 0;
+  right: auto;
+  min-width: 180px;
+  width: auto;
+  max-width: calc(100vw - 1rem);
+  margin-top: 0.75rem;
+}
+
+.masthead__menu.collapsed,
+.masthead__menu .greedy-nav button:not(.hidden) {
+  border: none;
+}
+
+.masthead__menu.collapsed {
+  border: none;
+}
+
+
 /*
    Navigation list
    ========================================================================== */
