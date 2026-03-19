@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Carl Tryggers Grant Awarded"
 date: 2025-11-15
 tags: 

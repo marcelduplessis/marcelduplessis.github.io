@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Blog on storms and autonomous ocean robotics"
 date: 2025-12-12
 tags: 

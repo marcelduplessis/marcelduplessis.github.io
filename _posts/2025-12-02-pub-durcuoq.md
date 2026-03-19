@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "New Publication in Nature Communications"
 date: 2025-12-02
 tags: 

@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Publication on cause for major Antarctic sea ice decline"
 date: 2026-02-25
 tags: 
@@ -13,6 +14,24 @@ Recent PhD graduate **Theo Spira's** 2nd PhD chapter has just been published in 
     <img src="/images/theo-paper.png" alt="theo-paper" style="width: 100%; height: auto;">
   </a>
 </div>
+
+<br>
+
+**Between 2015 and 2017, Antarctic sea ice took a dramatic turn — plunging from record highs to record lows in just a couple of years. Climate models still can’t fully capture what caused such a rapid shift.**
+
+In Theo's study, we analyzed around 110,000 ocean measurements from beneath the icy surface of the Southern Ocean to explore how ocean changes may have played a part.
+
+Our results show a clear story unfolding below the surface:
+
+1. For nearly a decade, from 2005 to 2015, a key cold layer known as Antarctic Winter Water gradually thinned. This weakened the barrier separating the chilly surface from the warmer waters below. As a result, that deep heat crept upward, quietly setting the stage for change.
+
+2. Then, in 2015, unusually strong winds stirred the ocean, mixing warm water toward the surface and melting large areas of sea ice.
+
+3. Since then, the link between sea ice, the sea surface, and deeper warm layers has strengthened — helping to sustain the lower sea ice levels we see today.
+
+In short, the evidence points to a two-step process: a long-term ocean buildup followed by a short, powerful atmospheric trigger.
+
+These findings highlight that what happens below the surface can have major consequences above it. There’s still plenty to learn — especially about cause and effect — but this work sheds new light on the ocean’s hidden role in Antarctica’s sudden sea ice decline.
 
 Find the paper [here](https://www.nature.com/articles/s41558-026-02601-4) (open access): 
 
