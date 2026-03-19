@@ -47,7 +47,7 @@ redirect_from:
       <br><br>
       Privately, he enjoys quality time with friends and family, whether that means enjoying
       good music and fine dining or playing board games. He is also an avid traveller who
-      enjoys exploring new cultures and seeking out new adventures.
+      enjoys exploring new cultures and seeking out new adventures. Johan is co-supervised by Seb Swart (GU) and myself.
     </p>
   </div>
 </div>
@@ -77,7 +77,7 @@ redirect_from:
       <br><br>
       Outside of work, Vincent is passionate about music, both as a listener and a guitar player.
       In the warmer months, he explores nature looking for wildlife with his camera, while winter
-      finds him at his computer playing video games.
+      finds him at his computer playing video games. Vincent is co-supervised by Seb Swart (GU) and myself, with his current chapter focusing on SO-CHIC glider data in collaboration with Alex Brearley (BAS) and Tasha Lucas (Bangor).
     </p>
   </div>
 </div>
@@ -106,7 +106,7 @@ redirect_from:
       and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous
       glider observations and satellite altimetry.
       <br><br>
-      Outside of her studies, she loves diving and enjoys climbing and spending time with friends.
+      Outside of her studies, she loves diving and enjoys climbing and spending time with friends. Lovisa is co-supervied by Seb Swart (GU) and Elisa Carli (ESA), and recently spent 1.5 months visitng Elisa in Frascati.
     </p>
   </div>
 </div>
@@ -130,9 +130,7 @@ redirect_from:
   <div style="flex: 0 0 75%;">
     <h3 style="margin-top: 0;">Julia Noack (PhD)</h3>
     <p style="text-align: left; font-size: 0.9rem;">
-      Julia is working with the COAS model simulation as part
-      of the SOFIA project, with the goal to reveal the regional and seasonal hotspots of
-      fine-scale dynamics driven ventilation.
+      Julia is working with the COAS model simulation as part of the SOFIA project, with the goal to reveal the regional and seasonal hotspots of fine-scale dynamics driven ventilation. Julia began her PhD in March 2026 and will be co-supervised by Seb Swart (GU) and Elisa Carli (ESA).
     </p>
   </div>
 </div>
@@ -158,7 +156,7 @@ redirect_from:
     <p style="text-align: left; font-size: 0.9rem;">
       Starting April 2026 ... Paula will focus on the link between Southern Ocean air-sea
       interactions and submesoscale dynamics. Her PhD will contribute to the VR project
-      understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange.
+      understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange. Paula will be supervised by Seb Swart (GU) and myself, and co-supervised by Sarah Nicholson (SOCCO) and Channing Prend (U. of Edinburgh).
     </p>
   </div>
 </div>
@@ -189,7 +187,7 @@ redirect_from:
       <br><br>
       When she’s not working, Neha can usually be found chasing sunsets and taking photos
       whenever the light is just right. She also enjoys dancing and spending time with friends,
-      especially when there’s good music and good energy.
+      especially when there’s good music and good energy. Neha is supervised by Tammy Morris and Juliet Hermes (SAEON), with myself and Seb Swart as co-supervisors. 
     </p>
   </div>
 </div>
