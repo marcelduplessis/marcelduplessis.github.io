@@ -23,7 +23,7 @@ redirect_from:
     <img src="/images/vr.png" alt="erc" style="width: 100%; max-width: 260px; height: 150px; object-fit: contain;">
   </div>
   <div class="photo-frame" style="flex: 1; text-align: center;">
-    <img src="/images/petrel.JPG" alt="petrel" style="width: 100%; height: auto;">
+    <img src="/images/vr-img.png" alt="vr-img" style="width: 100%; height: auto;">
   </div>
   <div class="logo" style="flex: 1; text-align: center;">
     <img src="/images/gu-logo2.png" alt="gu" style="width: 100%; max-width: 260px; height: 150px; object-fit: contain;">
@@ -43,3 +43,4 @@ redirect_from:
 <p>Finally, we’ll use what we learn to <strong>improve the models that simulate heat and carbon exchange between the ocean and atmosphere</strong>. By reducing uncertainty in how we represent these processes, we hope to strengthen future weather forecasts and global climate projections — and highlight the growing power of autonomous ocean observing systems.</p>
 
 <h2>The below is a list of output of the different work packages, including scientific pulications and collected datasets:</h2>
+

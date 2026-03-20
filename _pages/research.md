@@ -112,14 +112,14 @@ I have recieved several grants and awards that support my research, with a total
   <div style="flex: 0 0 260px; max-width: 300px; display: flex; flex-direction: column; align-items: top; center; gap: 1rem;">
   
   <div class="photo-frame" style="flex: 1; text-align: center;">
-      <img src="/images/vr-img.png" alt="vr-img" style="width: 100%; max-width: 350px;">
+      <img src="/images/uwnd-so.png" alt="vr-img" style="width: 100%; max-width: 350px;">
   </div>
     
   <div class="logo" style="text-align: center;">
       <img src="/images/vr.png" alt="vr" style="width: 80%; max-width: 250px;">
   </div>
 
-  <a href="https://marcelduplessis.github.io/vt/" class="btn" style="margin-top: 1rem;">
+  <a href="https://marcelduplessis.github.io/vr/" class="btn" style="margin-top: 1rem;">
       READ MORE
     </a>
   </div>
