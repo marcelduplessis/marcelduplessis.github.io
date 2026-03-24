@@ -17,7 +17,7 @@ Our research is supported by a Swedish Research Council Establishment Grant (202
 
 <!-- I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, -->
 
-## Recent Updates
+## News
 
 <ul class="recent-posts">
   {% for post in site.posts limit:3 %}

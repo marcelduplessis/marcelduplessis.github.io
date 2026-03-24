@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication on cause for major Antarctic sea ice decline"
+title: "Publication (and some media attention) on cause for major Antarctic sea ice decline"
 date: 2026-03-19
 tags: 
   - publications
@@ -35,9 +35,10 @@ These findings highlight that what happens below the surface can have major cons
 
 Find the paper [here](https://www.nature.com/articles/s41558-026-02601-4) (open access): 
 
-The findings also got some media attention: 
+**The findings also got some media attention:**
 
-- [New Scientist - Warmer ocean is driving the Antarctic sea ice 'regime shift'](https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/)
-- [Göteborgs-Posten](https://www.gp.se/nyheter/sverige/stormig-vinter-fick-antarktis-havsis-att-smalta.44645e36-e9a6-5870-8a9d-0b104c04b0c4) (in Swedish) 
+- [New Scientist article - Warmer ocean is driving the Antarctic sea ice 'regime shift'](https://www.newscientist.com/article/2520281-warmer-ocean-is-driving-the-antarctic-sea-ice-regime-shift/)
+- [Sverigesradio news segment (in Swedish) - Stormar vände utvecklingen för Antarktis vinteris](https://www.sverigesradio.se/artikel/stormar-vande-utvecklingen-for-antarktis-vinteris)
+- [Göteborgs-Posten article - Stormig vinter fick Antarktis havsis att smälta](https://www.gp.se/nyheter/sverige/stormig-vinter-fick-antarktis-havsis-att-smalta.44645e36-e9a6-5870-8a9d-0b104c04b0c4) (in Swedish) 
 - [GU Press Release](https://www.gu.se/en/news/rapid-melting-of-antarctic-sea-ice-largely-driven-by-ocean-warming)
 - [AWI Press Release](https://www.awi.de/en/about-us/service/press/single-view/ozeanerwaermung-laesst-antarktisches-meereis-schmelzen.html)
