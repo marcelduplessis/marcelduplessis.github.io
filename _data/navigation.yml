@@ -26,11 +26,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Updates"
+    url: /updates/    
+
   - title: "Community"
     url: /community/
-
-  - title: "Updates"
-    url: /updates/
 
   - title: "Fieldwork"
     url: /fieldwork/    
