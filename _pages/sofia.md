@@ -10,11 +10,24 @@ redirect_from:
 #   ove
 ---
 
+<div class="team-row" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1.0rem;
+">
+  <div class="logo" style="flex: 1; text-align: center;">
+    <img src="/images/sofia.png" alt="sofia" style="width: 100%; max-width: 600px; height: 250px; object-fit: contain;">
+  </div>
+</div>
+
 <h1>Project description</h1>
 
-<p><strong>SOFIA stands for "Southern Ocean Fine-scale Interactions with the Atmosphere"</strong>. Our goal for this project is to quantify how heat moves between the atmosphere, the ocean surface, and the deep ocean in the Southern Ocean.</p>
+<p><strong>SOFIA stands for "Southern Ocean Fine-scale Interactions with the Atmosphere"</strong>. In SOFIA, our goal is to quantify how heat moves between the atmosphere, the ocean surface, and the deep ocean in the Southern Ocean.</p>
 
-<p>A strong motivation for this is that almost all (around 89%, <a href="https://essd.copernicus.org/articles/15/1675/2023/" target="_blank">ref.</a>) of the excess heat remaining in the Earth system due to human-made greenhouse gas emissions ends up in the ocean. Yet, there still exists large uncertainty into what regulates how fast this heat enters the ocean, inhibiting our understanding of future changes in ocean heat storage, sea level, and climate risks.</p>
+<p>A strong motivation for this is that almost all (around 89%, <a href="https://essd.copernicus.org/articles/15/1675/2023/" target="_blank">ref.</a>) of the excess heat in the Earth system due to human-made greenhouse gas emissions ends up in the ocean. Yet, there still exists large uncertainty into what regulates how fast this heat enters the ocean, inhibiting our understanding of future changes in ocean heat storage, sea level, and climate risks.</p>
 
 <p>The Southern Ocean is the project’s natural focus. It acts like a vast heat sponge, taking up the majority of the global ocean’s extra heat. Yet, current climate models can disagree by several tens of percent in their Southern Ocean heat uptake, largely because they cannot fully resolve the intense winds, sharp fronts, eddies, and turbulent motions that dominate these waters.</p>
 
@@ -109,7 +122,7 @@ You can read more about SOFIA <a href="https://cordis.europa.eu/project/id/10122
 
 <h1>Impact</h1>
 
-SOFIA strives to have impact beyond research output. We hope to provide more reliable projections of ocean heat uptake, sea level rise, and regional climate change that inform adaptation planning. Additionally, we strive for an improved scientific basis for international climate assessments and policy processes that rely on robust ocean heat estimates. We have a strong focus on training early‑career scientists in autonomous ocean observing, high‑resolution modelling, and open science practices, while developing public‑facing outreach material that explain the Southern Ocean’s role in buffering climate change.
+While high-quality research output is our primary objective, SOFIA strives to have impact beyond this. We hope to contribute to improved reliability in projection of ocean heat uptake, sea level rise, and climate change. We also strive for an improved scientific basis for international climate assessments and policy processes that rely on robust ocean heat estimates. We have a strong focus on training early‑career scientists in autonomous ocean observing, high‑resolution modelling, and open science practices, while developing public‑facing outreach material that explain the Southern Ocean’s role in buffering climate change.
 <br><br>
 <hr>
 
