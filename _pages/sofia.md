@@ -12,20 +12,17 @@ redirect_from:
 
 <h1>Project description</h1>
 
-<p><strong>SOFIA stands for "Southern Ocean Fine-scale Interactions with the Atmosphere". Our primary goal is to uncover and quantify how storms and fine-scale ocean structures move heat between the atmosphere, the ocean surface, and the deep ocean in the Southern Ocean.</strong> 
+<p><strong>SOFIA stands for "Southern Ocean Fine-scale Interactions with the Atmosphere"</strong>. Our goal for this project is to quantify how heat moves between the atmosphere, the ocean surface, and the deep ocean in the Southern Ocean.</p>
 
-We do this by asking two central questions: 
+<p>A strong motivation for this is that almost all (around 89%, <a href="https://essd.copernicus.org/articles/15/1675/2023/" target="_blank">ref.</a>) of the excess heat remaining in the Earth system due to human-made greenhouse gas emissions ends up in the ocean. Yet, there still exists large uncertainty into what regulates how fast this heat enters the ocean, inhibiting our understanding of future changes in ocean heat storage, sea level, and climate risks.</p>
 
-1. How do powerful storms control the exchange of heat between air and sea? 
-2. How do swirling ocean fronts, eddies, and narrow filaments carry that heat into the ocean interior?</p>
+<p>The Southern Ocean is the project’s natural focus. It acts like a vast heat sponge, taking up the majority of the global ocean’s extra heat. Yet, current climate models can disagree by several tens of percent in their Southern Ocean heat uptake, largely because they cannot fully resolve the intense winds, sharp fronts, eddies, and turbulent motions that dominate these waters.</p>
 
-<p>These questions matter because almost all (around 93%) of the excess heat from human-made greenhouse gas emissions ends up in the ocean. SOFIA aims to identify what regulates this heat uptake so that future changes in ocean heat storage, sea level, and climate risks can be better understood and predicted.</p>
+<p>To tackle these challenges, SOFIA combines high‑resolution coupled ocean–atmosphere simulations with new in‑situ observations collected by autonomous robotic platforms operating in some of the most remote parts of the planet. The project also exploits data from ESA’s Surface Water and Ocean Topography (SWOT) satellite to map vertical ocean motion and fine‑scale features across the entire Southern Ocean.</p>
 
-<p>The Southern Ocean is the project’s natural focus. It acts like a vast heat sponge, taking up the majority of the global ocean’s extra heat, yet scientists still struggle to agree on how and why this region is so effective at absorbing it. Current climate models can disagree by several tens of percent in their Southern Ocean heat uptake, largely because they cannot fully resolve the intense winds, sharp fronts, eddies, and turbulent motions that dominate these waters.</p>
+<p>We hope to build a clearer and more predictive understanding of how the ocean regulates Earth’s climate — knowledge that is essential for improving future climate projections, informing international climate assessments, and supporting robust adaptation and mitigation strategies.</p>
 
-<p>To tackle these challenges, SOFIA combines <strong>high‑resolution coupled ocean–atmosphere simulations</strong> with new in‑situ observations collected by <strong>autonomous robotic platforms</strong> operating in some of the most remote parts of the planet. The project also exploits data from ESA’s <strong>Surface Water and Ocean Topography (SWOT) satellite</strong> to map vertical ocean motion and fine‑scale features across the entire Southern Ocean.</p>
-
-<p>Together, these efforts build a clearer and more predictive understanding of how the ocean regulates Earth’s climate — knowledge that is essential for improving future climate projections, informing international climate assessments, and supporting robust adaptation and mitigation strategies.</p>
+You can read more about SOFIA <a href="https://cordis.europa.eu/project/id/101222617" target="_blank">here</a>.
 
 <br>
 
@@ -76,7 +73,7 @@ We do this by asking two central questions:
   </div>
 
   <div style="flex: 0 0 75%;">
-    <h3 style="margin-top: 0;">WP2 – Fine‑scale ocean heat pathways</h3>
+    <h3 style="margin-top: 0;">Work Package 2 – Fine‑scale ocean heat pathways</h3>
     <p style="text-align: left; font-size: 0.9rem;">
       Our goal for WP2 is to identify the dominant processes that link storms, fronts, and fine-scale vertical motions to changes in air–sea heat exchange and ocean heat uptake. To do this, we will make use of new autonomous technologies that simultaneously observe the upper ocean, the air–sea interface, and the lower atmosphere at high resolution. These new observations will take place as part of the <a href="https://www.polar.se/en/research-support/polar-research-process/theme-antarctica/theme-pulse-of-the-weddell-sea/" target="_blank">Pulse of the Weddell Sea Expedition</a> in late 2027. <br><br>
 
@@ -96,7 +93,7 @@ We do this by asking two central questions:
   </div>
 
   <div style="flex: 0 0 75%;">
-    <h3 style="margin-top: 0;">WP3 – From process understanding to prediction</h3>
+    <h3 style="margin-top: 0;">Work Package 3 – From process understanding to prediction</h3>
     <p style="text-align: left; font-size: 0.9rem;">
       In WP3, we aim to assess how the fine-scale vertical heat transport that we investigate in WP1-2 varies around the entire Southern Ocean, scaling up the detailed process-level insights to a circumpolar view. Our key tool is to use the SWOT wide-swath altimetry, linking fine-scale ocean surface features with vertical ocean heat transport. <br><br>
       
@@ -107,16 +104,6 @@ We do this by asking two central questions:
 </div>
 
 <br>
-
-<h1>Key deliverables</h1>
-
-<ul>
-  <li>New multi‑platform Southern Ocean datasets combining autonomous vehicles, ship measurements, reanalyses, and satellite observations.</li>
-  <li>High‑resolution coupled ocean–atmosphere simulations that resolve storms, fronts, and eddies in key Southern Ocean regions.</li>
-  <li>Improved parameterizations of air–sea fluxes and fine‑scale mixing for use in climate and Earth system models.</li>
-  <li>Open‑access tools and visualisations that allow scientists, students, and stakeholders to explore Southern Ocean heat uptake.</li>
-  <li>Peer‑reviewed publications and contributions to international assessments on ocean heat content and climate change.</li>
-</ul>
 
 <br>
 
