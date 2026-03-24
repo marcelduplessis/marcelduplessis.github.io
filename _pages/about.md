@@ -32,12 +32,9 @@ Our research is supported by a Swedish Research Council Establishment Grant (202
 ## Research interests
 `Air-sea interactions`; `Submesoscale dynamics`; `Mid-latitude cylones`; `Ocean heat and CO2 uptake`; `Autonomous ocean observations`
 
-## My Approach
+## Our Approach
 
-Our key approach is to integrate observations from autonomous ocean robots, research vessels, and satellites with high-resolution coupled models and state-of-the-art reanalysis products provided by global weather centers.
-
-**In situ ocean and atmosphere observations** \\
-Much of our research uses measurements of ocean and atmosphere variables taken from autonomous ocean platforms such as profiling gliders and floats, surface uncrewed vehicles, and research vessels. This allows us to study the high-frequency nature of ocean and atmospheric variability, and their interactions and implicitons for air-sea exchange. 
+**Observing ocean variability** at small scales and across vast regions requires an integration of various ocean observing capabilities. For this, we use use mix of autonomous ocean robotics such as profiling gliders and floats, and surface uncrewed vehicles.
 
 <div class="gallery">
   <img src="images/seaglider.jpg" alt="SG">
@@ -47,12 +44,13 @@ Much of our research uses measurements of ocean and atmosphere variables taken f
   <br>
 </div>
 
-The above pictures show the autonomous platforms we use in our research, including the Seaglider (top left), Wave Glider (bottom right), and Sailbuoy (top left). The top right picture illustrates a fundamnetally important tool used for ocean research: the CTD. This photo was taken during the SO-CHIC Southern Ocean field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
+The above pictures show the autonomous platforms we use in our research, including the Seaglider (top left), Wave Glider (bottom right), and Sailbuoy (bottom left). The top right picture illustrates a fundamnetally important tool used for ocean research: the CTD, taken during the SO-CHIC Southern Ocean field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
 
 I have been fortunate to be able to deploy these autonomous platforms far out into the ocean on [several research expiditions](https://marcelduplessis.github.io/fieldwork/), with my first experience to the Southern Ocean and Antarctica during my honours year at the University of Cape Town. To date I have participated in seven research expeditions on several world class vessels. I am hugely grateful to those who have provided the opportunity for me to build my career as a sea going oceanographer.
 
-**3D Modelling** \\
-For the SOFIA project, we will explore new modelling capabilities by examining the [Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that we hope will reveal the role of high-frequency processes in shaping ocean heat uptake.
+Then, we compliment and upscale these in-stiu observations using a blend of satellite observations, high-resolution coupled models and state-of-the-art reanalysis products provided by global weather centers. 
+
+For instance, in SOFIA project we will explore new modelling capabilities by examining the [Coupled Ocean-Atmosphere Simulation with Kilometer-Scale Resolution](https://www.nas.nasa.gov/SC21/research/project16.html) hosted by JPL-NASA. This is a unique, first-of-its-kind simulation in its resolution that we hope will reveal the role of high-frequency processes in shaping ocean heat uptake.
 
 <div class="team-row" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1.0rem;">
   <div class="team-member" style="flex: 1 1 250px; text-align: center;">
