@@ -191,6 +191,8 @@ redirect_from:
   
 </div>
 
+<br>
+
 <!-- Daniel -->
 <div class="team-row" style="display: flex; gap: 1.5rem; margin-top: 1rem; align-items: flex-start;">
   <div style="flex: 0 0 25%; text-align: center;">
