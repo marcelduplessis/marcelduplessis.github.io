@@ -154,9 +154,7 @@ redirect_from:
   <div style="flex: 0 0 75%;">
     <h3 style="margin-top: 0;">Paula Damke (PhD)</h3>
     <p style="text-align: left; font-size: 0.9rem;">
-      Starting April 2026 ... Paula will focus on the link between Southern Ocean air-sea
-      interactions and submesoscale dynamics. Her PhD will contribute to the VR project
-      understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange. Paula will be supervised by Seb Swart (GU) and myself, and co-supervised by Sarah Nicholson (SOCCO) and Channing Prend (U. of Edinburgh).
+      Paula's focus is on the link between Southern Ocean air-sea interactions and submesoscale dynamics. Her PhD will contribute to the VR project understanding storm-impacts on Southern Ocean air-sea heat and carbon exchange. Paula will be supervised by Seb Swart (GU) and myself, and co-supervised by Sarah Nicholson (SOCCO) and Channing Prend (U. of Edinburgh).
     </p>
   </div>
 </div>
@@ -190,6 +188,32 @@ redirect_from:
       especially when there’s good music and good energy. Neha is supervised by Tammy Morris and Juliet Hermes (SAEON), with myself and Seb Swart as co-supervisors. 
     </p>
   </div>
+  
+</div>
+
+<!-- Daniel -->
+<div class="team-row" style="display: flex; gap: 1.5rem; margin-top: 1rem; align-items: flex-start;">
+  <div style="flex: 0 0 25%; text-align: center;">
+    <img src="/images/daniel.JPG" alt="Daniel" style="
+      width: 100%;
+      max-width: 220px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 1px solid #ccc;
+      padding: 4px;
+      box-sizing: border-box;
+    ">
+  </div>
+
+  <div style="flex: 0 0 75%;">
+    <h3 style="margin-top: 0;">Daniel Classen (MSc)</h3>
+    <p style="text-align: left; font-size: 0.9rem;">
+      Daniel's primary interest is in extreme weather events and its effect on the water column mixing dynamics. He is doing a one-year masters project with myself and collaborators Louise Biddle and Martin Mohrmann from Voice of the Ocean Foundation. His focus is on storms in the Baltic Sea and looking at related vertical mixing and its implications on the vertical structure of oxygen and other biogeochemical properties. 
+      <br><br>
+      Outside of his studies, Daniel enjoys being outside in nature, hanging out with friends, or doing some kind of water sport. Swimming, water polo, diving. Anything related to water really. 
+    </p>
+  </div>
+  
 </div>
 
 <br>
