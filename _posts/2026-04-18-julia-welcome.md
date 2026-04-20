@@ -24,7 +24,7 @@ Welcome to the Polar Glider's Research Team, Julia!
   <h2>What Julia will be working on</h2>
 
   <p>
-    Within SOFIA, Julia will analyse the high‑resolution COAS coupled ocean–atmosphere simulation, which uses the MITgcm ocean model coupled to the GEOS atmosphere at around 25 km ocean and 7 km atmospheric grid spacing. These simulations resolve much of the submesoscale variability in the Southern Ocean, providing a unique laboratory for studying small‑scale processes that are not represented in standard climate models.
+    Within SOFIA, Julia will analyse the high‑resolution COAS coupled ocean–atmosphere simulation, which uses the MITgcm ocean model coupled to the GEOS atmosphere at around 2-5 km ocean and 7 km atmospheric grid spacing. These simulations resolve much of the submesoscale variability in the Southern Ocean, providing a unique laboratory for studying small‑scale processes that are not represented in standard climate models.
   </p>
 
   <p>
@@ -44,11 +44,11 @@ Welcome to the Polar Glider's Research Team, Julia!
   <h2>From Greenland fjords to the Southern Ocean</h2>
 
   <p>
-    Julia’s move from Greenlandic fjords to the Southern Ocean reflects a consistent interest in polar ocean dynamics and cryosphere–ocean coupling. In her Master’s thesis, she quantified melt‑driven circulation and submarine glacier melt using both observations and model simulations, highlighting how small‑scale processes shape heat delivery to glacier fronts.
+    Julia’s move from Greenlandic fjords to the Southern Ocean reflects a consistent interest in polar ocean dynamics and cryosphere–ocean coupling. In her Master’s thesis, she examined observations of the melt‑driven circulation and submarine glacier melt, linking the observed water characteristics to melt processes at the base of the floating ice tongue of the glacier (where there is no data available) and to fjord circulation by analysing the model simulations, highlighting how small‑scale processes shape heat delivery to glacier fronts.
   </p>
 
   <p>
-    Many of the same questions; how heat is transported from the surface to depth, how fine‑scale circulation regulates that transport, and how this influences the climate system, now reappear in her PhD, but at the scale of the circumpolar Southern Ocean.
+    Similar concepts now reappear in her PhD; how can we best combine state-of-the-art model capabilities with limited observations to learn about how heat moves within the ocean. The big difference is that now she will be looking at the scale of the circumpolar Southern Ocean. 
   </p>
 
   <h2>Why this PhD excites her</h2>
