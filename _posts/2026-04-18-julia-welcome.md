@@ -44,7 +44,7 @@ Welcome to the Polar Glider's Research Team, Julia!
   <h2>From Greenland fjords to the Southern Ocean</h2>
 
   <p>
-    Julia’s move from Greenlandic fjords to the Southern Ocean reflects a consistent interest in polar ocean dynamics and cryosphere–ocean coupling. In her Master’s thesis, she examined observations of the melt‑driven circulation and submarine glacier melt, linking the observed water characteristics to melt processes at the base of the floating ice tongue of the glacier (where there is no data available) and to fjord circulation by analysing the model simulations, highlighting how small‑scale processes shape heat delivery to glacier fronts.
+    Julia’s move from Greenlandic fjords to the Southern Ocean reflects a consistent interest in polar ocean dynamics and cryosphere–ocean coupling. In her Master’s thesis, she examined observational data with regard to submarine glacier melting, linking the observed water characteristics in the fjord to melt processes at the base of the floating ice tongue of the glacier and to the fjord circulation by analysing model simulations, and highlighting mechanisms influencing the heat delivery to the ice-ocean interface and thus melting.
   </p>
 
   <p>
