@@ -17,6 +17,16 @@ Our research is supported by a Swedish Research Council Establishment Grant (202
 
 <!-- I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, -->
 
+## We are hiring!
+
+We are looking for a highly motivated and curious **Data Coordinator** to join our team and help facilitate our ocean research through improved data management of our unique observational datasets. This will be a 3-year full-time position. The application closes 20 June 2026. For more information, click below. 
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1rem; align-items: flex-start;">
+
+  <a href="https://web103.reachmee.com/ext/I005/1035/job?site=6&lang=SE&validator=3038fcf1516ea1184a6da70a891f87da&job_id=p40140" class="btn" style="margin-top: 0.5rem;">Apply here</a>
+
+</div>
+
 ## News
 
 <ul class="recent-posts">
