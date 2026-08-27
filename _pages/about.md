@@ -9,23 +9,28 @@ author_profile: true
 #   caption: "Credit: Hector Torres @ JPL-NASA"
 ---
   
-# About
+# Welcome
 
-I am a physical oceanographer at the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. I lead a research team interested in the physical processes governing the exchange of heat, moisture, and carbon dioxide between the ocean and atmosphere. We focus on how ocean dynamics of scales 1-100 km and rapdily evolving atmospheric weather systems control the exchange of these climate-critical properties across the air-sea interface and into the ocean interior. Our goal is to advance our understanding of the factors that regulate our changing climate.
+I'm a physical oceanographer at the [Department of Marine Sciences](https://www.gu.se/en/marina-vetenskaper), University of Gothenburg. My research focuses on the physical processes governing the exchange of heat, moisture, and carbon dioxide between the ocean and atmosphere. I work with a team of talented and hard working people, with a goal to advance our understanding of the ocean's role in our climate. Specifically, we focus on how ocean dynamics, ranging from microscale turbulence to mesoscale dynamics, interact with rapdily evolving atmospheric weather systems to control the transfer of climate-critical properties across the air-sea interface and into the ocean interior. 
 
-Our research is supported by a Swedish Research Council Establishment Grant (2025-2028), an ERC Starting Grant (SOFIA, 2026-2031), and a Carl Tryggers Foundation Equipment Grant (2026-2028). You can read more about our newly funded [SOFIA project](https://marcelduplessis.github.io/sofia/) and the [Swedish Research Council project](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty). Please get in touch if you are interested in collaborating or joining our team.
+**My research is supported by several ongoing projects, including:**
+
+- Vetenskapsrådet Strategic Recruitment Funding (2026-2031)
+- European Research Council Starting Grant (SOFIA, 2026-2031)
+- Carl Tryggers Foundation Equipment Grant (2026-2028)
+- SYNCHRONY (2026-2030)
+
+Read more about the [SOFIA project](https://marcelduplessis.github.io/sofia/) and the [Swedish Research Council project](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty). 
 
 <!-- I completed my PhD in physical oceanography at the University of Cape Town and Southern Ocean Carbon Climate Observatory, followed by a Marie Skłodowska-Curie Fellowship in Sweden that focused on autonomous observations and air–sea exchange in the Southern Ocean. Now, -->
 
-## We are hiring!
+## Interested in joining us?
 
-We are looking for a highly motivated and curious **Data Coordinator** to join our team and help facilitate our ocean research through improved data management of our unique observational datasets. This will be a 3-year full-time position. The application closes 20 June 2026. For more information, click below. 
+Please get in touch if you are interested in collaborating or joining our team. We are always open for motivated and curious people. We have several upcoming opportunities:
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1rem; align-items: flex-start;">
-
-  <a href="https://web103.reachmee.com/ext/I005/1035/job?site=6&lang=SE&validator=3038fcf1516ea1184a6da70a891f87da&job_id=p40140" class="btn" style="margin-top: 0.5rem;">Apply here</a>
-
-</div>
+- We plan to open two Postdoc positions within the SOFIA project starting early-to-mid 2027. 
+- For student bachelors and masters research projects, please get in touch.
+- I’m happy to support fellowship applications, such as the [Marie Skłodowska-Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), [VR International Postdoc](https://www.vr.se/english/applying-for-funding/calls/2025-11-11-international-postdoc-within-natural-and-engineering-sciences-spring-call.html) (17/02 deadline), and [Carl Tryggers Postdoc](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/) (14/05 deadline). Reach out to discuss project options.
 
 ## News
 
@@ -50,11 +55,13 @@ We are looking for a highly motivated and curious **Data Coordinator** to join o
   <img src="images/seaglider.jpg" alt="SG">
   <img src="images/ctd.jpg" alt="CTD">
   <img src="images/sailbuoy.jpeg" alt="SB">
-  <img src="images/wave-glider.jpg" alt="WG">
+  <img src="images/xspar-marion2.jpg" alt="WG">
+  <br>
   <br>
 </div>
 
-The above pictures show the autonomous platforms we use in our research, including the Seaglider (top left), Wave Glider (bottom right), and Sailbuoy (bottom left). The top right picture illustrates a fundamnetally important tool used for ocean research: the CTD, taken during the SO-CHIC Southern Ocean field campaign. Photo credits: Louise Biddle (Seaglider) and Pedro Monteiro (Wave Glider), Timo Hecken (Sailbuoy).
+
+**Autonomous platforms support our research.** Seaglider (top left), X-Spar (bottom right), and Sailbuoy (bottom left). The top right picture illustrates a fundamnetally important tool used for ocean research: the CTD, taken during the SO-CHIC Southern Ocean field campaign. Photo credits: Louise Biddle (Seaglider) and Emerick Missud (X-Spar), Timo Hecken (Sailbuoy).
 
 I have been fortunate to be able to deploy these autonomous platforms far out into the ocean on [several research expiditions](https://marcelduplessis.github.io/fieldwork/), with my first experience to the Southern Ocean and Antarctica during my honours year at the University of Cape Town. To date I have participated in seven research expeditions on several world class vessels. I am hugely grateful to those who have provided the opportunity for me to build my career as a sea going oceanographer.
 

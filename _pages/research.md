@@ -13,44 +13,39 @@ redirect_from:
 # Research
 ---
 
-<br>
-
-<div class="team-row" style="display: flex; gap: 1.5rem; margin-top: 1rem; align-items: flex-start;">
-
-  <div style="flex: 0 0 75%;">
-    <h3 style="margin-top: 0;">Fine-scale ocean dynamics</h3>
-    <p style="text-align: left; font-size: 0.9rem;">
-      My research is primarily centered on fine-scale ocean dynamics, in particular the energetic fronts, filaments, and submesoscale eddies that are ubiquitous in the upper ocean, especially in the stormy Southern Ocean. These features are typically only a few to tens of kilometers wide, but they can extend hundreds of kilometers in length and penetrate hundreds of meters deep, where they stir and overturn water masses, sharpen density gradients, and drive vigorous vertical motions. When they do so, they strongly modulate air–sea exchanges of heat, moisture, and carbon dioxide, imprinting the passage of storms on the upper ocean and shaping the structure and variability of the ocean mixed layer.
-      
-      <br><br>
-
-      Fine-scale fronts and filaments are numerous, collectively influencing how efficiently the ocean takes up anthropogenic heat and CO2, and how that uptake is distributed in space and depth. Biases in the representation of these small-scale processes in climate models can therefore lead to errors in simulated stratification, mixed-layer depth, and air–sea fluxes, with knock-on effects for large-scale ocean circulation and climate projections. To better understand and constrain these dynamics, I combine multi-platform observations from autonomous ocean robotics, research vessels, and satellites with high-resolution coupled models and boundary-layer frameworks.
-    </p>
-  </div>
-
-  <div class="photo-frame" style="flex: 0 0 25%;">
-    <img src="/images/sms_schematic.png" alt="sms-schematic" style="width: 100%; height: auto;">
-  </div>
-
-</div>
+Our research aims to uncover small-scale ocean dynamics and their interactions with the atmosphere so that we can better understand our Earth system, and the role of unseen processes on the changing climate. 
 
 <br>
 
-<div class="team-row" style="display: flex; gap: 1.5rem; margin-top: 1rem; align-items: flex-start;">
-  <div class="photo-frame" style="flex: 0 0 30%;">
-    <img src="/images/storm-so.png" alt="sms-schematic" style="width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 5rem; margin-top: 1rem; align-items: flex-start;">
+
+  <div style="flex: 1 1 200px; min-width: 0; text-align: center;">
+    <a href="/fine-scale-dynamics/">
+      <img src="/images/spiral-eddies.jpeg" alt="sms-schematic" style="width: 100%; height: auto; border-radius: 6px;">
+    </a>
+    <h3 style="margin-top: 1rem;">
+      <a href="/fine-scale-dynamics/">Ocean fine-scale dynamics</a>
+    </h3>
   </div>
 
-  <div style="flex: 0 0 70%;">
-    <h3 style="margin-top: 0;">Storm dynamics</h3>
-    <p style="text-align: left; font-size: 0.9rem;">
-      My research also focuses on storm dynamics, particularly how extratropical storms in the Southern Ocean mix and ventilate the upper few hundred meters of the ocean. As storms pass, their intense winds, rain, and rapidly evolving atmospheric fronts drive strong turbulent mixing, deepen the mixed layer, and tilt and sharpen ocean fronts, leaving behind vertical and lateral structure that can persist long after the weather has moved on. These episodic events strongly modulate air–sea exchanges of heat and carbon dioxide, imprinting high-frequency variability on fluxes that can integrate over seasons to influence the net uptake of anthropogenic heat and CO2 by the Southern Ocean.
-
-      <br><br>
-      
-      Storm systems are frequent and energetic, especially in the high-latitude Southern Ocean, playing a disproportionate role in setting the seasonal cycle of upper-ocean stratification, sea-surface temperature, and surface CO2. Biases in how storms and their associated mixing are represented in models can therefore translate into errors in simulated air–sea fluxes and climate feedbacks. To investigate these processes, I combine targeted storm-following observations from autonomous platforms such as gliders and Wave Gliders with ship-based measurements, satellites, and mixed-layer and boundary-layer models that resolve the coupled evolution of storms and the ocean beneath them.
-    </p>
+  <div style="flex: 1 1 200px; min-width: 0; text-align: center;">
+    <a href="/air-sea-interactions/">
+      <img src="/images/airsea.jpg" alt="storm-so" style="width: 100%; height: auto; border-radius: 6px;">
+    </a>
+    <h3 style="margin-top: 1rem;">
+      <a href="/air-sea-interactions/">Air-sea interactions</a>
+    </h3>
   </div>
+
+  <div style="flex: 1 1 200px; min-width: 0; text-align: center;">
+    <a href="/antarctic-sea-ice/">
+      <img src="/images/sea-ice-square.jpg" alt="sea-ice" style="width: 100%; height: auto; border-radius: 6px;">
+    </a>
+    <h3 style="margin-top: 1rem;">
+      <a href="/sea-ice-antarctica/">Antarctic sea-ice processes</a>
+    </h3>
+  </div>  
+
 </div>
 
 <br>
@@ -58,12 +53,11 @@ redirect_from:
 # Current projects
 ---
 
-I have recieved several grants and awards that support my research, with a total value of 40 million SEK. My ongoing projects include:
-
-
-- European Research Council (ERC) Starting Grant [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), 2026-2031.
-- Vetenskapsrådet (VR) Establishment Grant: [Storm impacts on Southern Ocean heat and CO2 uptake uncertainty](https://www.gu.se/en/research/how-understanding-storms-reduces-southern-ocean-heat-and-co2-uptake-uncertainty), 2025-2028.
-- Carl Tryggers Foundation Grant: [Observing and quantifying the effects of atmospheric storms on air-sea heat exchange](https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/), 2026-2028.
+- European Research Council (ERC) Starting Grant [Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)](https://www.gu.se/en/news/erc-starting-grant-to-research-on-southern-oceans-critical-climate-function), 2026-2031
+- Vetenskapsrådet Strategic Funding: The Southern Ocean as Earth's Thermostat: Driving Forces, Variability, and Predictability, 2026-2031
+- Carl Tryggers Foundation Grant: Observing and quantifying the effects of atmospheric storms on air-sea heat exchange, 2026-2028
+- Synchronous Southern Ocean Observatory (SYNCHRONY, Horizon Europe), 2026-2030
+- WHIRLS, The impacts of ocean fine-scale whirls on climate and ecosystems, 2024-2030
 
 <br><br>
 
@@ -74,10 +68,6 @@ I have recieved several grants and awards that support my research, with a total
 
   <div class="logo" style="text-align: center;">
     <img src="/images/sofia.png" alt="sofia" style="width: 100%; max-width: 350px;">
-  </div>
-
-  <div class="logo" style="text-align: center;">
-    <img src="/images/erc.png" alt="erc" style="width: 80%; max-width: 250px;">
   </div>
 
   <a href="https://marcelduplessis.github.io/sofia/" class="btn" style="margin-top: 0.5rem;">
@@ -91,11 +81,11 @@ I have recieved several grants and awards that support my research, with a total
   <h2 style="margin-top: 0;">Southern Ocean Fine-Scale Interactions with the Atmosphere (SOFIA)</h2>
 
   <a href="https://erc.europa.eu/apply-grant/starting-grant">European Research Council Starting Grant</a> under Horizon Europe, 2026-2031<br>
-  <strong>Funding:</strong> 2.5m € + 3.75m SEK as GU co-financing
+  <strong>Funding:</strong> 30.5 million SEK
 
-  <p>The SOFIA project aims to uncover the key physical processes that move heat between the atmosphere, the ocean surface, and the deep ocean in the stormy Southern Ocean. My research explores two main questions: how powerful storms drive the exchange of heat between air and sea, and how swirling ocean fronts, eddies, and narrow filaments transport that heat into the ocean interior.</p>
+  <p>The SOFIA project explores two main questions: how powerful storms drive the exchange of heat between air and sea, and how swirling ocean fronts, eddies, and narrow filaments transport that heat into the ocean interior.</p>
 
-  <p>To tackle these challenges, I combine cutting-edge coupled ocean-atmosphere simulations with new in-situ observations collected by autonomous robotic platforms in one of the most remote parts of the planet. I also use data from ESA’s Surface Water and Ocean Topography (SWOT) satellite to map vertical ocean motion across the entire Southern Ocean.</p>
+  <p>To answer these questions, we combine cutting-edge coupled ocean-atmosphere simulations with new in-situ observations collected by autonomous robotic platforms in one of the most remote parts of the planet. We will also take advantage of ESA’s Surface Water and Ocean Topography (SWOT) satellite to map vertical ocean motion across the entire Southern Ocean.</p>
 
   <p>Together, these efforts will build a clearer and more predictive understanding of how the ocean regulates Earth’s climate — knowledge that’s essential for improving future climate projections.</p>
 

@@ -84,35 +84,6 @@ redirect_from:
 
 <br>
 
-<!-- Lovisa -->
-<div class="team-row" style="display: flex; gap: 1.5rem; margin-top: 1rem; align-items: flex-start;">
-  <div style="flex: 0 0 25%; text-align: center;">
-    <img src="/images/lovisa.jpeg" alt="Lovisa" style="
-      width: 100%;
-      max-width: 220px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 1px solid #ccc;
-      padding: 4px;
-      box-sizing: border-box;
-    ">
-  </div>
-
-  <div style="flex: 0 0 75%;">
-    <h3 style="margin-top: 0;">Lovisa Sunnercrantz (MSc)</h3>
-    <p style="text-align: left; font-size: 0.9rem;">
-      Lovisa is a masters student in Physical Oceanography at the University of Gothenburg.
-      She is doing her one-year masters thesis with us focusing on estimating vertical velocities
-      and vertical exchange at meso- to submesoscale fronts in the Cape Basin, using autonomous
-      glider observations and satellite altimetry.
-      <br><br>
-      Outside of her studies, she loves diving and enjoys climbing and spending time with friends. Lovisa is co-supervied by Seb Swart (GU) and Elisa Carli (ESA), and recently spent 1.5 months visitng Elisa in Frascati.
-    </p>
-  </div>
-</div>
-
-<br>
-
 <!-- Julia -->
 <div class="team-row" style="display: flex; gap: 1.5rem; margin-top: 1rem; align-items: flex-start;">
   <div style="flex: 0 0 25%; text-align: center;">
@@ -224,16 +195,18 @@ redirect_from:
 ---
 
 ## PhD GRADUATES:
-**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017). 
+**Theo Spira** (University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Alex Haumann (AWI). Thesis: [*Antarctic Winter Water: its role in Southern Ocean dynamics and sea ice variability*](https://gupea.ub.gu.se/handle/2077/88832). Publications: [1] [Observed Spatiotemporal Variability of Antarctic Winter Water](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021017), [2] [Wind-triggered Antarctic sea ice decline preconditioned by thinning Winter Water](https://doi.org/10.1038/s41558-026-02601-4). 
 
 ## MASTERS:
-**Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Kathy Donohue (URI). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). 
+**Lovisa Sunnercrantz** (M.Sc. Oceanography, University of Gothenburg, 2026). Supervised with Prof. Sebastiaan Swart (GU) and Dr. Elisa Carli (ESA). Thesis: [*Observation-based estimates of vertical velocities and vertical heat transport in the Cape Basin*](https://drive.google.com/file/d/1KUIui1oLnM75vAtK4jwZQfZt9UrgncgH/view?usp=sharing). 
+
+**Renske Koets** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart (GU), main collaborator Prof. Kathy Donohue (URI). Thesis: [*Vertical circulation in the Cape Cauldron using Apparent Oxygen Utilization*](https://drive.google.com/file/d/1-lTPztVAWnn7To0waB7hdGqdkv127Ojq/view?usp=sharing). Publication: [Observations of tracer ventilation in the Cape Basin, Agulhas Current Retroflection](https://os.copernicus.org/articles/22/209/2026/)
 
 **Gonzalo Ruiz** (M.Sc. Oceanography, University of Gothenburg, 2025). Supervised with Prof. Sebastiaan Swart, main collaborator Dr. Sarah Nicholson (SOCCO, CSIR). Thesis: [*Drivers of CO2 variability in the Cape Cauldron using Wave Glider data*](https://drive.google.com/file/d/14WFwpTgTkj6Oc5l6BfeM0IbmQISKNzA6/view?usp=sharing). 
 
 **Michaela Edwinson** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Prof. Sebastiaan Swart (GU). Thesis: [*Drivers of Air-sea heat flux in the Cape Basin*.](https://drive.google.com/file/d/1r2tCWApb5wiI1r_W-N_nyrWq0D2Kk3bV/view?usp=sharing) 
 
-**Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). Thesis: [*Time and space variability of air-sea heat fluxes in the Amundsen Sea*](https://drive.google.com/file/d/1LiKoGV6pL5yHxWeyPfCcJ1jZjFmprXbD/view?usp=sharing). Publication: [Jacob et al. 2025](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. 
+**Blandine Jacobs** (M.Sc. Oceanography, University of Gothenburg, 2024). Supervised with Dr. Bastien Queste (GU). Thesis: [*Time and space variability of air-sea heat fluxes in the Amundsen Sea*](https://drive.google.com/file/d/1LiKoGV6pL5yHxWeyPfCcJ1jZjFmprXbD/view?usp=sharing). Publication: [Turbulent heat flux dynamics along the Dotson and Getz ice-shelf fronts (Amundsen Sea, Antarctica)](https://os.copernicus.org/articles/21/359/2025/). Thesis awarded as 2nd best Marine Science masteers thesis in Sweden. 
 
 **Bongiwe Jojo** (M.Sc. University of Cape Town, 2024) Supervised with: Dr. Sarah Nicholson (SOCCO/CSIR). Thesis: [*Understanding the interannual variability of pCO2 in the sea-ice impacted the Southern Ocean*](https://drive.google.com/file/d/1ky_YR5nrEjIvkbB2-AyvL4qzaNe6s2Zt/view?usp=sharing).
 
